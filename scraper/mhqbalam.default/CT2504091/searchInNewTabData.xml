@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NEWTAB>
+  <SCRIPT>var actionUrl='http://search.conduit.com/ResultsExt.aspx?ctid=CT2504091&amp;q=MYSEARCHTERM&amp;SearchSource=15'; var txtSearchTermID='bing_query';
+
+    var ScriptHelper = {
+
+        GetBrowser: function() {
+            var bVersion = "";
+
+            if (!window.ActiveXObject)
+                bVersion = "FF";
+            else
+                bVersion = "IE";
+
+            return bVersion;
+        },
+        NotifyClose: function() {
+            if(typeof activeXProgID == 'undefined')
+                return;
+            if (ScriptHelper.GetBrowser() == "IE") {
+			var objProxy = new ActiveXObject(activeXProgID);
+			if (objProxy)
+			    objProxy.executeapifunction(["CloseSearchInNewTab"]);			
+            }
+        }
+
+    };
+    function closeFrame() {
+        var frm = document.getElementById('searchPane');
+        frm.style.display = 'none';
+        ScriptHelper.NotifyClose();
+    }
+    function Search() {
+        var _txtSearchTermID = document.getElementById(txtSearchTermID);
+        actionUrl = actionUrl.replace("MYSEARCHTERM", escape(_txtSearchTermID.value));
+        location.href = actionUrl;
+    }
+
+   
+    function kprsSend(evt) {
+        if (!evt &amp;&amp; window.event) evt = window.event;
+        if (evt.keyCode == 13) {
+            Search();
+        }
+        else if (evt.keyCode == 27) {
+            closeFloat();
+        }
+        
+
+    }
+
+    function closeFloat() {
+        var floater = document.getElementById('floater');
+        floater.style.display = 'none';
+    }
+    function showFloat() {
+        var floater = document.getElementById('floater');
+        floater.style.display = 'block';
+    }
+    function focusText() {
+            var txtBox = document.getElementById(txtSearchTermID);
+            if (txtBox)
+                txtBox.focus();
+        }
+    document.body.onkeypress = kprsSend;
+    
+</SCRIPT>
+  <HTML>&lt;div id="searchPane"&gt;&lt;form id="frmSearch" style="margin-top: 15px;" onsubmit="return false;" action="return false;"&gt;&lt;style type="text/css"&gt;.SearchTerm{color: #5e6365;border: 1px #868A8C solid;width: 300px;}.hrs{color: #5e6365;background-color: #5e6365;height: 1px;}.PoweredBy{font-family: Verdana;font-size: 9px;color: #3e4243;padding-top: 10px;}.Hints{padding: 20 0 0 15;width: 550px;color: #5E5D67;line-height: 17px;text-align: left;font-family: Verdana;font-size: 11px;}.inputBut{width: 80px;}#bing_search{position: relative;width: 580px;zoom: 1;overflow: hidden;}#bing_search fieldset{background: white;position: relative;border: 1px solid #E5E5E5;padding: 2px;margin: 0 10px 0 10px;display: -moz-inline-stack;display: inline-block;vertical-align: middle;zoom: 1; *display:inline;}#bing_search fieldset input{display: -moz-inline-stack;display: inline-block;vertical-align: middle;zoom: 1; *display:inline;}input#bing_query{width: 400px;border: none;height: 27px;font-family: Arial,Sans-Serif;font-size: 16px;line-height:21px;}input#bing_submit{width: 27px;height: 27px;border: none;cursor: pointer;}#bing_icon_submit{width: 90px;height: 35px;background: navy;display: -moz-inline-stack;display: inline-block;vertical-align: middle;zoom: 1; *display:inline;cursor:pointer;border:none;padding:0;}#secondary_submit_wrapper{margin: 9px 0 0;text-align: center;width: 430px;}#bing_submit_secondary{cursor: pointer;width: 98px;height: 26px;}&lt;/style&gt;&lt;div style="border-bottom: solid 2px #CAD3E9; padding-bottom: 12px; position: relative;overflow: visible;"&gt;&lt;div id="leftDiv" style="float: left; padding: 5px 15px 0px 15px;"&gt;&lt;a href="http://storage.conduit.com/91/250/CT2504091/Images/634013493010463750.gif"&gt;&lt;img src="http://storage.conduit.com/91/250/CT2504091/Images/633820122725725000.gif" style="border-width:0px;" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div id="rightDiv" style="float: right; font-family: Arial; font-size: 11px; vertical-align: top; padding: 0px 15px 0px 15px"&gt;&lt;a href="javascript:showFloat()"&gt;Remove&lt;/a&gt;&lt;/div&gt;&lt;div id="bing_search"&gt;&lt;fieldset&gt;&lt;input name="bing_query" type="text" id="bing_query" title="Search for" maxlength="2048" autocomplete="off" /&gt;&lt;input name="bing_submit" type="button" id="bing_submit" onclick="Search(); return false;" title="Search" style="background:url('http://storage.conduit.com/Images/Search/homepage/bm.png') repeat scroll 0 #E66400;" /&gt;&lt;/fieldset&gt;&lt;input name="bing_icon_submit" type="button" id="bing_icon_submit" onclick="Search(); return false;" style="background:url('http://storage.conduit.com/images/Client/Search/bing_bluelogo_24p.png');" /&gt;&lt;div id="secondary_submit_wrapper"&gt;&lt;input name="bing_submit_secondary" type="button" id="bing_submit_secondary" value="Search" onclick="Search(); return false;" title="search by Bing" /&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id="floater" style="font-family:Verdana;width:320px;z-index:100;position:absolute;top:15px;display:none;border:outset 2px #F2F0F2;right:10px;background-color:White;font-size:10px;"&gt;&lt;div onclick="closeFloat()" style="text-align: right; padding: 3px 3px 0px 0px; font-family: Arial;font-size: 10.5px; vertical-align: top; cursor: pointer;"&gt;X&lt;/div&gt;&lt;div style="font-weight: bold; text-align: center"&gt;Remove the Search Box on New Tabs&lt;/div&gt;&lt;div style="text-align: center; padding: 3px;"&gt;This handy search opens each time you open a new browser tab. You can always remove it using your Community Toolbar's Toolbar Options window.  &lt;br /&gt;
+Are you sure you want to remove this option now?&lt;/div&gt;&lt;div style="text-align: center; padding: 5px"&gt;&lt;input name="OkButton" type="button" id="OkButton" class="inputBut" value="OK" onclick="closeFrame()" /&gt;&lt;input name="CancelButton" type="button" id="CancelButton" class="inputBut" onclick="closeFloat()" value="Cancel" /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+</HTML>
+</NEWTAB>
