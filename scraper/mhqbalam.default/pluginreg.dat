@@ -1,0 +1,279 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.17:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+Scorch.plugin:$
+/Library/Internet Plug-Ins/Scorch.plugin:$
+6.0.2:$
+1245333343000:0:0:0:$
+Plugin for viewing Sibelius(tm) music scores <a href=http://www.sibelius.com>http://www.sibelius.com</a>:$
+Sibelius Scorch:$
+1
+0:application/x-sibelius-score:Sibelius Score:sib,sco:$
+Musicnotes.plugin:$
+/Library/Internet Plug-Ins/Musicnotes.plugin:$
+1.17.3:$
+1246051152000:0:0:0:$
+Musicnotes Viewer plugin 1.17.3 <a href=http://www.musicnotes.com>http://www.musicnotes.com</a>:$
+Musicnotes:$
+1
+0:application/x-musicnotes:Musicnotes:mtd,mgt:$
+OfficeLiveBrowserPlugin.plugin:$
+/Library/Internet Plug-Ins/OfficeLiveBrowserPlugin.plugin:$
+12.2.3:$
+1256000273000:0:0:0:$
+Office Live Update v1.0:$
+Microsoft Office Live Plug-in:$
+1
+0:application/officelive:Office Live Update v1.0::$
+iPhotoPhotocast.plugin:$
+/Library/Internet Plug-Ins/iPhotoPhotocast.plugin:$
+7.0:$
+1340790250000:0:0:0:$
+iPhoto6:$
+iPhotoPhotocast:$
+1
+0:application/photo:iPhoto 700::$
+AmazonMP3DownloaderPlugin.plugin:$
+/Applications/Amazon MP3 Downloader.app/Contents/Resources/AmazonMP3DownloaderPlugin.plugin:$
+AmazonMP3DownloaderPlugin 1.0.17:$
+1355781843000:0:0:0:$
+Amazon MP3 Downloader Plugin 1.0.17:$
+AmazonMP3DownloaderPlugin:$
+1
+0:application/x-amz:Amazon MP3 Downloader Plugin 1.0.17::$
+Flip4Mac WMV Plugin.plugin:$
+/Library/Internet Plug-Ins/Flip4Mac WMV Plugin.plugin:$
+3.1.0.1:$
+1364577000000:0:0:0:$
+The Flip4Mac WMV Plugin allows you to view Windows Media content using QuickTime.:$
+Flip4Mac Windows Media Plugin:$
+13
+0:video/x-ms-asf:Windows Media Video:asf:$
+1:video/x-ms-asx:Windows Media Playlist:asx:$
+2:audio/x-ms-wax:Windows Media Playlist:wax:$
+3:application/x-ms-wmp:Windows Media Plugin::$
+4:video/x-ms-wmp:Windows Media Video:wmp:$
+5:application/x-mplayer2:Windows Media Plugin::$
+6:video/x-ms-wmx:Windows Media Playlist:wmx:$
+7:video/x-ms-wm:Windows Media Video:wm:$
+8:video/x-ms-wvx:Windows Media Playlist:wvx:$
+9:video/x-ms-wmv:Windows Media Video:wmv:$
+10:video/x-ms-asf-plugin:Windows Media Plugin::$
+11:audio/x-ms-wma:Windows Media Audio:wma:$
+12:application/asx:Windows Media Plugin::$
+DirectorShockwave.plugin:$
+/Library/Internet Plug-Ins/DirectorShockwave.plugin:$
+12.0.4r144:$
+1378295938000:0:0:0:$
+Adobe Shockwave for Director Netscape plug-in, version 12.0.4:$
+Shockwave for Director:$
+1
+0:application/x-director:Shockwave for Director:dcr,dir,dxr:$
+Silverlight.plugin:$
+/Library/Internet Plug-Ins/Silverlight.plugin:$
+5.1.30317.0:$
+1395108237000:0:0:0:$
+5.1.30317.0:$
+Silverlight Plug-In:$
+2
+0:application/x-silverlight:Microsoft Silverlight:xaml:$
+1:application/x-silverlight-2:Microsoft Silverlight:xaml:$
+Mathematica.plugin:$
+/Library/Internet Plug-Ins/Mathematica.plugin:$
+10.0.0:$
+1403999658000:0:0:0:$
+Enables the interaction of Mathematica content with the latest installed version of Mathematica.:$
+Wolfram Mathematica:$
+5
+0:application/vnd.wolfram.mathematica:Wolfram Mathematica Notebook:nb:$
+1:application/mathematica:Wolfram Mathematica Notebook:nb,nbp:$
+2:application/vnd.wolfram.cdf.text:Computable Document Format:cdf:$
+3:application/vnd.wolfram.cdf:Computable Document Format:cdf:$
+4:application/vnd.wolfram.player:Wolfram Mathematica Player Notebook:nbp:$
+VLC Plugin.plugin:$
+/Library/Internet Plug-Ins/VLC Plugin.plugin:$
+2.2.1:$
+1429042932000:0:0:0:$
+Copyright © 2002-2015 VLC authors and VideoLAN<BR><A HREF="http://www.videolan.org">http://www.videolan.org</A>:$
+VLC Web Plugin:$
+47
+0:application/mxf:MXF video:mxf:$
+1:application/x-vlc-plugin:VLC plugin:vlc:$
+2:video/x-flv:FLV video:flv:$
+3:application/mpeg4-iod:MPEG-4 video:mp4,mpg4:$
+4:video/ogg:Ogg video:ogv,ogm,ogg:$
+5:video/3gpp2:3GPP2 video:3g2,3gpp2:$
+6:audio/webm:Webm audio:webm:$
+7:video/x-ms-wma:Windows Media audio:wma:$
+8:audio/ogg:Ogg video:oga,opus:$
+9:audio/amr:AMR audio:amr:$
+10:audio/mpeg:MPEG audio:mp2,mp3,mpga,mpega:$
+11:audio/x-flac:FLAC audio:flac:$
+12:video/mp4:MPEG-4 video:mp4,mpg4:$
+13:audio/wav:WAV audio:wav,wv:$
+14:video/x-ms-wmv:Windows Media video:wmv:$
+15:audio/mp4:MPEG-4 audio:mp4,mpg4:$
+16:video/x-ms-asf-plugin:Windows Media video:asf,asx:$
+17:video/x-m4v:MPEG-4 video:m4v:$
+18:audio/x-wav:WAV audio:wav,wv:$
+19:video/flv:FLV video:flv,f4v:$
+20:video/x-mpeg:MPEG video:mpg,mpeg,m1v,mpeg1,mpeg2,mpe,m2v:$
+21:audio/x-realaudio:Real audio:ra:$
+22:video/3gpp:3GPP video:3gp,3gpp:$
+23:video/x-mpeg-system:MPEG video:mpg,mpeg,m1v,mpeg1,mpeg2,m2v,vob:$
+24:application/ogg:Ogg stream:ogg,ogm,spx:$
+25:video/x-matroska:MKV video:mkv,mks:$
+26:video/divx:DivX video:divx:$
+27:audio/x-mpeg:MPEG audio:mp2,mp3,mpga,mpega:$
+28:video/x-ms-wvx:Windows Media video:wvx:$
+29:video/x-ms-asf:Windows Media video:asf,asx:$
+30:video/mp2t:MPEG-2 Transport Stream:ts,m2ts,mts,mt2s:$
+31:audio/x-matroska:MKV audio:mka,mks:$
+32:application/x-matroska:MKV video:mkv,mks:$
+33:video/webm:Webm video:webm:$
+34:application/vnd.rn-realmedia:Real Media:rm,rmvb:$
+35:video/mpeg:MPEG video:mpg,mpeg,m1v,mpeg1,mpeg2,mpe,m2v:$
+36:audio/3gpp2:3GPP2 audio:3g2,3gpp2:$
+37:application/xspf+xml:XSPF playlist:xspf:$
+38:application/x-mplayer2:Windows Media plug-in::$
+39:application/mpeg4-muxcodetable:MPEG-4 video:mp4,mpg4:$
+40:application/x-ogg:Ogg stream:ogg,ogx,spx,ogm:$
+41:video/mpeg-system:MPEG video:mpg,mpeg,m1v,mpeg1,mpeg2,m2v,vob:$
+42:audio/x-mpegurl:M3U playlist:m3u,m3u8:$
+43:audio/3gpp:3GPP audio:3gp,3gpp:$
+44:application/x-google-vlc-plugin:Google VLC plug-in::$
+45:audio/x-m4a:MPEG-4 audio:m4a:$
+46:video/x-msvideo:AVI video:avi:$
+SharePointBrowserPlugin.plugin:$
+/Library/Internet Plug-Ins/SharePointBrowserPlugin.plugin:$
+14.5.3:$
+1435129200000:0:0:0:$
+Microsoft Office for Mac SharePoint Browser Plug-in:$
+SharePoint Browser Plug-in:$
+2
+0:application/x-sharepoint:Microsoft Office for Mac SharePoint Browser Plug-in::$
+1:application/x-sharepoint-protocolhandler:Microsoft Office for Mac Protocol Handler::$
+Default Browser.plugin:$
+/Library/Internet Plug-Ins/Default Browser.plugin:$
+601:$
+1449799652000:0:0:0:$
+Provides information about the default web browser:$
+Default Browser Helper:$
+1
+0:application/apple-default-browser:Provides information about the default web browser::$
+googletalkbrowserplugin.plugin:$
+/Library/Internet Plug-Ins/googletalkbrowserplugin.plugin:$
+5.41.3.0:$
+1449858085000:0:0:0:$
+Version 5.41.3.0:$
+Google Talk Plugin:$
+1
+0:application/googletalk:Google voice and video chat:googletalk:$
+o1dbrowserplugin.plugin:$
+/Library/Internet Plug-Ins/o1dbrowserplugin.plugin:$
+5.41.3.0:$
+1449858085000:0:0:0:$
+Version 5.41.3.0:$
+Google Talk Plugin Video Renderer:$
+1
+0:application/o1d:Google Talk Plugin Video Renderer:o1d:$
+AdobePDFViewerNPAPI.plugin:$
+/Library/Internet Plug-Ins/AdobePDFViewerNPAPI.plugin:$
+15.010.20056:$
+1450448168000:0:0:0:$
+Adobe® Acrobat® Plug-in for Web Browsers, Version 15.010.20056:$
+Adobe Acrobat NPAPI Plug-in, Version 15.010.20056:$
+8
+0:application/vnd.adobe.pdf:Acrobat Portable Document Format:pdf:$
+1:application/vnd.adobe.pdfxml:Acrobat XML Portable Document Format:pdfxml:$
+2:application/vnd.adobe.x-mars:Acrobat XML Portable Document Format:mars:$
+3:application/vnd.adobe.xdp+xml:XML Data Package:xdp:$
+4:application/vnd.fdf:Acrobat Forms Data Format:fdf:$
+5:application/vnd.adobe.xfd+xml:FormFlow99 Data File:xfd:$
+6:application/pdf:Acrobat Portable Document Format:pdf:$
+7:application/vnd.adobe.xfdf:Acrobat Forms Data Format in XML:xfdf:$
+Flash Player.plugin:$
+/Library/Internet Plug-Ins/Flash Player.plugin:$
+21.0.0.213:$
+1460101844000:0:0:0:$
+Shockwave Flash 21.0 r0:$
+Shockwave Flash:$
+2
+0:application/x-shockwave-flash:Shockwave Flash:swf:$
+1:application/futuresplash:FutureSplash Player:spl:$
+Picasa.plugin:$
+/Users/User/Library/Internet Plug-Ins/Picasa.plugin:$
+1.0:$
+1233194392000:0:0:0:$
+Picasa plugin.:$
+Picasa:$
+1
+0:application/x-picasa-detect:3.1:picasa:$
+fbplugin_1_0_3.plugin:$
+/Users/User/Library/Internet Plug-Ins/fbplugin_1_0_3.plugin:$
+1.0:$
+1267166322000:0:0:0:$
+:$
+:$
+1
+0:application/x-facebook-plugin_1_0_3:::$
+doubleTwistWebPlugin.bundle:$
+/Users/User/Library/Internet Plug-Ins/doubleTwistWebPlugin.bundle:$
+3:$
+1308141677000:0:0:0:$
+doubleTwist Web Plugin:$
+doubleTwist Web Plugin:$
+1
+0:application/x-vnd-doubletwist:doubleTwist Web Plugin::$
+CitrixOnlineWebDeploymentPlugin.plugin:$
+/Users/User/Library/Internet Plug-Ins/CitrixOnlineWebDeploymentPlugin.plugin:$
+1.0.105:$
+1366932480000:0:0:0:$
+Plugin that detects installed Citrix Online products (visit www.citrixonline.com).:$
+Citrix Online Web Deployment Plugin 1.0.0.105:$
+1
+0:application/x-col-application-detector:Citrix Online Application Detector::$
+Google Earth Web Plug-in.plugin:$
+/Users/User/Library/Internet Plug-Ins/Google Earth Web Plug-in.plugin:$
+7.1:$
+1381182475000:0:0:0:$
+The Google Earth Plugin allows you to view 3D imagery and terrain in your web browser.:$
+Google Earth Plug-in:$
+1
+0:application/geplugin:Google Earth browser plugin::$
+FacebookVideoCalling.webplugin:$
+/Users/User/Library/Application Support/Facebook/video/3.1.0.522/FacebookVideoCalling.webplugin:$
+3.1.0.522:$
+1406200978000:0:0:0:$
+Facebook Video Calling by Skype:$
+Facebook Video Calling Plugin :$
+1
+0:application/skypesdk-plugin:Facebook Video Calling plugin provided by Skype::$
+
+[INVALID]
+/Library/Internet Plug-Ins/flashplayer.xpt:$
+1459832039000:$
+/Library/Internet Plug-Ins/Mozillaplug.plugin:$
+1225203006000:$
+/Library/Internet Plug-Ins/iLokClientHelper.plugin:$
+1255015333000:$
+/Library/Internet Plug-Ins/iLok Client Helper Plugin:$
+1255330800000:$
+/Users/User/Library/Internet Plug-Ins/Unity Web Player.plugin:$
+1273296406000:$
+/Users/User/Library/Internet Plug-Ins/.GlobalPreferences.apple.plist:$
+1298523711000:$
+/Library/Internet Plug-Ins/AdobePDFViewer.plugin:$
+1450448168000:$
+/Library/Internet Plug-Ins/Disabled Plug-Ins:$
+1443653366000:$
+/Library/Internet Plug-Ins/Quartz Composer.webplugin:$
+1438399046000:$
+/Library/Internet Plug-Ins/SharePointWebKitPlugin.webplugin:$
+1435129200000:$
+/Library/Internet Plug-Ins/disabled:$
+1379140829000:$
