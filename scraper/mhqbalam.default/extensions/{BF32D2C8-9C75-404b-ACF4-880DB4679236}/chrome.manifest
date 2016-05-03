@@ -1,0 +1,4 @@
+skin	browser		MushroomKingdom 	jar:chrome/chrome.jar!/browser/
+skin	communicator	MushroomKingdom	        jar:chrome/chrome.jar!/communicator/
+skin	global		MushroomKingdom 	jar:chrome/chrome.jar!/global/
+skin	mozapps		MushroomKingdom	        jar:chrome/chrome.jar!/mozapps/
