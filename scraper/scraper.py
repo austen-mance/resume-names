@@ -16,9 +16,10 @@ from random import sample
 
 dataset = []
 
-# this seems to max out around 45 pages
+# this seems to max out around 45 pages for most job/city pairs
+# however, there are only 25 pages of Chicago clerical
 
-NUMBER_OF_PAGES = 5
+NUMBER_OF_PAGES = 26
 
 addresses = range(0,19)
 zipcodes = range(0,19)
@@ -26,7 +27,7 @@ resumes = range(0,8)
 colleges = range(0,4)
 firstnames = range(0,9)
 lastnames = range(0,9)
-urls = {"http://www.monster.com/jobs/search/Full-Time_8?q=sales&where=New-York__2c-NY&page=": ['New York', 'Sales'],"www.monster.com/jobs/search/Full-Time_8?q=sales&where=Chicago__2c-IL&page=": ['Chicago', 'Sales'], "http://www.monster.com/jobs/search/?q=sales&where=Los-Angeles__2C-CA&page=": ["Los Angeles", "Sales"],"www.monster.com/jobs/search/Full-Time_8?q=retail&where=Chicago__2c-IL&page=": ["Chicago", "Retail"],"http://www.monster.com/jobs/search/Full-Time_8?q=retail&where=New-York__2c-NY&page=": ["New York", "Retail"],"http://www.monster.com/jobs/search/?q=retail&where=Los-Angeles__2C-CA&page=":["Los Angeles", "Retail"]}
+urls = {"http://www.monster.com/jobs/search/Full-Time_8?q=sales&where=New-York__2c-NY&page=": ['New York', 'Sales'],"www.monster.com/jobs/search/Full-Time_8?q=sales&where=Chicago__2c-IL&page=": ['Chicago', 'Sales'], "http://www.monster.com/jobs/search/?q=sales&where=Los-Angeles__2C-CA&page=": ["Los Angeles", "Sales"],"http://www.monster.com/jobs/search/Full-Time_8?q=clerical&where=Chicago__2c-IL&page=": ["Chicago", "Clerical"],"http://www.monster.com/jobs/search/Full-Time_8?q=clerical&where=New-York__2c-NY&page=": ["New York", "Clerical"],"http://www.monster.com/jobs/search/?q=clerical&where=Los-Angeles__2C-CA&page=":["Los Angeles", "Clerical"]}
 
 ##############################################################################
 #   Instantiating Extensions (fuck ads, even if I'm not looking at them)     #
@@ -92,6 +93,5 @@ with open('dataset.csv', 'wb') as output_file:
     	dict_writer.writerows(dataset)
     except UnicodeEncodeError:
 		pass
-
 
 
