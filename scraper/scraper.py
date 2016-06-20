@@ -62,6 +62,7 @@ for url in urls.keys():
 	        jobAttrs["company"] = elt.find("div", class_="company").get_text().encode('ascii','ignore')
 	        jobAttrs["location"] = elt.find("div", class_="location").get_text().encode('ascii','ignore')
 	        jobAttrs["preview"] = elt.find("div", class_="preview").get_text().encode('ascii','ignore')
+	        jobAttrs['full'] = str(elt)
 
 	        jobAttrs['colleges'] = sample(colleges,4)
 	        jobAttrs['firstnames'] = sample(firstnames,4)
