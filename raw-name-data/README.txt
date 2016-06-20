@@ -1,0 +1,1 @@
+This folder contains the STATA file used to process the California birth records, as well as the aggregate results themselves. They are organized such that for a triplet (first, last, race index) there is a vector of information, like expected income.

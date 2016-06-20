@@ -1,20 +1,20 @@
-4649 W Schubert Ave,60639
-2428 N Kilpatrick Ave,60639
-4728 N Hamlin Ave,60625
-4230 N Whipple St,60618
-1943 W Belle Plaine Ave,60613
-848 S Carpenter St,60607
-1348 W Washburne Ave,60608
-952 W Vernon Park Pl,60607
-1051 W Maxwell St,60608
-1454 S Emerald Ave,60607
-1612 W Estes Ave,60626
-1515 W Farwell Ave,60626
-1331 W Lunt Ave,60626
-6407 N Newgard Ave,60626
-1660 W Schreiber Ave,60626
-4511 S Karlov Ave,60632
-4842 S Lavergne Ave,60638
-4807 S Kilpatrick Ave,60632
-6332 S Lamon Ave,60638
-5155 S Massasoit Ave,60638
+4649 W Schubert Ave, Chicago, IL 60639
+2428 N Kilpatrick Ave, Chicago, IL 60639
+4728 N Hamlin Ave, Chicago, IL 60625
+4230 N Whipple St, Chicago, IL 60618
+1943 W Belle Plaine Ave, Chicago, IL 60613
+848 S Carpenter St, Chicago, IL 60607
+1348 W Washburne Ave, Chicago, IL 60608
+952 W Vernon Park Pl, Chicago, IL 60607
+1051 W Maxwell St, Chicago, IL 60608
+1454 S Emerald Ave, Chicago, IL 60607
+1612 W Estes Ave, Chicago, IL 60626
+1515 W Farwell Ave, Chicago, IL 60626
+1331 W Lunt Ave, Chicago, IL 60626
+6407 N Newgard Ave, Chicago, IL 60626
+1660 W Schreiber Ave, Chicago, IL 60626
+4511 S Karlov Ave, Chicago, IL 60632
+4842 S Lavergne Ave, Chicago, IL 60638
+4807 S Kilpatrick Ave, Chicago, IL 60632
+6332 S Lamon Ave, Chicago, IL 60638
+5155 S Massasoit Ave, Chicago, IL 60638
