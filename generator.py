@@ -164,7 +164,7 @@ def load_background_data(nametype, location):
         contact = open("bk-data/bm-contactdata.csv")
         reader = csv.reader(contact)
         l2 = list(reader)
-        
+
         data['phones'] = l2[0]
         data['passwords'] = l2[1]
         data['emails'] = l2[2]
@@ -177,7 +177,7 @@ def load_background_data(nametype, location):
         contact = open("bk-data/wm-contactdata.csv")
         reader = csv.reader(contact)
         l2 = list(reader)
-        
+
         data['phones'] = l2[0]
         data['passwords'] = l2[1]
         data['emails'] = l2[2]
@@ -190,7 +190,7 @@ def load_background_data(nametype, location):
         contact = open("bk-data/wm-contactdata.csv")
         reader = csv.reader(contact)
         l2 = list(reader)
-        
+
         data['phones'] = l2[0]
         data['passwords'] = l2[1]
         data['emails'] = l2[2]
@@ -212,7 +212,7 @@ def load_background_data(nametype, location):
     return data
 
 
-def get_one_app(selection,types,email):
+def get_one_app(selection, types, email):
 
     category = types['category']
 
@@ -254,7 +254,7 @@ def submit_applications(location, round=0):
     '''
 
     apps_to_submit = load_scraper_data() #grabs data from dataset
-    bk_data = [] 
+    bk_data = []
     bk_data.append(load_background_data("rb", location)) #grabs data for each type of name
     bk_data.append(load_background_data("pb", location))
     bk_data.append(load_background_data("rw", location))
@@ -262,18 +262,18 @@ def submit_applications(location, round=0):
 
 
 
-    for types in bk_data: 
+    for types in bk_data:
         password = random.choice(types['passwords'])  #grabs a random password
         email = random.choice(types['emails'])        #and a random email
 
         driver = login_to_acct(email, password)  #logs in with those details
 
         for elt in apps_to_submit: #for each app, iterate
-            info = get_one_app(elt, types, email) #grab application 
+            info = get_one_app(elt, types, email) #grab application
 
             update_resume(info) #update resume
             apply_to_job(driver, info) #apply
-            
+
         #logout here
 
     driver.close()
