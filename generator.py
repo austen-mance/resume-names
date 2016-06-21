@@ -37,7 +37,6 @@ def update_resume(elt, background_data):
 
     document.save('resume.docx')
 
-
 def login_to_acct(email, password):
     driver = webdriver.Firefox()
     driver.get("https://login.monster.com/Login/")
@@ -52,10 +51,9 @@ def login_to_acct(email, password):
     driver.find_element_by_id("Password").clear()
     driver.find_element_by_id("Password").send_keys(password)
 
-    submitbox = driver.find_element_by_id("signInContent").find_element_by_xpath("//input[@data-value='SIGN IN']").click()
+    submitbox = driver.find_element_by_id("btn-login").click()
 
     return driver
-
 
 def apply_to_job(driver, info):
     '''
@@ -111,7 +109,6 @@ def apply_to_job(driver, info):
     except:
         print "Application #-# failed for reason", sys.exc_info()[0]
         return 0
-
 
 def load_scraper_data():
     '''
@@ -211,7 +208,6 @@ def load_background_data(nametype, location):
         print "invalid location entered"
     return data
 
-
 def get_one_app(selection, types, email):
 
     category = types['category']
@@ -257,7 +253,7 @@ def submit_applications(location, round=0):
     bk_data = []
     bk_data.append(load_background_data("rb", location)) #grabs data for each type of name
     bk_data.append(load_background_data("pb", location))
-    bk_data.append(load_background_data("rw", location))
+    bk_data.append(load_background_data("rw", location)) #working
     bk_data.append(load_background_data("pw", location))
 
 
