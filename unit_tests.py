@@ -15,6 +15,7 @@ username = 'careerpath5498@gmail.com'
 
 info = get_one_app(apps_to_submit[0], bk_data[0], username) 
 
+info['resume'] = 3 #some number here
 
 update_resume(info)
 
