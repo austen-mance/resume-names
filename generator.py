@@ -39,21 +39,27 @@ def update_resume(elt, background_data):
 
 def login_to_acct(email, password):
     driver = webdriver.Firefox()
-    driver.get("https://login.monster.com/Login/")
 
-    time.sleep(3) #to avoid ratelimiters & make sure the page loaded
+    try:
+        driver.get("https://login.monster.com/Login/")
+
+        driver.find_element_by_id("EmailAddress").clear()
+        driver.find_element_by_id("EmailAddress").send_keys(email)
+        time.sleep( random.gauss(1, 0.3) )
+        driver.find_element_by_id("Password").clear()
+        driver.find_element_by_id("Password").send_keys(password)
+        submitbox = driver.find_element_by_id("btn-login").click()
+
+        time.sleep( random.gauss(2, 1) ) #to avoid ratelimiters & ensure loaded
+        return driver #if login is successful, pass driver to next fn
+
+
+    except:
+        print "login failed; page not loaded: ", sys.exc_info()[0]
+        return None #indicates that the login failed
+
 
     #Logging In
-    driver.find_element_by_id("EmailAddress").clear()
-    driver.find_element_by_id("EmailAddress").send_keys(email)
-    time.sleep(1)
-
-    driver.find_element_by_id("Password").clear()
-    driver.find_element_by_id("Password").send_keys(password)
-
-    submitbox = driver.find_element_by_id("btn-login").click()
-
-    return driver
 
 def apply_to_job(driver, info):
     '''
