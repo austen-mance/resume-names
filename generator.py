@@ -13,29 +13,40 @@ import random
 from docx import Document
 from selenium import webdriver
 
+#status:
+#update_resume
+#login_to_acct == working
+#apply_to_job
+#load_scraper_data == working
+#load_background_data == working
+#get_one_app ==working
+
 ##############################################################################
 #               The Helper Functions That Actually Do the Work               #
 ##############################################################################
 
 
-def update_resume(elt, background_data):
+def update_resume(info):
     '''
     This function takes our resumes as input and modifies them
     as necessary to fit the applicant's details.
     '''
-    resume = str(resume_num) + '.docx'
+    resume = str(info['resume']) + '.docx' #grabs file
 
-    document = Document(resume)
+    document = Document("clerical/" + resume) #opens it
 
-    for paragraph in document.paragraphs:
+    for paragraph in document.paragraphs: #replaces info appropriately
         if '{NAME}' in paragraph.text:
-            paragraph.text = "Bob Newbie"
+            paragraph.text = info['firstname'] + " " + info['lastname']
         if '{EMAILADDRESS}' in paragraph.text:
-            paragraph.text = 'Email: ' + email
+            paragraph.text = 'Email: ' + info['email']
+        if '{MAILADDRESS}' in paragraph.text:
+            paragraph.text = info['address'][0] + info['address'][1] + info['address'][2]
         if '{UNIVERSITY}' in paragraph.text:
-            paragraph.text = university
+            paragraph.text = info['college']
 
-    document.save('resume.docx')
+
+    document.save('resume.docx') #saves to standard file - note concurrency impossible!
 
 def login_to_acct(email, password):
     driver = webdriver.Firefox()
@@ -262,9 +273,7 @@ def submit_applications(location, round=0):
     bk_data.append(load_background_data("rw", location)) #working
     bk_data.append(load_background_data("pw", location))
 
-
-
-    for types in bk_data:
+    for types in bk_data: #lines 
         password = random.choice(types['passwords'])  #grabs a random password
         email = random.choice(types['emails'])        #and a random email
 
