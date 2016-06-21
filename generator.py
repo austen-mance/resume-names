@@ -171,6 +171,7 @@ def load_background_data(nametype, location):
     This function pulls out our background information from files: namely the names,
     addresses, zipcodes etc and saves them to a series of lists so they can be used by the main
     program.
+    (needs refactoring)
     '''
     data = {}
 
