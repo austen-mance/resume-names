@@ -6,23 +6,24 @@ the jobs in that group.
 
 import csv
 import time
-import string
 import sys
 import random
+import datetime
 
 from docx import Document
 from selenium import webdriver
 
 #status:
 #update_resume == working
-#login_to_acct == working
-#apply_to_job == 
+#login == working
+#logout == under construction
+#apply_to_job == under construction
 #load_scraper_data == working
 #load_background_data == working
 #get_one_app ==working
 
 ##############################################################################
-#               The Helper Functions That Actually Do the Work               #
+#               Application Functions (actually does the work)               #
 ##############################################################################
 
 
@@ -48,7 +49,12 @@ def update_resume(info):
 
     document.save('resume.docx') #saves to standard file - note concurrency impossible!
 
-def login_to_acct(email, password):
+def login(email, password, logfile, app_round):
+    '''
+    Login uses selenium to log into monster and creates a driver object
+    operated on by the other functions to submit applications.
+    Returns the driver on success, and None on errors (and logs the reason)
+    '''
     driver = webdriver.Firefox()
 
     try:
@@ -56,31 +62,43 @@ def login_to_acct(email, password):
 
         driver.find_element_by_id("EmailAddress").clear()
         driver.find_element_by_id("EmailAddress").send_keys(email)
-        time.sleep( random.gauss(1, 0.25) )
+        time.sleep(random.gauss(1, 0.25))
         driver.find_element_by_id("Password").clear()
         driver.find_element_by_id("Password").send_keys(password)
-        submitbox = driver.find_element_by_id("btn-login").click()
+        driver.find_element_by_id("btn-login").click()
 
-        time.sleep( random.gauss(2, 0.5) ) #to avoid ratelimiters & ensure loaded
+        time.sleep(random.gauss(2, 0.5)) #to avoid ratelimiters & ensure loaded
         return driver #if login is successful, pass driver to next fn
 
 
     except:
-        print "login failed; page not loaded: ", sys.exc_info()[0]
+        msg = str(app_round) + ", login failure: "
+        logfile.write(msg + str(sys.exc_info()[0]) + "\n")
         return None #indicates that the login failed
 
 
     #Logging In
 
-def apply_to_job(driver, info):
+def logout(driver, logfile, app_round):
+    '''
+    Logs out of monster. Returns 1 on success and 0 on error (and logs it)
+    '''
+    try:
+        driver.get("http://my.monster.com/Login/SignOut?fwr=true#")
+    except:
+        msg = str(app_round) + ", logout failure: "
+        logfile.write(msg + str(sys.exc_info()[0]) + "\n")
+        return 0
+    return 1
+
+def apply_to_job(driver, info, logfile, app_round):
     '''
     This code takes our information and uses it to submit applications
     '''
 
-
     #update information
     driver.get("http://my.monster.com/Profile/EditContactInformation?nav=1")
-    time.sleep( random.gauss(2, 0.35) )
+    time.sleep(random.gauss(2, 0.35))
 
     driver.find_element_by_id("FirstName").clear()
     driver.find_element_by_id("FirstName").send_keys(info['firstname'])
@@ -96,36 +114,35 @@ def apply_to_job(driver, info):
 
     driver.find_element_by_id("Phones_0__Number").clear()
     #driver.find_element_by_id("Phones_0__Number").send_keys("493-103-1033")
-
     driver.find_element_by_xpath("//input[@data-value='Save']").click()
 
-
-
     #apply for the job
-
     try:
         driver.get(info['link'])
-        time.sleep( random.gauss(2, 0.3) )
+        time.sleep(random.gauss(2, 0.3))
 
         driver.find_element_by_id("ctl01_hlApplyLink").click()
-        time.sleep( random.gauss(2, 0.3) )
+        time.sleep(random.gauss(2, 0.3))
 
         resumebox = driver.find_element_by_id("uploadedFile")
-        resumebox.send_keys("/Volumes/Data/code/resume-names/5.docx")
+        resumebox.send_keys("resume.docx")
 
         driver.find_element_by_id("resumeSearchable").click()
         driver.find_element_by_id("Diversity").click()
-        time.sleep( random.gauss(2, 0.25) )
+        time.sleep(random.gauss(2, 0.25))
         driver.find_element_by_id("rbAuthorizedYes0").click()
 
-    #driver.find_element_by_id("btnSubmit").click()
+        driver.find_element_by_id("btnSubmit").click()
 
-        time.sleep( random.gauss(3, 0.6) )
-        return 1 #returns 1 on success
+        #time.sleep(random.gauss(3, 0.6))
+        logfile.write(str(app_round) + ", ")
 
     except:
-        print "Application #-# failed for reason", sys.exc_info()[0]
+        msg = str(app_round) + ", Application " + str(app_round) + " failed: "
+        logfile.write(msg + str(sys.exc_info()[0]) + "\n")
         return 0
+
+    return 1
 
 def load_scraper_data():
     '''
@@ -161,56 +178,35 @@ def load_background_data(nametype, location):
         data['names'] = [line.strip().split(',') for line in open("names/names-pb.txt", 'r')]
         data['diverse'] = 1
         data['category'] = 0
-
         contact = open("bk-data/bm-contactdata.csv")
-        reader = csv.reader(contact)
-        l2 = list(reader)
-        
-        data['phones'] = l2[0]
-        data['passwords'] = l2[1]
-        data['emails'] = l2[2]
 
     elif nametype == "rb":
         data['names'] = [line.strip().split(',') for line in open("names/names-rb.txt", 'r')]
         data['diverse'] = 1
         data['category'] = 1
-
         contact = open("bk-data/bm-contactdata.csv")
-        reader = csv.reader(contact)
-        l2 = list(reader)
-
-        data['phones'] = l2[0]
-        data['passwords'] = l2[1]
-        data['emails'] = l2[2]
 
     elif nametype == "pw":
         data['names'] = [line.strip().split(',') for line in open("names/names-pw.txt", 'r')]
         data['diverse'] = 0
         data['category'] = 2
-
         contact = open("bk-data/wm-contactdata.csv")
-        reader = csv.reader(contact)
-        l2 = list(reader)
-
-        data['phones'] = l2[0]
-        data['passwords'] = l2[1]
-        data['emails'] = l2[2]
 
     elif nametype == "rw":
         data['names'] = [line.strip().split(',') for line in open("names/names-rw.txt", 'r')]
         data['diverse'] = 0
         data['category'] = 3
-
         contact = open("bk-data/wm-contactdata.csv")
-        reader = csv.reader(contact)
-        l2 = list(reader)
-
-        data['phones'] = l2[0]
-        data['passwords'] = l2[1]
-        data['emails'] = l2[2]
 
     else:
         print "invalid name type entered"
+
+    reader = csv.reader(contact)
+    reader_list = list(reader)
+
+    data['phones'] = reader_list[0]
+    data['passwords'] = reader_list[1]
+    data['emails'] = reader_list[2]
 
     if location == "CHI":
         data['addresses'] = [line.strip().split(',') for line in open("bk-data/chicago/add-zip.txt", 'r')]
@@ -226,7 +222,11 @@ def load_background_data(nametype, location):
     return data
 
 def get_one_app(selection, types, email):
-
+    '''
+    Fugly function that returns the data structure for a single application
+    after ingesting a group-structure.
+    (needs refactoring)
+    '''
     category = types['category']
 
     one_app = {}
@@ -247,11 +247,32 @@ def get_one_app(selection, types, email):
 
 
 ##############################################################################
+#                    Logging and Similar Helper Functions                    #
+##############################################################################
+#note that logfiles do NOT cover data loading
+#it must be manually managed
+
+def create_logfile():
+    '''
+    Small stub function that creates a timestamped logfile and returns it's object
+    '''
+    curr_seconds = str(time.time()).split(".")[0][-5:] #gets current seconds of day
+    logfile_id = str(datetime.date.today()) + "_" + curr_seconds
+
+    logfile = open("logfile_"+ logfile_id + ".txt", "w")
+    logfile.write("this is the logfile for application submissions on" + logfile_id + "\n")
+    logfile.write("================================================================\n")
+
+    return logfile
+
+
+
+##############################################################################
 #                          The Application Itself                            #
 ##############################################################################
 
 
-def submit_applications(location, round=0):
+def submit_applications(location, app_round=0):
     '''
     Our application code.
 
@@ -266,11 +287,7 @@ def submit_applications(location, round=0):
     This sets colleges/addresses, as with type.
     '''
 
-
-    text_file = open("Output.txt", "w")
-    text_file.write("Purchase Amount: %s" % TotalAmount)
-    text_file.close()
-
+    logfile = create_logfile() #creates a logging file
 
     apps_to_submit = load_scraper_data() #grabs data from dataset
     bk_data = []
@@ -279,22 +296,21 @@ def submit_applications(location, round=0):
     bk_data.append(load_background_data("rw", location)) #working
     bk_data.append(load_background_data("pw", location))
 
-    for types in bk_data: #lines 
+    for types in bk_data: #lines
         password = random.choice(types['passwords'])  #grabs a random password
         email = random.choice(types['emails'])        #and a random email
 
-        driver = login_to_acct(email, password)  #logs in with those details
+        driver = login(email, password, logfile, app_round)  #logs in with those details
 
-        for elt in apps_to_submit: #for each app, iterate
-            info = get_one_app(elt, types, email) #grab application
+        if driver != None: #handles when login fails
+            for elt in apps_to_submit: #for each app, iterate
+                info = get_one_app(elt, types, email) #grab application
 
-            update_resume(info) #update resume
-            apply_to_job(driver, info) #apply
+                update_resume(info) #update resume
+                apply_to_job(driver, info, logfile, app_round) #apply
+                app_round = app_round + 1
 
-        #logout here
+        logout(driver, logfile, app_round)
 
     driver.close()
-
-
-
-"http://my.monster.com/Login/SignOut?fwr=true#"
+    logfile.close()
