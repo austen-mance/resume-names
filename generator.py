@@ -14,9 +14,9 @@ from docx import Document
 from selenium import webdriver
 
 #status:
-#update_resume
+#update_resume == working
 #login_to_acct == working
-#apply_to_job
+#apply_to_job == 
 #load_scraper_data == working
 #load_background_data == working
 #get_one_app ==working
@@ -56,12 +56,12 @@ def login_to_acct(email, password):
 
         driver.find_element_by_id("EmailAddress").clear()
         driver.find_element_by_id("EmailAddress").send_keys(email)
-        time.sleep( random.gauss(1, 0.3) )
+        time.sleep( random.gauss(1, 0.25) )
         driver.find_element_by_id("Password").clear()
         driver.find_element_by_id("Password").send_keys(password)
         submitbox = driver.find_element_by_id("btn-login").click()
 
-        time.sleep( random.gauss(2, 1) ) #to avoid ratelimiters & ensure loaded
+        time.sleep( random.gauss(2, 0.5) ) #to avoid ratelimiters & ensure loaded
         return driver #if login is successful, pass driver to next fn
 
 
@@ -80,7 +80,7 @@ def apply_to_job(driver, info):
 
     #update information
     driver.get("http://my.monster.com/Profile/EditContactInformation?nav=1")
-    time.sleep(2)
+    time.sleep( random.gauss(2, 0.35) )
 
     driver.find_element_by_id("FirstName").clear()
     driver.find_element_by_id("FirstName").send_keys(info['firstname'])
@@ -105,22 +105,22 @@ def apply_to_job(driver, info):
 
     try:
         driver.get(info['link'])
-        time.sleep(2)
+        time.sleep( random.gauss(2, 0.3) )
 
         driver.find_element_by_id("ctl01_hlApplyLink").click()
-        time.sleep(2)
+        time.sleep( random.gauss(2, 0.3) )
 
         resumebox = driver.find_element_by_id("uploadedFile")
         resumebox.send_keys("/Volumes/Data/code/resume-names/5.docx")
 
         driver.find_element_by_id("resumeSearchable").click()
         driver.find_element_by_id("Diversity").click()
-        time.sleep(3)
+        time.sleep( random.gauss(2, 0.25) )
         driver.find_element_by_id("rbAuthorizedYes0").click()
 
     #driver.find_element_by_id("btnSubmit").click()
 
-        time.sleep(4)
+        time.sleep( random.gauss(3, 0.6) )
         return 1 #returns 1 on success
 
     except:
@@ -265,6 +265,12 @@ def submit_applications(location, round=0):
     'location' refers to the location of our applications. can be CHI/LAX/NYC (three char strs).
     This sets colleges/addresses, as with type.
     '''
+
+
+    text_file = open("Output.txt", "w")
+    text_file.write("Purchase Amount: %s" % TotalAmount)
+    text_file.close()
+
 
     apps_to_submit = load_scraper_data() #grabs data from dataset
     bk_data = []
