@@ -275,7 +275,7 @@ def create_logfile():
 
 def submit_applications(location, app_round=0):
     '''
-    Our application code.
+    Our applier.
 
     'round' refers to the line of the dataset you start on, and is set as an int.
     By default it is 0, but can be altered if the program breaks/we get blocked.
