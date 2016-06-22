@@ -34,7 +34,7 @@ def update_resume(info):
     '''
     resume = str(info['resume']) + '.docx' #grabs file
 
-    document = Document("clerical/" + resume) #opens it
+    document = Document(info['type'] + "/" + resume) #opens it
 
     for paragraph in document.paragraphs: #replaces info appropriately
         if '{NAME}' in paragraph.text:
@@ -162,6 +162,7 @@ def load_scraper_data():
             jobapp['addresses'] = map(int, elt['addresses'][1:-1].split(','))
             jobapp['zipcodes'] = map(int, elt['zipcodes'][1:-1].split(','))
             jobapp['link'] = elt['link']
+            jobapp['type'] = elt['type']
 
             appset.append(jobapp)
     return appset
