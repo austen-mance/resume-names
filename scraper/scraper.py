@@ -16,27 +16,20 @@ from random import sample
 
 dataset = []
 
-<<<<<<< HEAD
-NUMBER_OF_PAGES = 1000
-
-=======
 # this seems to max out around 45 pages for most job/city pairs
 # however, there are only 25 pages of Chicago clerical
 
 NUMBER_OF_PAGES = 26
 
->>>>>>> 4fba76a1736c3fa3f543740b1c7f1e85a96411a2
 addresses = range(0,19)
 zipcodes = range(0,19)
 resumes = range(0,8)
 colleges = range(0,4)
 firstnames = range(0,9)
 lastnames = range(0,9)
-<<<<<<< HEAD
-urls = {"http://www.monster.com/jobs/search/Full-Time_8?q=sales&where=Boston__2c-MA&page=": ['Boston', 'Sales'],"www.monster.com/jobs/search/Full-Time_8?q=sales&where=Chicago__2c-IL&page=": ['Chicago', 'Sales'], "http://www.monster.com/jobs/search/?q=sales&where=Los-Angeles__2C-CA&page=": ["Los Angeles", "Sales"],"www.monster.com/jobs/search/Full-Time_8?q=retail&where=Chicago__2c-IL&page=": ["Chicago", "Retail"],"http://www.monster.com/jobs/search/Full-Time_8?q=retail&where=Boston__2c-MA&page=": ["Boston", "Retail"],"http://www.monster.com/jobs/search/?q=retail&where=Los-Angeles__2C-CA&page=":["Los Angeles", "Retail"]}
-=======
+
 urls = {"http://www.monster.com/jobs/search/Full-Time_8?q=sales&where=New-York__2c-NY&page=": ['New York', 'Sales'],"www.monster.com/jobs/search/Full-Time_8?q=sales&where=Chicago__2c-IL&page=": ['Chicago', 'Sales'], "http://www.monster.com/jobs/search/?q=sales&where=Los-Angeles__2C-CA&page=": ["Los Angeles", "Sales"],"http://www.monster.com/jobs/search/Full-Time_8?q=clerical&where=Chicago__2c-IL&page=": ["Chicago", "Clerical"],"http://www.monster.com/jobs/search/Full-Time_8?q=clerical&where=New-York__2c-NY&page=": ["New York", "Clerical"],"http://www.monster.com/jobs/search/?q=clerical&where=Los-Angeles__2C-CA&page=":["Los Angeles", "Clerical"]}
->>>>>>> 4fba76a1736c3fa3f543740b1c7f1e85a96411a2
+
 
 ##############################################################################
 #   Instantiating Extensions (fuck ads, even if I'm not looking at them)     #
@@ -65,13 +58,12 @@ for url in urls.keys():
 
 	    for elt in jobs:
 	        jobAttrs = {}
-<<<<<<< HEAD
+
 	        jobAttrs['link'] = elt.find("a")['href']
 	        jobAttrs['title'] = elt.find("div", class_="jobTitle").get_text().encode('ascii', 'ignore')
 	        jobAttrs["company"] = elt.find("div", class_="company").get_text().encode('ascii', 'ignore')
 	        jobAttrs["location"] = elt.find("div", class_="location").get_text().encode('ascii', 'ignore')
 	        jobAttrs["preview"] = elt.find("div", class_="preview").get_text().encode('ascii', 'ignore')
-=======
 	        jobAttrs['link'] = elt.find("a")['href'].split('?',1)[0]
 	        jobAttrs['original_link'] = elt.find("a")['href']
 	        jobAttrs['title'] = elt.find("div", class_="jobTitle").get_text().encode('ascii','ignore')
@@ -79,19 +71,14 @@ for url in urls.keys():
 	        jobAttrs["location"] = elt.find("div", class_="location").get_text().encode('ascii','ignore')
 	        jobAttrs["preview"] = elt.find("div", class_="preview").get_text().encode('ascii','ignore')
 	        jobAttrs['full'] = str(elt)
->>>>>>> 4fba76a1736c3fa3f543740b1c7f1e85a96411a2
-
 	        jobAttrs['colleges'] = sample(colleges,4)
 	        jobAttrs['firstnames'] = sample(firstnames,4)
 	        jobAttrs['lastnames'] = sample(lastnames,4)
 	        jobAttrs['resumes'] = sample(resumes,4)
 	        jobAttrs['addresses'] = sample(addresses,4) 
 	        jobAttrs['zipcodes'] = sample(zipcodes,4)
-<<<<<<< HEAD
-=======
 	        jobAttrs['type'] = urls[url][1].lower()
 	        jobAttrs['city'] = urls[url][0]
->>>>>>> 4fba76a1736c3fa3f543740b1c7f1e85a96411a2
 
 	        dataset.append(jobAttrs)
 
