@@ -1,0 +1,4 @@
+1. NoSuchElementException: Message: Unable to locate element: {"method":"id","selector":"FirstName"} (basically, Firefox doesn't know how to find the first name section. weirdly it still seems to work)
+2. Currently enters city instead of ZIP code into ZIP field in biographical information, causing no biographical information to be changed
+3. Stopped at the application with this error: Package not found at 'clerical/0.docx'
+4. (not a bug just a note) monster profiles need to change preferences to email contact, not phone contact
