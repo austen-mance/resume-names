@@ -89,7 +89,7 @@ for url in urls.keys():
 	        jobAttrs['zipcodes'] = sample(zipcodes,4)
 <<<<<<< HEAD
 =======
-	        jobAttrs['type'] = urls[url][1]
+	        jobAttrs['type'] = urls[url][1].lower()
 	        jobAttrs['city'] = urls[url][0]
 >>>>>>> 4fba76a1736c3fa3f543740b1c7f1e85a96411a2
 
