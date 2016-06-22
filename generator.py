@@ -266,12 +266,9 @@ def create_logfile():
 
     return logfile
 
-
-
 ##############################################################################
 #                          The Application Itself                            #
 ##############################################################################
-
 
 def submit_applications(location, app_round=0):
     '''
