@@ -230,7 +230,7 @@ def create_logfile():
     curr_seconds = str(time.time()).split(".")[0][-5:] #gets current seconds of day
     logfile_id = str(datetime.date.today()) + "_" + curr_seconds
 
-    logfile = open("logfile_"+ logfile_id + ".txt", "w")
+    logfile = open("logs/logfile_"+ logfile_id + ".txt", "w")
     logfile.write("this is the logfile for application submissions on" + logfile_id + "\n")
     logfile.write("================================================================\n")
 
