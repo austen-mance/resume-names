@@ -106,7 +106,7 @@ def load_account_data():
         df = [{k: v for k, v in row.items()}
             for row in csv.DictReader(f, skipinitialspace=True)]
 
-    pb, pw, rb, rw, subset = [] #sublists for each
+    pb, pw, rb, rw, subset = [],[],[],[],[] #sublists for each
 
     #sorts into 4 separate lists
     for elt in df:
@@ -155,7 +155,7 @@ def load_scraper_data():
     '''
     appset = []
 
-    with open('dataset.csv') as csvfile:
+    with open('scraper/dataset.csv') as csvfile:
         reader = csv.DictReader(csvfile)
         for elt in reader:
             jobapp = {}
@@ -164,6 +164,7 @@ def load_scraper_data():
             jobapp['addresses'] = map(int, elt['addresses'][1:-1].split(','))
             jobapp['zipcodes'] = map(int, elt['zipcodes'][1:-1].split(','))
             jobapp['link'] = elt['link']
+            jobapp['type'] = elt['type']
 
             appset.append(jobapp)
     return appset
@@ -184,6 +185,7 @@ def get_app_info(driver_round, background_data, scraper_elt, account_elt):
 
     #then grab the relevant info from the DBs
     one_app['link'] = scraper_elt['link']
+    one_app['type'] = scraper_elt['type']
 
     one_app['email'] = account_elt['email']
     one_app['firstname'] = account_elt['firstname']
@@ -192,6 +194,7 @@ def get_app_info(driver_round, background_data, scraper_elt, account_elt):
     one_app['address'] = background_data['addresses'][address_number]
     one_app['college'] = background_data['colleges'][college_number]
     one_app['resume'] = resume_number
+
     return one_app
 
 def update_resume(info):
