@@ -9,6 +9,7 @@ import time
 import sys
 import random
 import datetime
+import re
 
 from docx import Document
 from selenium import webdriver
@@ -65,33 +66,48 @@ def apply_to_job(driver, info, logfile, app_round):
     '''
 
     time.sleep(random.gauss(2, 0.35))
-
     #apply for the job
-    try:
-        driver.get(info['link'])
-        time.sleep(random.gauss(2, 0.3))
 
-        driver.find_element_by_id("ctl01_hlApplyLink").click()
-        time.sleep(random.gauss(2, 0.3))
+    #try:
+    driver.get(info['link'])
+    time.sleep(random.gauss(2, 0.3))
 
-        resumebox = driver.find_element_by_id("uploadedFile")
-        resumebox.send_keys("resume.docx")
+    if driver.findElements_by_id("Rs_DiversityMember").size() != 0:
+        driver.find_element_by_id("Rs_DiversityMember").click()
 
-        driver.find_element_by_id("resumeSearchable").click()
-        driver.find_element_by_id("Diversity").click()
-        time.sleep(random.gauss(2, 0.25))
-        driver.find_element_by_id("rbAuthorizedYes0").click()
+    time.sleep(random.gauss(2, 0.3))
 
-        driver.find_element_by_id("btnSubmit").click()
+    if driver.findElements_by_id("Rs_DiversityMember").size() != 0:
+        driver.find_element_by_id("Rs_DiversityMember").click()
 
-        #time.sleep(random.gauss(3, 0.6))
-        logfile.write(str(app_round) + ", ")
+    if driver.findElements_by_id("Rs_SearchableMember").size() != 0:
+        driver.find_element_by_id("Rs_SearchableMember").click()
 
-    except:
-        msg = str(app_round) + ", Application " + str(app_round) + " failed: "
-        logfile.write(msg + str(sys.exc_info()[0]) + "\n")
-        return 0
+    time.sleep(random.gauss(0.5, 0.15))
 
+    if driver.findElements_by_id("Pi_WorkAuthorizationStatusTrue").size() != 0:
+        driver.find_element_by_id("Pi_WorkAuthorizationStatusTrue").click()
+
+    if driver.findElements_by_id("Pi_UserEnteredGeoName").size() != 0:
+        zipcode = re.sub("[^0-9]", "", info['zip'][2])
+        driver.find_element_by_id("Pi_UserEnteredGeoName").send_keys(zipcode)     
+
+
+    resumebox = driver.find_element_by_id("Attachments")
+    resumebox.send_keys("resume.docx")
+
+    time.sleep(random.gauss(2, 0.25))
+
+
+    driver.find_element_by_id("btnSubmit").click()
+
+    #time.sleep(random.gauss(3, 0.6))
+    logfile.write(str(app_round) + ", ")
+
+    #except:
+    #    msg = str(app_round) + ", Application " + str(app_round) + " failed: "
+    #    logfile.write(msg + str(sys.exc_info()[0]) + "\n")
+    #    return 0
     return 1
 
 ##############################################################################
@@ -203,7 +219,6 @@ def update_resume(info):
     as necessary to fit the applicant's details.
     '''
     resume = str(info['resume']) + '.docx' #grabs file
-
     document = Document(info['type'] + "/" + resume) #opens it
 
     for paragraph in document.paragraphs: #replaces info appropriately

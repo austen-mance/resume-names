@@ -2,45 +2,30 @@
 
 import random
 
-#apps_to_submit = load_scraper_data()
+from generator import *
 
-#bk_data = []
-#bk_data.append(load_background_data("rb", "NYC")) 
-#bk_data.append(load_background_data("pb", "NYC"))
+logfile = create_logfile() #creates a logging file
+account_data = load_account_data() #grabs account data            (list of dicts inc logins and names)
+background_data = load_background_data("NYC") #grabs background data   (dict of lists inc. addresses and colleges)
+scraper_data = load_scraper_data()
 
-#password = 'evanis#1'
-#username = 'careerpath5498@gmail.com'
+driver_round = 0
+app_round = 0
 
-#driver = login_to_acct(username, password)  #logs in with those details
+account_elt = account_data[1]
+scraper_elt = scraper_data[1]
 
-#info = get_one_app(apps_to_submit[0], bk_data[0], username) 
+driver = login(account_elt, logfile, app_round)
 
-#info['resume'] = 3 #some number here
+one_application = get_app_info(driver_round, background_data, scraper_elt, account_elt)
 
-#update_resume(info)
+update_resume(one_application) #update resume
 
-#apply_to_job(driver, info)
+ze = apply_to_job(driver, one_application, logfile, app_round) #apply
 
+app_round += 1
 
-df = [line.strip().split(',') for line in open("accounts.csv", 'r')] #set of account details
-pb = []
-pw = []
-rb = []
-rw = []
-subset = [] #sublists for each
+logfile.close()
 
-#sorts into 4 separate lists
-for elt in df:
-    if elt[5] == "pb":
-        pb.append(elt)
-    elif elt[5] == "rb":
-        rb.append(elt)
-    elif elt[5] == "pw":
-        pw.append(elt)
-    elif elt[5] == "rw":
-        rw.append(elt)
-
-subset.append(random.choice(pb))
-subset.append(random.choice(rb))
-subset.append(random.choice(pw))
-subset.append(random.choice(rw)) 
+#1
+#0,6 is good 
