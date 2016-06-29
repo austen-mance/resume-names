@@ -1,0 +1,6 @@
+this is the logfile for application submissions on2016-06-28_42292
+================================================================
+0, Application 0 failed: <class 'selenium.common.exceptions.NoSuchElementException'>
+1, Application 1 failed: <class 'selenium.common.exceptions.NoSuchElementException'>
+2, Application 2 failed: <class 'selenium.common.exceptions.NoSuchElementException'>
+3, 4, Application 4 failed: <class 'selenium.common.exceptions.NoSuchElementException'>

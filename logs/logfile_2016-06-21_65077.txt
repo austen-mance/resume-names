@@ -1,0 +1,3 @@
+this is the logfile for application submissions on2016-06-21_65077
+================================================================
+0, 1, Application 1 failed: <class 'selenium.common.exceptions.NoSuchElementException'>
