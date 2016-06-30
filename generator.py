@@ -71,34 +71,25 @@ def apply_to_job(driver, info, logfile, app_round):
 
     driver.find_element_by_id("PrimaryJobApply").click()
 
-    time.sleep(random.gauss(1, 0.35))
-
-    if len(driver.find_elements_by_id("Rs_DiversityMember")) != 0:
-        driver.find_element_by_id("Rs_DiversityMember").click()
 
     time.sleep(random.gauss(2, 0.3))
 
-    if len(driver.find_elements_by_id("Rs_DiversityMember")) != 0:
-        driver.find_element_by_id("Rs_DiversityMember").click()
+    click_if_usable(driver, "Rs_DiversityMember")
 
-    if len(driver.find_elements_by_id("Rs_SearchableMuember")) != 0:
-        driver.find_element_by_id("Rs_SearchableMember").click()
+    click_if_usable(driver, "Rs_SearchableMuember")
 
     time.sleep(random.gauss(0.5, 0.15))
 
-    if len(driver.find_elements_by_id("Pi_WorkAuthorizationStatusTrue")) != 0:
-        driver.find_element_by_id("Pi_WorkAuthorizationStatusTrue").click()
+    click_if_usable(driver, "Pi_WorkAuthorizationStatusTrue")
 
     if len(driver.find_elements_by_id("Pi_UserEnteredGeoName")) != 0:
         zipcode = re.sub("[^0-9]", "", info['address'][2])
         driver.find_element_by_id("Pi_UserEnteredGeoName").send_keys(zipcode)
 
 
-    if driver.find_elements_by_css_selector("[@href='#addResume']") != 0:
-        res_btn = driver.find_element_by_css_selector("[@href='#addResume']")
-        if res_btn.is_displayed() == True:
-            res_btn.click()
-
+    addResume_elt = driver.find_elements_by_xpath("//a[@href='#AddResume']")
+    if len(addResume_elt) != 0 and addResume_elt[0].is_displayed == True:
+            addResume_elt[0].click()
 
     if len(driver.find_elements_by_id("Attachments")) != 0: #base case
         resumebox = driver.find_element_by_id("Attachments")
@@ -126,6 +117,15 @@ def apply_to_job(driver, info, logfile, app_round):
     logfile.write(str(app_round) + ", ")
 
     return 1
+
+def click_if_usable(driver, element_tag):
+    '''
+    little helper function that clicks an element if it's visible and exists
+    '''
+    elt = driver.find_elements_by_id(element_tag)
+    if len(elt) != 0 and elt[0].is_displayed() == True:
+        elt[0].click()
+
 
 ##############################################################################
 #                       Data Management Functions                            #
