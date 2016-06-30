@@ -4,6 +4,7 @@ import random
 
 from generator import *
 
+
 logfile = create_logfile() #creates a logging file
 account_data = load_account_data() #grabs account data            (list of dicts inc logins and names)
 background_data = load_background_data("NYC") #grabs background data   (dict of lists inc. addresses and colleges)
@@ -21,11 +22,11 @@ one_application = get_app_info(driver_round, background_data, scraper_elt, accou
 
 update_resume(one_application) #update resume
 
+
 ze = apply_to_job(driver, one_application, logfile, app_round) #apply
 
 app_round += 1
 
 logfile.close()
 
-#1
-#0,6 is good 
+

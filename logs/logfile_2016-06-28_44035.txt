@@ -1,4 +1,0 @@
-this is the logfile for application submissions on2016-06-28_44035
-================================================================
-0, Application 0 failed: <type 'exceptions.KeyboardInterrupt'>
-1, Application 1 failed: <class 'httplib.CannotSendRequest'>
