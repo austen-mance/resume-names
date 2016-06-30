@@ -1,6 +1,0 @@
-this is the logfile for application submissions on2016-06-28_44972
-================================================================
-0, Application 0 failed: <class 'selenium.common.exceptions.NoSuchElementException'>
-1, Application 1 failed: <class 'selenium.common.exceptions.NoSuchElementException'>
-2, Application 2 failed: <class 'httplib.BadStatusLine'>
-3, Application 3 failed: <class 'socket.error'>

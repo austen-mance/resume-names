@@ -10,6 +10,7 @@ import sys
 import random
 import datetime
 import re
+import os
 
 from docx import Document
 from selenium import webdriver
@@ -65,49 +66,65 @@ def apply_to_job(driver, info, logfile, app_round):
     This code takes our information and uses it to submit applications
     '''
 
-    time.sleep(random.gauss(2, 0.35))
-    #apply for the job
-
-    #try:
     driver.get(info['link'])
     time.sleep(random.gauss(2, 0.3))
 
-    if driver.findElements_by_id("Rs_DiversityMember").size() != 0:
+    driver.find_element_by_id("PrimaryJobApply").click()
+
+    time.sleep(random.gauss(1, 0.35))
+
+    if len(driver.find_elements_by_id("Rs_DiversityMember")) != 0:
         driver.find_element_by_id("Rs_DiversityMember").click()
 
     time.sleep(random.gauss(2, 0.3))
 
-    if driver.findElements_by_id("Rs_DiversityMember").size() != 0:
+    if len(driver.find_elements_by_id("Rs_DiversityMember")) != 0:
         driver.find_element_by_id("Rs_DiversityMember").click()
 
-    if driver.findElements_by_id("Rs_SearchableMember").size() != 0:
+    if len(driver.find_elements_by_id("Rs_SearchableMuember")) != 0:
         driver.find_element_by_id("Rs_SearchableMember").click()
 
     time.sleep(random.gauss(0.5, 0.15))
 
-    if driver.findElements_by_id("Pi_WorkAuthorizationStatusTrue").size() != 0:
+    if len(driver.find_elements_by_id("Pi_WorkAuthorizationStatusTrue")) != 0:
         driver.find_element_by_id("Pi_WorkAuthorizationStatusTrue").click()
 
-    if driver.findElements_by_id("Pi_UserEnteredGeoName").size() != 0:
-        zipcode = re.sub("[^0-9]", "", info['zip'][2])
-        driver.find_element_by_id("Pi_UserEnteredGeoName").send_keys(zipcode)     
+    if len(driver.find_elements_by_id("Pi_UserEnteredGeoName")) != 0:
+        zipcode = re.sub("[^0-9]", "", info['address'][2])
+        driver.find_element_by_id("Pi_UserEnteredGeoName").send_keys(zipcode)
 
 
-    resumebox = driver.find_element_by_id("Attachments")
-    resumebox.send_keys("resume.docx")
+    if driver.find_elements_by_css_selector("[@href='#addResume']") != 0:
+        res_btn = driver.find_element_by_css_selector("[@href='#addResume']")
+        if res_btn.is_displayed() == True:
+            res_btn.click()
+
+
+    if len(driver.find_elements_by_id("Attachments")) != 0: #base case
+        resumebox = driver.find_element_by_id("Attachments")
+        current_path = get_path()
+        current_path = current_path + "/resume.docx"
+        resumebox.send_keys(current_path)
+    else:
+        logfile.write(str(app_round) + ", failed: resume upload failed")
+        return 0
+
 
     time.sleep(random.gauss(2, 0.25))
 
+    if len(driver.find_elements_by_id("btnSubmit")) != 0:
+        driver.find_element_by_id("btnSubmit").click()
 
-    driver.find_element_by_id("btnSubmit").click()
+    elif len(driver.find_elements_by_id("applybtn")) != 0:
+        driver.find_element_by_id("applybtn").click()
+    else:
+        logfile.write(str(app_round) + ", failed: submit btn not found")
+        return 0
 
-    #time.sleep(random.gauss(3, 0.6))
+
+    time.sleep(random.gauss(1, 0.6))
     logfile.write(str(app_round) + ", ")
 
-    #except:
-    #    msg = str(app_round) + ", Application " + str(app_round) + " failed: "
-    #    logfile.write(msg + str(sys.exc_info()[0]) + "\n")
-    #    return 0
     return 1
 
 ##############################################################################
@@ -122,7 +139,7 @@ def load_account_data():
         df = [{k: v for k, v in row.items()}
             for row in csv.DictReader(f, skipinitialspace=True)]
 
-    pb, pw, rb, rw, subset = [],[],[],[],[] #sublists for each
+    pb, pw, rb, rw, subset = [], [], [], [], [] #sublists for each
 
     #sorts into 4 separate lists
     for elt in df:
@@ -250,6 +267,13 @@ def create_logfile():
     logfile.write("================================================================\n")
 
     return logfile
+
+def get_path():
+    '''
+    Gets directory path (necessary for abs. path resume upload)
+    '''
+    path = os.path.dirname(os.path.realpath(__file__))
+    return path
 
 ##############################################################################
 #                       The Main Applier Funciton                            #

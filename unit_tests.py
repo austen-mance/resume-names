@@ -4,28 +4,35 @@ import random
 
 from generator import *
 
-logfile = create_logfile() #creates a logging file
-account_data = load_account_data() #grabs account data            (list of dicts inc logins and names)
-background_data = load_background_data("NYC") #grabs background data   (dict of lists inc. addresses and colleges)
-scraper_data = load_scraper_data()
 
-driver_round = 0
-app_round = 0
+def test1():
 
-account_elt = account_data[1]
-scraper_elt = scraper_data[1]
+    logfile = create_logfile() #creates a logging file
+    account_data = load_account_data() #grabs account data            (list of dicts inc logins and names)
+    background_data = load_background_data("NYC") #grabs background data   (dict of lists inc. addresses and colleges)
+    scraper_data = load_scraper_data()
 
-driver = login(account_elt, logfile, app_round)
+    driver_round = 0
+    app_round = 0
 
-one_application = get_app_info(driver_round, background_data, scraper_elt, account_elt)
+    account_elt = account_data[1]
+    scraper_elt = scraper_data[1]
 
-update_resume(one_application) #update resume
+    driver = login(account_elt, logfile, app_round)
 
-ze = apply_to_job(driver, one_application, logfile, app_round) #apply
+    one_application = get_app_info(driver_round, background_data, scraper_elt, account_elt)
 
-app_round += 1
+    update_resume(one_application) #update resume
 
-logfile.close()
 
-#1
-#0,6 is good 
+    ze = apply_to_job(driver, one_application, logfile, app_round) #apply
+
+    app_round += 1
+
+    logfile.close()
+
+
+def test2():
+    import os
+    dn = os.path.dirname(os.path.realpath(__file__))
+    print dn
