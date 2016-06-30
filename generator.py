@@ -82,9 +82,12 @@ def apply_to_job(driver, info, logfile, app_round):
 
     click_if_usable(driver, "Pi_WorkAuthorizationStatusTrue")
 
-    if len(driver.find_elements_by_id("Pi_UserEnteredGeoName")) != 0:
+
+    geo_elt = driver.find_elements_by_id("Pi_UserEnteredGeoName")
+    if len(geo_elt) != 0:
         zipcode = re.sub("[^0-9]", "", info['address'][2])
-        driver.find_element_by_id("Pi_UserEnteredGeoName").send_keys(zipcode)
+        geo_elt[0].send_keys(zipcode)
+        geo_elt[0].submit()
 
 
     addResume_elt = driver.find_elements_by_xpath("//a[@href='#AddResume']")
