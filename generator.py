@@ -79,13 +79,17 @@ def apply_to_job(driver, info, logfile, app_round):
 
     elif len(t2) != 0 and t2[0].is_displayed() == True:
         t2[0].click()
-        return apply_t2(driver, info, logfile, app_round)
+        return apply_t2(driver, logfile, app_round)
 
     else:
         logfile.write(str(app_round) + ", failed: apply btn not found")
         return 0
 
 def apply_t1(driver, info, logfile, app_round):
+    '''
+    The selenium application code that covers one newer application form type
+    '''
+
     time.sleep(random.gauss(2, 0.3))
 
     click_if_usable(driver, "Rs_DiversityMember")
@@ -103,10 +107,9 @@ def apply_t1(driver, info, logfile, app_round):
         geo_elt[0].send_keys(zipcode)
         geo_elt[0].submit()
 
-
-    addResume_elt = driver.find_elements_by_xpath("//a[@href='#AddResume']")
-    if len(addResume_elt) != 0 and addResume_elt[0].is_displayed == True:
-            addResume_elt[0].click()
+    add_resume_elt = driver.find_elements_by_xpath("//a[@href='#AddResume']")
+    if len(add_resume_elt) != 0 and add_resume_elt[0].is_displayed == True:
+        add_resume_elt[0].click()
 
     if len(driver.find_elements_by_id("Attachments")) != 0: #base case
         resumebox = driver.find_element_by_id("Attachments")
@@ -134,7 +137,10 @@ def apply_t1(driver, info, logfile, app_round):
     logfile.write(str(app_round) + ", ")
     return 1
 
-def apply_t2(driver, info, logfile, app_round):
+def apply_t2(driver, logfile, app_round):
+    '''
+    The selenium application code that covers one older application form type
+    '''
 
     if len(driver.find_elements_by_id("uploadedFile")) != 0: #base case
         resumebox = driver.find_element_by_id("uploadedFile")
