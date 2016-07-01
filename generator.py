@@ -69,9 +69,23 @@ def apply_to_job(driver, info, logfile, app_round):
     driver.get(info['link'])
     time.sleep(random.gauss(2, 0.3))
 
-    driver.find_element_by_id("PrimaryJobApply").click()
+    t1 = driver.find_elements_by_id("PrimaryJobApply")
+    t2 = driver.find_elements_by_id("ctl01_hlApplyLink")
 
 
+    if len(t1) != 0 and t1[0].is_displayed() == True:
+        t1[0].click()
+        return apply_t1(driver, info, logfile, app_round)
+
+    elif len(t2) != 0 and t2[0].is_displayed() == True:
+        t2[0].click()
+        return apply_t2(driver, info, logfile, app_round)
+
+    else:
+        logfile.write(str(app_round) + ", failed: apply btn not found")
+        return 0
+
+def apply_t1(driver, info, logfile, app_round):
     time.sleep(random.gauss(2, 0.3))
 
     click_if_usable(driver, "Rs_DiversityMember")
@@ -118,7 +132,38 @@ def apply_to_job(driver, info, logfile, app_round):
 
     time.sleep(random.gauss(1, 0.6))
     logfile.write(str(app_round) + ", ")
+    return 1
 
+def apply_t2(driver, info, logfile, app_round):
+
+    if len(driver.find_elements_by_id("uploadedFile")) != 0: #base case
+        resumebox = driver.find_element_by_id("uploadedFile")
+        current_path = get_path()
+        current_path = current_path + "/resume.docx"
+        resumebox.send_keys(current_path)
+    else:
+        logfile.write(str(app_round) + ", failed: resume upload failed")
+        return 0
+
+    click_if_usable(driver, "resumeSearchable")
+    click_if_usable(driver, "Diversity")
+
+    time.sleep(random.gauss(2, 0.3))
+
+    click_if_usable(driver, "rbAuthorizedYes0")
+
+
+    if len(driver.find_elements_by_id("btnSubmit")) != 0:
+        driver.find_element_by_id("btnSubmit").click()
+
+    elif len(driver.find_elements_by_id("applybtn")) != 0:
+        driver.find_element_by_id("applybtn").click()
+    else:
+        logfile.write(str(app_round) + ", failed: submit btn not found")
+        return 0
+
+    time.sleep(random.gauss(1, 0.6))
+    logfile.write(str(app_round) + ", ")
     return 1
 
 def click_if_usable(driver, element_tag):
@@ -128,7 +173,6 @@ def click_if_usable(driver, element_tag):
     elt = driver.find_elements_by_id(element_tag)
     if len(elt) != 0 and elt[0].is_displayed() == True:
         elt[0].click()
-
 
 ##############################################################################
 #                       Data Management Functions                            #
