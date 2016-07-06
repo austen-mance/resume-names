@@ -1,0 +1,2 @@
+http://jobview.monster.com/v2/Job/Apply?jobId=167901040: zip code is not valid
+http://jobview.monster.com/v2/job/apply?jobId=169113857: requires gender/race selection. “Decline to Identify” is an option for both
