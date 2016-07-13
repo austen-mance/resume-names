@@ -3,8 +3,10 @@
 import random
 
 from generator import *
+from selenium import webdriver
 
 
+'''
 logfile = create_logfile() #creates a logging file
 account_data = load_account_data() #grabs account data            (list of dicts inc logins and names)
 background_data = load_background_data("NYC") #grabs background data   (dict of lists inc. addresses and colleges)
@@ -29,5 +31,18 @@ ze = apply_to_job(driver, one_application, logfile, app_round) #apply
 app_round += 1
 
 logfile.close()
+'''
 
+
+
+import os
+path = os.path.dirname(os.path.realpath(__file__))
+
+adblockfile = os.path.join(path, 'firefox-profile/abp-2.7.3.xpi')
+
+print str(adblockfile)
+
+ffprofile = webdriver.FirefoxProfile()
+ffprofile.add_extension(adblockfile)
+driver = webdriver.Firefox(ffprofile)
 

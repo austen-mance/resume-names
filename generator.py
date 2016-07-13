@@ -25,7 +25,12 @@ def login(account_elt, logfile, app_round):
     operated on by the other functions to submit applications.
     Returns the driver on success, and None on errors (and logs the reason)
     '''
-    driver = webdriver.Firefox()
+
+    path = get_path()
+    adblockfile = os.path.join(path, 'firefox-profile/abp-2.7.3.xpi')
+    ffprofile = webdriver.FirefoxProfile()
+    ffprofile.add_extension(adblockfile)
+    driver = webdriver.Firefox(ffprofile)
 
     try:
         driver.get("https://login.monster.com/Login/")
@@ -203,10 +208,12 @@ def sjw_options(driver):
     click_if_usable(driver, "Diversity")#t2
 
     click_if_usable(driver, "ethnP_8")#t2
+    click_if_usable(driver, "ethn_6")#t1
+
 
     genderDropdown = driver.find_elements_by_id("ddlGender")
     if len(genderDropdown) != 0:
-        genderDropdown[0].selectByValue("-1")
+        genderDropdown[0].select_by_value("-1")
 
 
 ##############################################################################
