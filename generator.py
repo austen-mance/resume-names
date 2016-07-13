@@ -92,9 +92,7 @@ def apply_t1(driver, info, logfile, app_round):
 
     time.sleep(random.gauss(2, 0.3))
 
-    click_if_usable(driver, "Rs_DiversityMember")
-
-    click_if_usable(driver, "Rs_SearchableMuember")
+    sjw_options(driver)
 
     time.sleep(random.gauss(0.5, 0.15))
 
@@ -142,22 +140,35 @@ def apply_t2(driver, logfile, app_round):
     The selenium application code that covers one older application form type
     '''
 
+    click_if_usable(driver, "lnkEdit")
+    click_if_usable(driver, "linkEdit")
+    click_if_usable(driver, "jvResumeUpload-tab")
+
     if len(driver.find_elements_by_id("uploadedFile")) != 0: #base case
+        click_if_usable(driver, "jvUploadTab")
         resumebox = driver.find_element_by_id("uploadedFile")
         current_path = get_path()
         current_path = current_path + "/resume.docx"
         resumebox.send_keys(current_path)
+
+        resumeNameBox = driver.find_elements_by_id("nameNewResume")
+        if len(resumeNameBox) != 0:
+            resumeNameBox[0].send_keys("resume")
+
     else:
         logfile.write(str(app_round) + ", failed: resume upload failed")
         return 0
 
-    click_if_usable(driver, "resumeSearchable")
-    click_if_usable(driver, "Diversity")
 
     time.sleep(random.gauss(2, 0.3))
+    sjw_options(driver)
 
     click_if_usable(driver, "rbAuthorizedYes0")
 
+    saveButton = driver.find_elements_by_xpath("//button[@title='Save Changes']")
+
+    if len(saveButton) != 0:
+        saveButton[0].click()
 
     if len(driver.find_elements_by_id("btnSubmit")) != 0:
         driver.find_element_by_id("btnSubmit").click()
@@ -179,6 +190,24 @@ def click_if_usable(driver, element_tag):
     elt = driver.find_elements_by_id(element_tag)
     if len(elt) != 0 and elt[0].is_displayed() == True:
         elt[0].click()
+
+def sjw_options(driver):
+    '''
+    Little module that handles the various SJW options the feds require
+    '''
+
+    click_if_usable(driver, "Rs_DiversityMember")#t1
+    click_if_usable(driver, "Rs_SearchableMuember")#t1
+
+    click_if_usable(driver, "resumeSearchable")#t2
+    click_if_usable(driver, "Diversity")#t2
+
+    click_if_usable(driver, "ethnP_8")#t2
+
+    genderDropdown = driver.find_elements_by_id("ddlGender")
+    if len(genderDropdown) != 0:
+        genderDropdown[0].selectByValue("-1")
+
 
 ##############################################################################
 #                       Data Management Functions                            #

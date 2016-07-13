@@ -22,6 +22,7 @@ one_application = get_app_info(driver_round, background_data, scraper_elt, accou
 
 update_resume(one_application) #update resume
 
+one_application['link'] = "http://jobview.monster.com/v2/job/apply?jobId=169113857"
 
 ze = apply_to_job(driver, one_application, logfile, app_round) #apply
 
