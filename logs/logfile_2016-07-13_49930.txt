@@ -1,0 +1,1197 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <title>You are applying for:&nbsp; Purchasing Clerk – Buyer at Riva Precision Manufacturing</title>
+     <meta name="robots" content="noindex, follow" />
+    <script src="http://js-seeker.newjobs.com/MONS/v4.1.2.67/jobviewglobal_js.axd" type="text/javascript"></script>
+
+    <link href="http://css-seeker.newjobs.com/MONS/v4.1.2.2924/global_css.axd" rel="stylesheet" type="text/css" />
+<link href="http://css-seeker.newjobs.com/MONS/v4.1.2.2687/jobview_css.axd" rel="stylesheet" type="text/css" />
+<script src="http://js-seeker.newjobs.com/MONS/v4.1.2.2855/global_js.axd" type="text/javascript"></script>
+<script src="http://js-seeker.newjobs.com/MONS/v4.1.2.2458/jobview_js.axd" type="text/javascript"></script>
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    
+    <script type="text/javascript">
+        //<![CDATA[
+        var oChannelInfo = { ChannelCountryID: 164, ChannelID: 58 };
+        var bm = {"AccountCreationFailed":"Account creation failed","AccountCreationWsFailed":"Account creation webservice failed","AddressRequired":"Address required.","AjaxError":"Generic Ajax error (connection timeout etc.)","AtlasApplyComplete":"<img height=\"1\" width=\"1\" src=\"http:\/\/switch.atdmt.com\/action\/monmon_applycomplete_10\/v3\/10.5.199.242%2f1191814416.30530904\/256059190\" alt=\"\" \/>\u000d\u000a<img width=\"0\" height=\"0\" src=\"http:\/\/www.burstbeacon.com\/beacon\/56091\/can\/0\/0\">\u000d\u000a<img src=\"http:\/\/a1.interclick.com\/univPixel.aspx?g=35cb63ad-5f9a-4d51-bd5a-8f4624cab044\"\/>\u000d\u000a<img src=\"http:\/\/ads.bluelithium.com\/pixel?id=128844&t=2\" width=\"1\" height=\"1\" \/>\u000d\u000a<img src='http:\/\/a.tribalfusion.com\/ti.ad?client=342033&ev=1' width='1' height='1' border='0'>\u000d\u000a<img border=\"0\" src=\"http:\/\/r.turn.com\/r\/beacon?b2=Mki3LfgDc2LtQnutySDrUSN97C0VniU8lUoI-glGY2ejmxzJF-VuxYHoPEknN0c6-gbkTmaqwmsNCHXkvag04w&cid=\">\u000d\u000a<img src=\"http:\/\/ace-tag.advertising.com\/action\/type=798916042\/bins=1\/rich=0\/mnum=1516\/site=695501\/logs=0\/betr=monsterrp_cs=2\" width=\"1\" height=\"1\" border=\"0\">\u000d\u000a<img width=\"1\" height=\"1\" src=\"http:\/\/action.media6degrees.com\/orbserv\/hbpix?pixId=2091\" \/>","Atlas_FinishedResume":"\u000d\u000a<img height=\"1\" width=\"1\" src=\"http:\/\/ace-tag.advertising.com\/action\/type=517158157\/bins=1\/rich=0\/mnum=1516\/logs=0\/xsmemid=256059190\" alt=\"\" \/>\u000d\u000a<img height=\"1\" width=\"1\" src=\"http:\/\/www.burstbeacon.com\/beacon\/25329\/256059190\/Resume\/0\" alt=\"\" \/>\u000d\u000a<img height=\"1\" width=\"1\" src=\"http:\/\/switch.atdmt.com\/action\/msnus_monster_completed_resumes_021105\" alt=\"\" \/>\u000d\u000a<img src=\"http:\/\/ad.yieldmanager.com\/pixel?id=665&t=2\" width=\"1\" height=\"1\" \/>\u000d\u000a<img height=\"1\" width=\"1\" src=\"http:\/\/network.realmedia.com\/RealMedia\/ads\/adstream_sx.ads\/TRACK_Monsterseeker\/Trackit@Bottom3\" alt=\"\" \/>\u000d\u000a<img src=\"https:\/\/ds.contextweb.com\/trackaction\/advid=127\" width=\"1\" height=\"1\" border=\"0\">\u000d\u000a<img src=\"http:\/\/r.casalemedia.com\/r?u=125418\" width=\"1\" height=\"1\" alt=\"\" \/>\u000d\u000a<img src=\"http:\/\/conv.opt.fimserve.com\/conv\/13\/?rnd=[cachebuster]\" width=\"1\" height=\"1\" border=\"0\">\u000d\u000a<IMG src=\"http:\/\/ads.medbanner.com\/advertpro\/servlet\/track?aid=20\" border=\"0\" height=\"1\" width=\"1\" alt=\"\">\u000d\u000a<img src=\"http:\/\/xads.zedo.com\/ads2\/t?o=11242;h=200687;z=0\" width=\"1\" height=\"1\" border=\"0\">\u000d\u000a<img src=\"https:\/\/conv.opt.fimserve.com\/conv\/13\/?rnd=[cachebuster]\" width=1 height=1 border=0>\u000d\u000a<img src=\"http:\/\/media.fastclick.net\/w\/roitrack.cgi?aid=3724\" width=1\u000d\u000aheight=1 border=0>\u000d\u000a<img src=\"http:\/\/ace-tag.advertising.com\/action\/type=809241899\/bins=1\/rich=0\/mnum=1516\/site=695501\/logs=0\/betr=monster_cs=2\" width = \"1\" height = \"1\" border = \"0\">\u000d\u000a<img src=\"http:\/\/ads.bluelithium.com\/pixel?id=292372&t=2\" width=\"1\" height=\"1\" \/>\u000d\u000a<script language=\"JavaScript\" src=\"http:\/\/www.googleadservices.com\/pagead\/conversion.js\">\u000d\u000a<\/script>\u000d\u000a<noscript>\u000d\u000a<img height=\"1\" width=\"1\" border=\"0\" src=\"http:\/\/www.googleadservices.com\/pagead\/conversion\/1038025449\/?label=7oCECOXLfRDphfzuAw&amp;script=0\"\/>\u000d\u000a<\/noscript>\u000d\u000a","Atlas_NewAccountCompleted":"<iframe src=\"http:\/\/view.atdmt.com\/iaction\/monmon_newaccountfinished_10\/v3\/10.5.199.242%2f1191814416.30530904\/256059190\" width=\"1\" height=\"1\" frameborder=\"0\" scrolling=\"No\" marginheight=\"0\" marginwidth=\"0\" topmargin=\"0\" leftmargin=\"0\"><\/iframe>\u000d\u000a<img src=\"http:\/\/leadback.advertising.com\/adcedge\/lb?site=695501&srvc=1&betr=monstrfree_cs=2&betq=1550=363356\" width=\"1\" height=\"1\" border=\"0\">\u000d\u000a<img src=\"http:\/\/servedby.advertising.com\/action\/type=995021993\/bins=1\/rich=0\/mnum=1516\/logs=0\" height=1 width=1 border=0>\u000d\u000a<img src=\"http:\/\/media.fastclick.net\/w\/roitrack.cgi?aid=3967\" width=1 height=1 border=0>\u000d\u000a<img height=\"1\" width=\"20\" src=\"http:\/\/www.emjcd.com\/u?AMOUNT=1&amp;CID=1357480&amp;OID=USR_10.5.199.242%2f1191814416.30530904_RES_256059190&amp;TYPE=108320&amp;CURRENCY=USD&amp;METHOD=IMG\" alt=\"\" \/>\u000d\u000a\u000d\u000a","Atlas_NewAccountCreation":"<img height=\"1\" width=\"1\" src=\"http:\/\/switch.atdmt.com\/action\/deumns_newaccountcreation_1\/v3\/10.5.199.242%2f1191814416.30530904\/256059190\" alt=\"\" \/>\u000d\u000a<img src=\"http:\/\/leadback.advertising.com\/adcedge\/lb?site=695501&srvc=1&betr=monstrfree_cs=1&betq=1550=363355\" width=\"1\" height=\"1\" border=\"0\" alt=\"\">\u000d\u000a<img width=\"0\" height=\"0\" border=\"0\" src=\"https:\/\/media.adrevolver.com\/adrevolver\/trace?adpath=177\" alt=\"\">","BirthDateRequired":"Birth date required.","BirthDateWrong":"Birth year is not valid.","BtnApply":"Apply","BtnContinue":"Continue","CareerLevelRequired":"Career level is required","CareerStatusRequired":"Career Status required.","CheckPrivacy":"Please check Privacy Policy","CitizenshipRequired":"Turkish Citizenship ID is required.","CitizenshipWrong":"Turkish Citizenship ID is not valid.","CityRequired":"City required.","CountryRequired":"Country required.","DisabilityMissing":"Disability is required.","DocumentCorrupted":"The document appears to be corrupted and cannot be loaded.","EducationRequired":"Education Level required","EmailEmpty":"Email address required.","EmailExists":"This email already exists. <a href=\"javascript:SignInClick();\" title=\"Sign in\">Sign in<\/a> to your account, or <a href=\"http:\/\/login.monster.com\/Password\/Forgot?r=http%3a%2f%2fjobview.monster.com%2fApply%2fApply.aspx%3fJobValue%3dEAAQld.OqEVnY9yaXuGhNpEe6PYivxxrF4V2MpXzm_jMcds-\" title=\"retrieve your password\">retrieve your password<\/a>.","EmailInvalid":"Invalid email address.","EnterLetterBody":"Please enter letter body","EnterMandFlds":"Please enter all mandatory fields.","EnterResumeBody":"Please enter resume body","EnterResumeName":"Please enter resume name","ErrorSummaryHeader":"Whoops, we noticed something incorrect...","EthnicityMissing":"Ethnicity is required.","FirstNameRequired":"First name required.","FontFamily":"Font family","FontSize":"Font size","GenderMissing":"Gender is required.","GenderRequired":"Gender required.","InvalidInformation":"You have entered an invalid email and\/or password. <a onclick=\"window.open('https:\/\/monster.secure.force.com\/ekb\/EKBHome?brand=seeker','help','width=998,height=665,scrollbars,resizable'); win.focus();\" href=\"#\" title=\"Need help?\">Need help?<\/a>","InvalidPhoneNumber":"Phone Number - is invalid","JobTitleTemplate":"You’re applying for: <br \/>{0}","LastNameRequired":"Last name required.","LocationLabel":"Location","LocationMissing":"Location required","LoginGreeting":"Sign In and Apply","MaxItemMessage":"... more than ","MaximumCharactersPasted":"Maximum characters exceeded","MaximumCharactersText":"characters remaining","MustAgree":"You must agree to terms of use","PasswordConfirmEmpty":"Re-enter password required","PasswordConfirmNotSame":"Passwords do not match.","PasswordEmpty":"Password required.","PasswordWeak":"Password not strong enough.","PhoneRequired":"Phone number required.","ResumeAlreadyUsed":"Resume already used for this position","RootSecurityDomain":".monster.com","SelectResume":"Please select a resume","StateRequired":"State is required.","UnexpectedError":"There was an unexpected problem. To finalize the application process, you'll need to review and complete the questionnaire again.","UploadResumeWrongExt":"We accept .doc,.docx,.pdf,.rtf and .txt formats.","VeteranStatusRequired":"veteran status required","WorkAuthorizationRequired":"Work authorization required","ZipCodeLabel":"Zip Code:","ZipPostalMissing":"Zip Code required.","ZipPostalWrong":"Postal Code is not valid."};
+        var isSubmitInProgress = false;
+        //]]> 
+    </script>
+    <script type="text/javascript">
+        function onLogin() {
+                _s.jobview.logon.login();
+                return false;
+            }
+        
+        function ClearAllErrorFileds() {
+                $(".labelValidationError").each(function () {
+                    $(this).removeClass("labelValidationError");
+                });
+                $('[id$=_message]').each(function () {
+                    $(this).empty().text("");
+                });
+                $("#selectedResumeLabelID").val("");
+            }
+            function onSubmit() {
+
+            _s.jobview.apply.collectGeoData();
+            ClearAllErrorFileds();
+            if ($("#jvSummary").is(":visible"))
+            {                
+                if (_s.jobview.validation.validateQuickApply()) {
+                    continueWithSubmit();
+                }
+            }
+            else {
+                _s.jobview.validation.validateFullApply(continueWithSubmit, true);
+            }
+            return false;
+        }
+        function continueWithSubmit() {        
+
+            if (isSubmitInProgress) {
+                return; //DEV00422779
+            }
+            isSubmitInProgress = true;
+            
+        
+            document.form1["mode"].value = "submit";
+            document.form1.submit();            
+        }
+        function continueWithEdit() {        
+            document.form1["mode"].value = "save";
+            document.form1.submit();            
+        }
+        function onSave() {
+            _s.jobview.apply.collectGeoData();
+            ClearAllErrorFileds();
+            _s.jobview.validation.validateFullApply(continueWithEdit, false);
+            _s.jobview.apply.syncCoverLetter();            
+            return false;
+        }
+    </script> 
+    
+    <!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
+<script type="text/javascript"> 
+var monetateT = new Date().getTime();
+(function() {
+    var p = document.location.protocol;
+    if (p == "http:" || p == "https:") {
+        var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-fed70b4b/p/monster.com/" + Math.floor((monetateT + 2305995) / 3600000) + "/g";
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+    }
+})();
+</script>
+<!-- End Monetate tag. -->
+    <script type="text/javascript" src="//nexus.ensighten.com/monster/Bootstrap.js"></script>
+</head>
+<body>
+<div class="skip"><a href="#main-content" class="skip">Skip to main content</a> | <a href="#formButtons" class="skip">Skip to Form Submit Buttons, Edit or Cancel options</a></div>
+<iframe src="http://view.atdmt.com/iaction/monmao_ApplyStart_10" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="">Your browser does not support inline frames.</iframe>
+<iframe src="http://view.atdmt.com/iaction/monmao_ApplyStartMED_10" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="">Your browser does not support inline frames.</iframe>
+<iframe src="http://view.atdmt.com/iaction/monmao_ApplyStartSHT_10" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="">Your browser does not support inline frames.</iframe>
+
+    <form name="form1" method="post" action="./Apply.aspx?JobValue=EAAQld.OqEVnY9yaXuGhNpEe6PYivxxrF4V2MpXzm_jMcds-" id="form1" class="formGS" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTkwNTE5Nzg0OQ8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFghmDxYCHgRUZXh0BVZZb3UgYXJlIGFwcGx5aW5nIGZvcjombmJzcDsgUHVyY2hhc2luZyBDbGVyayDigJMgQnV5ZXIgYXQgUml2YSBQcmVjaXNpb24gTWFudWZhY3R1cmluZ2QCBQ8WAh8BBfoEPCEtLSBCZWdpbiBNb25ldGF0ZSB0YWcgdjYuIFBsYWNlIGF0IHN0YXJ0IG9mIGRvY3VtZW50IGhlYWQuIERPIE5PVCBBTFRFUi4gLS0+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4gCnZhciBtb25ldGF0ZVQgPSBuZXcgRGF0ZSgpLmdldFRpbWUoKTsKKGZ1bmN0aW9uKCkgewogICAgdmFyIHAgPSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbDsKICAgIGlmIChwID09ICJodHRwOiIgfHwgcCA9PSAiaHR0cHM6IikgewogICAgICAgIHZhciBtID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7IG0udHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBtLmFzeW5jID0gdHJ1ZTsgbS5zcmMgPSAocCA9PSAiaHR0cHM6IiA/ICJodHRwczovL3MiIDogImh0dHA6Ly8iKSArICJiLm1vbmV0YXRlLm5ldC9qcy8xL2EtZmVkNzBiNGIvcC9tb25zdGVyLmNvbS8iICsgTWF0aC5mbG9vcigobW9uZXRhdGVUICsgMjMwNTk5NSkgLyAzNjAwMDAwKSArICIvZyI7CiAgICAgICAgdmFyIHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07IHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUobSwgcyk7CiAgICB9Cn0pKCk7Cjwvc2NyaXB0Pgo8IS0tIEVuZCBNb25ldGF0ZSB0YWcuIC0tPmQCBg8WAh8BBVk8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIvL25leHVzLmVuc2lnaHRlbi5jb20vbW9uc3Rlci9Cb290c3RyYXAuanMiPjwvc2NyaXB0PmQCBw8WAh4HZW5jdHlwZQUTbXVsdGlwYXJ0L2Zvcm0tZGF0YRYaAgMPZBYCZg8WAh4HVmlzaWJsZWhkAgUPFgIfAQW1BDwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPgo8bm9zY3JpcHQ+PGlmcmFtZSBzcmM9Ii8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL25zLmh0bWw/aWQ9R1RNLVRLSkM1WCIKaGVpZ2h0PSIwIiB3aWR0aD0iMCIgc3R5bGU9ImRpc3BsYXk6bm9uZTt2aXNpYmlsaXR5OmhpZGRlbiI+PC9pZnJhbWU+PC9ub3NjcmlwdD4KPHNjcmlwdD4oZnVuY3Rpb24odyxkLHMsbCxpKXt3W2xdPXdbbF18fFtdO3dbbF0ucHVzaCh7J2d0bS5zdGFydCc6Cm5ldyBEYXRlKCkuZ2V0VGltZSgpLGV2ZW50OidndG0uanMnfSk7dmFyIGY9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZShzKVswXSwKaj1kLmNyZWF0ZUVsZW1lbnQocyksZGw9bCE9J2RhdGFMYXllcic/JyZsPScrbDonJztqLmFzeW5jPXRydWU7ai5zcmM9CicvL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndG0uanM/aWQ9JytpK2RsO2YucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoaixmKTsKfSkod2luZG93LGRvY3VtZW50LCdzY3JpcHQnLCdkYXRhTGF5ZXInLCdHVE0tVEtKQzVYJyk7PC9zY3JpcHQ+CjwhLS0gRW5kIEdvb2dsZSBUYWcgTWFuYWdlciAtLT5kAgcPFgIfAQUhPGRpdiBzdHlsZT0iZGlzcGxheTpub25lOyI+PC9kaXY+ZAIPD2QWAgIBDw8WAh8BBVZZb3UgYXJlIGFwcGx5aW5nIGZvcjombmJzcDsgUHVyY2hhc2luZyBDbGVyayDigJMgQnV5ZXIgYXQgUml2YSBQcmVjaXNpb24gTWFudWZhY3R1cmluZ2RkAhEPFgIeBWNsYXNzBSd2YWxpZGF0aW9uU3VtbWFyeUVycm9ycyBoaWRkZW4gY2xlYXJmaXhkAhMPZBYEAgEPDxYCHgtOYXZpZ2F0ZVVybAVeamF2YXNjcmlwdDpwb3BIZWxwV2luZG93KCdodHRwOi8vaGVscC5tb25zdGVyLmNvbS9qb2J2aWV3L2luZGV4LmFzcHg/bWE9JywgJy9hcHBseS9hcHBseScsICcnKWRkAgMPZBYCAgEPFgIeCWlubmVyaHRtbAUlQWxsIGZpZWxkcyByZXF1aXJlZCwgdW5sZXNzIGluZGljYXRlZGQCFw9kFgRmDw8WAh8DaGQWCAIDDxYCHwNnFgJmDxYCHgRocmVmBdABaHR0cHM6Ly9sb2dpbi5tb25zdGVyLmNvbS9GQkxhbmRpbmdQYWdlLmFzcHg/cnVybD1odHRwJTNhJTJmJTJmam9idmlldy5tb25zdGVyLmNvbSUyZkFwcGx5JTJmQXBwbHkuYXNweCUzZkpvYlZhbHVlJTNkRUFBUWxkLk9xRVZuWTl5YVh1R2hOcEVlNlBZaXZ4eHJGNFYyTXBYem1fak1jZHMtJTI2cmZiJTNkMSUyNmF0JTNkcmQlMjZyZSUzZGZyb21GQkMmY2g9TU9OU2QCBQ8WAh8DaBYIAgkPFgIeBXRpdGxlBRF0ZXh0Ym94IGZvciBlbWFpbGQCDA8WAh8DaGQCDg9kFgICAQ8WAh8IBRR0ZXh0Ym94IGZvciBwYXNzd29yZGQCDw9kFgICAQ8WAh8IBRR0ZXh0Ym94IGZvciBwYXNzd29yZGQCBw8PFgQeCENzc0NsYXNzBRZHU2xkNSBzaWduSW5CbG9ja1JpZ2h0HgRfIVNCAgJkFggCBQ8WAh8IBRF0ZXh0Ym94IGZvciBlbWFpbGQCCw8WAh8IBRR0ZXh0Ym94IGZvciBwYXNzd29yZGQCDw8WBB8IBRBGb3Jnb3QgcGFzc3dvcmQ/HwcFngFodHRwOi8vbG9naW4ubW9uc3Rlci5jb20vUGFzc3dvcmQvRm9yZ290P3I9aHR0cCUzYSUyZiUyZmpvYnZpZXcubW9uc3Rlci5jb20lMmZBcHBseSUyZkFwcGx5LmFzcHglM2ZKb2JWYWx1ZSUzZEVBQVFsZC5PcUVWblk5eWFYdUdoTnBFZTZQWWl2eHhyRjRWMk1wWHptX2pNY2RzLWQCEQ9kFgICAQ9kFgJmDxYCHgdvbmNsaWNrBaQBZGNzTXVsdGlUcmFjaygnRENTLmRjc3VyaScsJy9BcHBseS5hc3B4X0FwcGx5Q2FuY2VsLmV2dCcsJ0RDU2V4dC5rJywnQ25jbCcsJ0RDU2V4dC5lbicsJ0FwcF9TdGQnLCdEQ1NleHQuanBhdHRyYicsJzFfMF8wJywnRENTZXh0LmFwcGx5dHlwZXBhZ2UnLCdTQScpOyByZXR1cm4gdHJ1ZTtkAg0PZBYCZg9kFgQCAQ8WAh8GBQlIaSBEYW1lb25kAgMPDxYCHwEFC05vdCBEYW1lb24/FgIfCAUHTG9nIE91dGQCAQ8PFgIfA2dkFggCAQ8PFgIfAQUYTWVtYmVyc2hpcCBFbWFpbCBBZGRyZXNzZGQCBQ8WAh8GBRVhNTAzOTJ0aWdlckBnbWFpbC5jb21kAgcPFgIfBgUJSGkgRGFtZW9uZAIJDw8WAh8BBQtOb3QgRGFtZW9uPxYCHwgFB0xvZyBPdXRkAhkPD2QWAh4Fc3R5bGUFDmRpc3BsYXk6YmxvY2s7FggCAQ9kFgJmD2QWBAIBD2QWAgIHDxYCHg1kYXRhLXNlbGVjdGVkBQotIFNlbGVjdGVkFgQCAw8WAh8MBRlmbG9hdDpsZWZ0O2Rpc3BsYXk6YmxvY2s7FgICCQ8WAh4LXyFJdGVtQ291bnQCAhYEZg9kFggCAQ8WAh8BBYsBPGlucHV0IHR5cGU9InJhZGlvIiB2YWx1ZT0iMDE2Z3VwZWRpZjd6ZzNhdmNzdHJlc3VtZSIgbmFtZT0iUmVzdW1lcyIgaWQ9InJwdFJlc3VtZXNfY3RsMDBfbHRSYWRpb1Jlc3VtZSIgdGl0bGU9InJlc3VtZSIgY2hlY2tlZD0iY2hlY2tlZCIvPmQCAw8PFgQfAQUGcmVzdW1lHhNBc3NvY2lhdGVkQ29udHJvbElEBQ1sdFJhZGlvUmVzdW1lZGQCBQ8PFgIfAQUJNy8xMy8yMDE2ZGQCCQ8PFgQfAQUHUHJldmlldx8FBUpodHRwOi8vbXkubW9uc3Rlci5jb20vUmVzdW1lL1ByaW50UmVzdW1lLmFzcHg/cmVzdW1ldmFsdWU9Z3VwZWRpZjd6ZzNhdmNzdBYCHwgFIFByZXZpZXcgcmVzdW1lIG51bWJlciAxIChyZXN1bWUpZAIBD2QWCAIBDxYCHwEFejxpbnB1dCB0eXBlPSJyYWRpbyIgdmFsdWU9IjAxNmo1M2NteHg3N3FjNnVxeTVyZXN1bWUiIG5hbWU9IlJlc3VtZXMiIGlkPSJycHRSZXN1bWVzX2N0bDAxX2x0UmFkaW9SZXN1bWUiIHRpdGxlPSJyZXN1bWUiIC8+ZAIDDw8WBB8BBQZyZXN1bWUfDwUNbHRSYWRpb1Jlc3VtZWRkAgUPDxYCHwEFCTcvMTMvMjAxNmRkAgkPDxYEHwEFB1ByZXZpZXcfBQVKaHR0cDovL215Lm1vbnN0ZXIuY29tL1Jlc3VtZS9QcmludFJlc3VtZS5hc3B4P3Jlc3VtZXZhbHVlPWo1M2NteHg3N3FjNnVxeTUWAh8IBSBQcmV2aWV3IHJlc3VtZSBudW1iZXIgMiAocmVzdW1lKWQCBQ8WAh8MBQ5kaXNwbGF5OmJsb2NrOxYEAgkPZBYCAgMPFgIfCAUbdGV4dGJveCBmb3IgbmV3IHJlc3VtZSBuYW1lZAILD2QWAgIBDxYCHwgFImNoZWNrYm94IHRvIG1ha2UgcmVzdW1lIHNlYXJjaGFibGVkAgMPZBYCZg9kFgJmD2QWAgIFD2QWBmYPFgIfCAUgY2hlY2tib3ggdG8gaW5jbHVkZSBjb3ZlciBsZXR0ZXJkAgMPDxYCHwNoZBYCAgcPEGQQFQEQTmV3IGNvdmVyIGxldHRlchUBAi0yFCsDAWcWAWZkAgQPZBYCAgEPFgIeA2ZvcgUfQ292ZXJMZXR0ZXIxX2p2Q292ZXJMZXR0ZXJQYXN0ZRYEAgMPD2QWBh4Hb25LZXlVcAV3amF2YXNjcmlwdDpfcy5qb2J2aWV3LmNvdmVybGV0dGVyLnRleHRDb3VudGVyKCdDb3ZlckxldHRlcjFfanZDb3ZlckxldHRlclBhc3RlJywnQ292ZXJMZXR0ZXIxX2NoYXJDb3VudGVyTGFiZWwnLCA1MDAwKTseCG9uQ2hhbmdlBXdqYXZhc2NyaXB0Ol9zLmpvYnZpZXcuY292ZXJsZXR0ZXIudGV4dENvdW50ZXIoJ0NvdmVyTGV0dGVyMV9qdkNvdmVyTGV0dGVyUGFzdGUnLCdDb3ZlckxldHRlcjFfY2hhckNvdW50ZXJMYWJlbCcsIDUwMDApOx8IBQxDb3ZlciBMZXR0ZXJkAgkPDxYCHwEFFig1MDAwIGNoYXJhY3RlciBsaW1pdClkZAIDD2QWAmYPD2QWAh8MBQ5kaXNwbGF5OmJsb2NrOxYGAgMPZBYCAgMPEGRkFgBkAg0PFgIfA2hkAh8PFgIfA2gWCAIDDxYCHwNoZAIFDxYCHwNoZAIJDxYCHwNoFgICAw8QZGQWAWZkAg0PZBYCAgcPFgIfCAUbdGV4dGJveCBmb3IgYmlydGggZGF0ZSB5ZWFyZAIFD2QWAmYPD2QWAh8MBQ5kaXNwbGF5OmJsb2NrOxYGAgUPDxYCHwUFYWphdmFzY3JpcHQ6cG9wSGVscFdpbmRvdygnaHR0cDovL2hlbHAubW9uc3Rlci5jb20vam9idmlldy9pbmRleC5hc3B4P21hPScsICcvYXBwbHkvYXBwbHknLCAnZWVvJylkZAIHDxYCHwQFCGNsZWFyZml4FgQCAw9kFgICBQ8WAh8DZ2QCBQ8WAh8DaGQCCQ8WAh8DaGQCBw9kFgJmDw8WAh8DaGQWBgIBD2QWAgICDxYCHwNoFgJmDxYCHgdjaGVja2VkBQdjaGVja2VkZAIFDxYCHwNnFgICAQ8PFgIfAQWkAU1vbnN0ZXIgd2lsbCBhdXRvbWF0aWNhbGx5IGVtYWlsIGpvYiBwb3N0aW5ncyB0aGF0IGFyZSByZWxldmFudCB0byB5b3UuIFlvdSBjYW4gdW5zdWJzY3JpYmUgb24gdGhlIE1hbmFnZSBTYXZlZCBTZWFyY2hlcyBwYWdlIG9yIHdpdGggdGhlIG9wdC1vdXQgbGluayBpbiB0aGUgZW1haWwuZGQCBw8WAh8DaBYCZg8WAh8IBRhjaGVja2JveCB0byBjb3B5IENDIHNlbGZkAhsPZBYCZg9kFgoCBA9kFgICAQ8WAh8IBQhFZGl0DQoNCmQCCA9kFgICAQ9kFgJmDw9kFgIfBAUUanZDb3ZlcmxldHRlclN1bW1hcnkWBgIBDxYCHwQFFmp2UHVycGxlSGVhZGluZ1N1bW1hcnlkAgMPFgIfA2hkAgUPZBYGZg8WBh8EBSdqdkNvdmVyTGV0dGVySW5jbHVkZUlucHV0IHd0UUFUcmFja2FibGUfE2QfCAUgY2hlY2tib3ggdG8gaW5jbHVkZSBjb3ZlciBsZXR0ZXJkAgMPZBYCAgcPEA9kFgIfBAUmc2VsZWN0TWVudSBscmdTZWxlY3RNZW51IHd0UUFUcmFja2FibGVkFgBkAgQPZBYCAgEPFgIfEAUfQ292ZXJMZXR0ZXIyX2p2Q292ZXJMZXR0ZXJQYXN0ZRYEAgMPDxYGHwkFGWxyZ1RleHRhcmVhIHd0UUFUcmFja2FibGUfAWUfCgICFgYfEQV3amF2YXNjcmlwdDpfcy5qb2J2aWV3LmNvdmVybGV0dGVyLnRleHRDb3VudGVyKCdDb3ZlckxldHRlcjJfanZDb3ZlckxldHRlclBhc3RlJywnQ292ZXJMZXR0ZXIyX2NoYXJDb3VudGVyTGFiZWwnLCA1MDAwKTsfEgV3amF2YXNjcmlwdDpfcy5qb2J2aWV3LmNvdmVybGV0dGVyLnRleHRDb3VudGVyKCdDb3ZlckxldHRlcjJfanZDb3ZlckxldHRlclBhc3RlJywnQ292ZXJMZXR0ZXIyX2NoYXJDb3VudGVyTGFiZWwnLCA1MDAwKTsfCAUMQ292ZXIgTGV0dGVyZAIJDw8WAh8BBRYoNTAwMCBjaGFyYWN0ZXIgbGltaXQpZGQCLA8WAh8DaGQCMA9kFgJmDxYCHxNkZAIyD2QWAgIBDw8WAh8BBaQBTW9uc3RlciB3aWxsIGF1dG9tYXRpY2FsbHkgZW1haWwgam9iIHBvc3RpbmdzIHRoYXQgYXJlIHJlbGV2YW50IHRvIHlvdS4gWW91IGNhbiB1bnN1YnNjcmliZSBvbiB0aGUgTWFuYWdlIFNhdmVkIFNlYXJjaGVzIHBhZ2Ugb3Igd2l0aCB0aGUgb3B0LW91dCBsaW5rIGluIHRoZSBlbWFpbC5kZAIdD2QWAmYPZBYEZg8WAh8IBQZzdWJtaXRkAgEPFgQfCAUGQ2FuY2VsHwsFpAFkY3NNdWx0aVRyYWNrKCdEQ1MuZGNzdXJpJywnL0FwcGx5LmFzcHhfQXBwbHlDYW5jZWwuZXZ0JywnRENTZXh0LmsnLCdDbmNsJywnRENTZXh0LmVuJywnQXBwX1N0ZCcsJ0RDU2V4dC5qcGF0dHJiJywnMV8wXzAnLCdEQ1NleHQuYXBwbHl0eXBlcGFnZScsJ1NBJyk7IHJldHVybiB0cnVlO2QCIQ9kFigCAQ8WAh8GBQtKb2IgU3VtbWFyeWQCAw8PFgQfAQUVVmlldyBqb2IgZGVzY3JpcHRpb24gHgdUb29sVGlwBRVWaWV3IGpvYiBkZXNjcmlwdGlvbiAWAh4Hb25DbGljawWSAWphdmFzY3JpcHQ6d2luZG93Lm9wZW4oJy9HZXRKb2IuYXNweD9Kb2JJRD0xNjg4MjAyODcmbWQ9cHYnLCAnd2luSm9iJywgJ3dpZHRoPTk5NixoZWlnaHQ9NTc4LHNjcm9sbGJhcnM9MSxyZXNpemFibGU9eWVzLG1lbnViYXI9bm8nKTtyZXR1cm4gZmFsc2U7ZAIFDxYCHwYFCUpvYiBUaXRsZWQCBw8WAh8GBRpQdXJjaGFzaW5nIENsZXJrIOKAkyBCdXllcmQCCQ8WAh8GBQdDb21wYW55ZAILDxYCHwYFHFJpdmEgUHJlY2lzaW9uIE1hbnVmYWN0dXJpbmdkAg0PFgIfBgUITG9jYXRpb25kAg8PFgIfBgUSQnJvb2tseW4sIE5ZIDExMjIwZAIRDxYCHwYFCkluZHVzdHJpZXNkAhMPFgIfDgIBFgJmD2QWAgIBD2QWAmYPFgIfBgUVTWFudWZhY3R1cmluZyAtIE90aGVyZAIVDxYCHwYFCEpvYiBUeXBlZAIXDxYCHw4CAhYEZg9kFgICAQ8WAh8EBQptdWx0aXBsZWRkFgJmDxYCHwYFCUZ1bGwgVGltZWQCAQ9kFgICAQ8WAh8EBQ5tdWx0aXBsZWRkbGFzdBYCZg8WAh8GBQkgRW1wbG95ZWVkAhkPFgIfBgUTWWVhcnMgb2YgRXhwZXJpZW5jZWQCGw8WAh8GBQ0yKyB0byA1IFllYXJzZAIdDxYEHwYFD0VkdWNhdGlvbiBMZXZlbB8DaGQCHw8WAh8DaGQCIQ8WBB8GBQxDYXJlZXIgTGV2ZWwfA2hkAiMPFgIfA2hkAiUPFgQfBgUGU2FsYXJ5HwNoZAInDxYCHwNoZAIlDxYCHwFlZAInDxYCHwEFITxkaXYgc3R5bGU9ImRpc3BsYXk6bm9uZTsiPjwvZGl2PmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgkFEHJlc3VtZVNlYXJjaGFibGUFCURpdmVyc2l0eQUmQ292ZXJMZXR0ZXIxJGp2Q292ZXJMZXR0ZXJJbmNsdWRlSW5wdXQFBmV0aG5fMQUGZXRobl8yBQZldGhuXzMFBmV0aG5fNAUGZXRobl81BQZldGhuXzZkzLdsJxMHnNYvBuwhNTBpe6IFZA==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var controlData = {"promptBirthYear":"Enter year","promptCity":"City","promptCityProvince":"Location","promptPostalCode":"Postal Code"};var sharedMessages = {"MaximumCharactersLimit":"You’ve exceeded the maximum character limit. Please modify the text to fit within the {0} character limit."};if (idMap==null){var idMap=eval(({}));}else{throw 'the object idMap is already defined'}//]]>
+</script>
+<script type="text/javascript" language=JavaScript>
+function popHelpWindow(helpUrl, strUrl, strAnchor)
+{
+ if (strAnchor.length > 0) { strAnchor = "#" + strAnchor; }
+ var strText = helpUrl + strUrl + strAnchor;
+ var winHelp = window.open(strText, "help", "width=780,height=560,scrollbars=1,resizable=yes");
+ winHelp.focus()
+}
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="27995748" />
+</div>
+
+    <link href="http://css-seeker.newjobs.com/r/MONS/v4.1.2.2924/global/51.browserAlerts_css.axd" rel="stylesheet" type="text/css" />
+    
+
+    <script type="text/javascript">
+        function acceptInterruptCookie() {
+            $('#interruptModalOverlay').hide();
+            $('#interruptmodalContainer').hide();
+            var date = new Date();
+            date.setTime(date.getTime() + 8 * 60 * 60 * 1000);
+            var oCookie = "BrowserAlertsManager_SuppressWarning_0=true; expires=" + date.toGMTString() + "; path=/; domain=.monster.com";
+            document.cookie = oCookie;
+       
+        }
+    </script>
+
+
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TKJC5X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TKJC5X');</script>
+<!-- End Google Tag Manager -->
+    <div style="display:none;"></div>
+    
+    <input type="hidden" id="mode" name="mode" />
+    <div id="usedResumes" style="display: none;"></div>
+    <!-- Jobview Headerboard -->
+    <div id="monsterAppliesHeaderHolder">
+  <div id="mAH_top">
+    <div id="monsterAppliesHeaderHolder_Overflow"><A href="http://www.monster.com?disRe=true" id="logo_monster_apply" alt="Jobs" title="Jobs" mns_rt="nav"><span>Jobs</span></A><div class="mainMenuHeader">
+        <div class="mainMenuHeaderBorderLeft">
+          <div class="mainMenuHeaderBorderLeftTop"></div>
+          <div class="mainMenuHeaderBorderLeftBottom"></div>
+        </div>
+        <div class="mainMenuHeaderCentral">
+          <div class="mainMenuHeaderCenterTop">
+            <ul>
+              <li class="mAH_firstLi"><a href="http://my.monster.com/Resume/ManageResumes" mns_rt="nav" title="Resumes">Resumes</a></li>
+              <li><a href="http://jobsearch.monster.com" mns_rt="nav" title="Jobs">Jobs</a></li>
+              <li><a href="http://resources.monster.com" mns_rt="nav" title="Career Resources">Career Resources</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="mainMenuHeaderBorderRight">
+          <div class="mainMenuHeaderBorderRightTop"></div>
+          <div class="mainMenuHeaderBorderRightBottom"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="monsterAppliesHeaderHolder_minWidth"></div>
+</div>
+    <div id="jvFullApplyPageWrapper" class="formStyleGuide">
+        
+
+<div id="jvHeadings" class="cssMarginBottom14">
+    <div class="jvHeadBottom fnt12"><span id="ApplyHead1_lblHeadInfo">You are applying for:&nbsp; Purchasing Clerk – Buyer at Riva Precision Manufacturing</span></div>
+    
+</div>
+
+        <!-- START colums -->
+        <a name="main-content" id="main-content"></a>
+        <div id="jvFullApplyPageColumns">
+            <div class="jvApplyLeftCol">
+                <a name="lnkErrHolder" id="lnkErrHolder"></a>
+                <div id="errHolder" class="validationSummaryErrors hidden clearfix" aria-live="polite" aria-relevant="interim additions text"></div>
+                <div class="pageContainer skin765">
+                    <div id="jvRequiredLegend">
+	
+                        <a id="MONSHelpLink1" title="Help" href="javascript:popHelpWindow(&#39;http://help.monster.com/jobview/index.aspx?ma=&#39;, &#39;/apply/apply&#39;, &#39;&#39;)">&nbsp;&nbsp;&nbsp;</a>
+                        <span class="fnt20">
+                        <span id="reqInfo">All fields required, unless indicated</span></span>
+                        
+                    
+</div>
+                    <div class="pcBgTop marginTop0"></div>
+                    <div class="pcBgMid">
+                        <div class="pcBody clearfix">
+                            <!-- DOI Block -->
+                            
+                            <!-- Login Block -->
+                            
+                                <fieldset>
+                                <legend style="display:none">Become a Member Form</legend>
+                                
+                                </fieldset>
+                                <div id="jvContactInfo">
+	
+                                    <div class="jvPurpleHeading">
+										<span id="lblHeadline">Membership Email Address</span>                                    
+                                    </div>
+                                    <div id="contactDivider" class="pcDivider"></div>
+                                    <div class="subColWrapper ctl060Indent">
+                                        <div class="fieldWrapper fnt4">
+                                            <span id="jvMemberEmail"><span id="spanEmailAuthenticated">a50392tiger@gmail.com</span></span>
+                                            <!-- welcome back links-->
+                                            <span id="jvWelcome" class="jvMemberLink">
+                                                <span id="spanWelcomeBack">Hi Dameon</span>&#160;
+                                                <a id="LinkButtonLogOut" title="Log Out" href="javascript:__doPostBack(&#39;LinkButtonLogOut&#39;,&#39;&#39;)">Not Dameon?</a>
+                                            </span>
+                                        </div>
+                                    </div>
+                                
+</div>
+                            <br clear="all" style="height:0px;" />
+                            <div id="ApplyFormFull" class="clearfix" style="display:block;">
+	
+                                <a name="skipApplyFormFull" id="skipApplyFormFull"></a>
+                                <div class="displayDisabled"></div>
+                                <!-- Resume & Cover Letter -->
+                                
+                                    <fieldset class="clearfix">
+                                    <legend style="display:none">Resume Information</legend>
+                                    <div id="jvResumeCLBlock" class="jvInfoBlock clearfix">
+		
+                                        <!-- Resume -->
+                                        <div id="jvResume">
+			
+                                            <div class="jvPurpleHeading fnt12">
+                                                <span id="jvResumeHeading">Resume</span></div>
+                                            <div class="pcDivider"></div>
+                                            <!-- Resume Picker Tabs -->
+                                            <div id="jvResumeTabsContainer" class="ctl060Indent">
+                                                <div id="jvResumeTabs">
+                                                    <ul>
+                                                    
+                                                        <li><div class="jvTab">
+                                                            <div class="jvTabCornerTop"></div>
+                                                            <div class="jvTabCornerBottom"></div>
+                                                            <a href="#jvResumeUseCurrent" id="jvResumeListTab" _tabno="0" onclick="select_tab(0);return false;" title="Select a saved resume - Tab">
+                                                                Select a saved resume<span class="aceHidden"> - Tab<span id="tabno0"></span></span>
+                                                            </a>
+                                                        </div></li>
+                                                    
+                                                    
+                                                        <li><div id="uploadTabWrap" class="jvTab">
+                                                            <div class="jvTabCornerTop"></div>
+                                                            <div class="jvTabCornerBottom"></div>
+                                                            <a href="#jvResumeUpload" _tabno="1" class="fnt5" id="jvUploadTab" onclick="select_tab(1);return false;" title="Upload a new resume - Tab">
+                                                                Upload a new resume<span class="aceHidden"> - Tab<span id="tabno1"></span></span>
+                                                            </a>
+                                                        </div></li>
+                                                    
+                                                    </ul>
+                                                    <br class="clear" />
+                                                </div>
+                                                <div id="jvResumeContainer" data-selected="- Selected">
+                                                    <input name="resumeWhichTabSelected" type="hidden" id="resumeWhichTabSelected" />
+                                                    <div id="jvResumeTypesHolder">
+                                                        <div class="jvResumeCornerTL"></div>
+                                                        <div class="jvResumeCornerTR"></div>
+                                                        <div class="jvResumeCornerBL"></div>
+                                                        <div class="jvResumeCornerBR"></div>
+                                                        <div id="jvResumeLists" class="ctl060RowLast">
+                                                            <div id="jvResumeUseCurrent" style="float:left;display:block;">
+                                                                <table id="jvCurrentResumeList" border="0" cellpadding="0" cellspacing="0">
+                                                                    <tr class="jvHeaderRow">
+                                                                        <th class="jvResumeNames"><span class="aceHidden">Radio buttons</span>Saved Resumes</th>
+                                                                        <th class="jvResumesUpdated">Last Updated</th>
+                                                                        <th class="jvResumesLinks"><span class="aceHidden">Preview</span></th>
+                                                                    </tr>
+                                                                    
+                                                                            <tr>
+                                                                                <td class="ctl060InputRadios">
+                                                                                    <input type="radio" value="016gupedif7zg3avcstresume" name="Resumes" id="rptResumes_ctl00_ltRadioResume" title="resume" checked="checked"/>
+                                                                                    <label for="rptResumes_ctl00_ltRadioResume" id="rptResumes_ctl00_lblResumeName">resume</label>
+                                                                               </td>
+                                                                                <td>
+                                                                                    <span id="rptResumes_ctl00_lblDate" class="lblDateStyle">7/13/2016</span>
+                                                                               </td>
+                                                                                <td class="fntA1">
+                                                                                    <input name="rptResumes$ctl00$hfFullResumeName" type="hidden" id="rptResumes_ctl00_hfFullResumeName" value="resume" />
+                                                                                    <a id="rptResumes_ctl00_hlView" class="fntA1" title="Preview resume number 1 (resume)" href="http://my.monster.com/Resume/PrintResume.aspx?resumevalue=gupedif7zg3avcst" target="_blank">Preview</a>
+                                                                               </td>
+                                                                            </tr>
+                                                                        
+                                                                            <tr>
+                                                                                <td class="ctl060InputRadios">
+                                                                                    <input type="radio" value="016j53cmxx77qc6uqy5resume" name="Resumes" id="rptResumes_ctl01_ltRadioResume" title="resume" />
+                                                                                    <label for="rptResumes_ctl01_ltRadioResume" id="rptResumes_ctl01_lblResumeName">resume</label>
+                                                                               </td>
+                                                                                <td>
+                                                                                    <span id="rptResumes_ctl01_lblDate" class="lblDateStyle">7/13/2016</span>
+                                                                               </td>
+                                                                                <td class="fntA1">
+                                                                                    <input name="rptResumes$ctl01$hfFullResumeName" type="hidden" id="rptResumes_ctl01_hfFullResumeName" value="resume" />
+                                                                                    <a id="rptResumes_ctl01_hlView" class="fntA1" title="Preview resume number 2 (resume)" href="http://my.monster.com/Resume/PrintResume.aspx?resumevalue=j53cmxx77qc6uqy5" target="_blank">Preview</a>
+                                                                               </td>
+                                                                            </tr>
+                                                                        
+                                                                </table>
+                                                                <input name="selectedResumeLabelID" type="hidden" id="selectedResumeLabelID" value="-1" />
+                                                                <div class="ctl060InputSubText ctl060EmptyIcon">
+                                                                    <div id="selectResume_message" class="fnt20 fieldValidationError"></div>
+                                                                </div>
+                                                            </div>
+                                                            <div id="jvResumeUpload" style="display:block;">
+                                                                <div class="ctl060Row clearfix">
+                                                                    <fieldset>
+                                                                    <label class="fieldWrapper GSgd4" id="uploadedFile_label" for="uploadedFile">
+                                                                        <strong id="uploadedFile_labelText" class="fnt5">
+                                                                            Select a resume
+                                                                        </strong>
+                                                                        <input type="file" name="uploadedFile" id="uploadedFile" class="uploadedFile wtTrackable" />
+                                                                        <span id="uploadedFile_message" class="fnt20 fieldValidationError"></span>
+                                                                        <span class="fnt20">
+                                                                            (.doc,.docx,.pdf,.rtf, or .txt, 500KB or smaller.)
+                                                                        </span>
+                                                                    </label>
+                                                                    </fieldset>
+                                                                </div>
+                                                                <div id="resumeNameDiv" class="ctl060Row clearfix">
+                                                                    <fieldset>
+                                                                    <label class="fieldWrapper GSgd4" id="nameNewResume_label">
+                                                                        
+                                                                        <strong class="fnt5">
+                                                                            Name your resume
+                                                                        </strong>
+                                                                        <input name="nameNewResume" type="text" id="nameNewResume" maxlength="35" class="textInput lrgTextField wtTrackable" title="textbox for new resume name" />
+                                                                        <span id="nameNewResume_message" class="fnt20 fieldValidationError"></span>
+                                                                        <span class="fnt20"><span id="msgEmployersWLC">(Employers will see this title. Make your resume stand out.)
+</span></span>
+                                                                    </label>
+                                                                    </fieldset>
+                                                                </div>
+                                                                <div id="resumeSearchableDiv">
+                                                                    <fieldset>
+                                                                        <label for="resumeSearchable">
+                                                                            <input name="resumeSearchable" type="checkbox" id="resumeSearchable" class="wtTrackable" checked="checked" onclick="_s.jobview.validation.jobviewdiversitycheck();" title="checkbox to make resume searchable" />
+                                                                            <span class="fnt5"><span id="msgSearchable">Make this resume searchable by employers.
+</span></span>
+                                                                            
+                                                                        </label>
+                                                                    </fieldset>
+                                                                </div>
+                                                                <div id="DiversityDiv">
+                                                                <fieldset>
+                                                                <label for="Diversity">
+                                                                <input name="Diversity" type="checkbox" id="Diversity" class="wtTrackable" checked="checked" />
+                                                                <span class="fnt5"><span id="MsgDiversity">Make my resume searchable to employers seeking diversity candidates.</span></span>
+                                                                </label>
+                                                                </fieldset>
+                                                                </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <br class="clear" />
+                                                    </div>
+                                                    <br class="clear" />
+                                                </div>
+                                            </div>
+                                        
+		</div>
+                                        <br class="clear" />
+                                        <div id="divQACL1">
+                                        <fieldset class="clearfix">
+                                        <legend style="display:none">Cover Letter Information</legend>
+                                        <div id="CoverLetter1_jvCoverletter" class="jvCoverletter GSld10">
+			
+    <div id="CoverLetter1_CoverletterHeading" class="jvPurpleHeading">
+        <span id="CoverLetter1_jvCoverLetterHeading" class="fnt12">Cover Letter</span> <span class="fnt17">(Optional)</span></div>
+    <div id="CoverLetter1_coverletterHR" class="pcDivider"></div>
+    <div id="CoverLetter1_jvCLSection" class="jvCoverLetterParent jvPadTop">
+				
+        <div class="clearfix" id="jvCLIncludeSection">
+            <div class="GSld10">
+                <div class="ctl060CheckBox cssFloatLeft">
+                    <input name="CoverLetter1$jvCoverLetterIncludeInput" type="checkbox" id="CoverLetter1_jvCoverLetterIncludeInput" class="jvCoverLetterIncludeInput wtTrackable" onclick="_s.jobview.coverletter.coverLetterCheckBoxClicked($(this))" title="checkbox to include cover letter" />
+                </div>
+                <div class="ctl060CheckBoxLabel cssFloatLeft fnt4">
+                   <label for="CoverLetter1_jvCoverLetterIncludeInput"><span id="CoverLetter1_jvCoverletterText">I want to include a cover letter.
+</span></label> <span class="skip"><a href="#personalDatablock">Skip to personal information</a></span>
+                </div>
+            </div>
+        </div>
+        <div class="coverLetterToggleContent clearfix">
+            
+            <div id="CoverLetter1_jvNewCLSection" class="clearfix jvNewCLSection">
+					
+                <div class="ctl060InputPlain">
+                    <label id="CoverLetter1_jvCoverLetterPaste_label" class="GSgd10" for="CoverLetter1_jvCoverLetterPaste">
+                        <strong><span id="CoverLetter1_MONSMessage1">Cover Letter</span></strong>
+                        <textarea name="CoverLetter1$jvCoverLetterPaste" rows="10" cols="20" id="CoverLetter1_jvCoverLetterPaste" class="lrgTextarea wtTrackable" onKeyUp="javascript:_s.jobview.coverletter.textCounter(&#39;CoverLetter1_jvCoverLetterPaste&#39;,&#39;CoverLetter1_charCounterLabel&#39;, 5000);" onChange="javascript:_s.jobview.coverletter.textCounter(&#39;CoverLetter1_jvCoverLetterPaste&#39;,&#39;CoverLetter1_charCounterLabel&#39;, 5000);" title="Cover Letter">
+</textarea>
+                        <div class="fnt20 characterCount">
+                        <span id="CoverLetter1__Monsmessage1" class="Small">Character Count:</span>&nbsp;
+                        <span id="CoverLetter1_charCounterLabel" class="small"></span>
+	                    <span id="CoverLetter1__lblCharCountHint" class="Small">(5000 character limit)</span>
+                        </div>
+                        <div class="ctl060InputSubText">
+                        <span class="jvCLPlainText fnt20 clearfix">(<span id="CoverLetter1_jvCLPlainText"><strong>Note:</strong> Use plain text only. HTML is not supported.</span>)</span>
+                        <span class="btnLetterSpellCheck">
+                            <script type="text/javascript" language="javascript">
+function LaunchSpellCheck_CoverLetter1_spcLetter()  
+{   
+     var iUserId = 0;   
+     var iChannelId = 58;   
+     var sTitle     = 'Monster Spellcheck';   
+     var aFields = new Array('CoverLetter1_jvCoverLetterPaste');   
+     var aFieldLabels = new Array('');   
+     if ( typeof( FTB_API ) != "undefined" && FTB_API != null ) {
+          for ( var i = 0; i < aFields.length; i++ ) {
+               if ( FTB_API[ aFields[ i ] ] != null ) {
+                    FTB_API[ aFields[ i ] ].CopyDesignToHtml();
+               }
+          }
+     }
+     SpellCheck(document.forms[0], aFields, aFieldLabels, sTitle, iUserId, iChannelId);   
+}   
+</script>
+
+<a href="#" onclick="javascript:LaunchSpellCheck_CoverLetter1_spcLetter(); return false;"><img src="http://media.newjobs.com/nmy/usen/40x16_SpellCheck_redux.gif" alt="Spellcheck your entries" title="Spellcheck your entries"/></a>
+
+                        </span>
+                        </div>
+                        <span id="CoverLetter1_jvCoverLetterPaste_message" class="fnt20 fieldValidationError hidden"></span>
+                    </label>
+                </div>
+            
+				</div>
+        </div>
+    
+			</div>
+    
+
+		</div>
+
+                                        </fieldset>
+                                        </div>
+                                    
+	</div>
+                                    </fieldset>
+                                
+                                <!-- Personal Data + EEO Data Block -->
+                                
+                                    <span class="cssClearBoth"></span>
+                                    <fieldset class="clearfix">
+                                    <legend style="display:none">Personal Information</legend>
+                                    <div id="jvPersonalDataBlock" class="jvInfoBlock clearfix" style="display:block;">
+		
+                                        <a name="personalDatablock"></a>
+                                        <div class="jvPurpleHeading fnt12"><span id="jvPersonalDataHeading">Personal Information</span></div>
+                                        <div class="pcDivider"></div>
+                                        <div class="clearfix">
+                                            
+                                                
+                                            <div class="fieldWrapper clearfix">
+                                                <fieldset>
+                                                    <label class="GSgd5" id="tbName_label" for="tbName">
+                                                        <strong><span id="MONSMessage1">First name:</span></strong>
+                                                        <input name="tbName" type="text" value="Dameon" maxlength="100" id="tbName" class="textInput lrgTextField wtTrackable" />
+                                                        <span id="tbName_message" class="fnt20 fieldValidationError"></span>
+                                                    </label>
+                                                
+                                                
+                                                
+                                                <label class="GSgd5" id="tbSurname_label" for="tbSurname">
+                                                    <strong><span id="MONSMessage4">Last name:</span></strong>
+                                                    <input name="tbSurname" type="text" value="Dameon" maxlength="50" id="tbSurname" class="textInput lrgTextField wtTrackable" />
+                                                    <span id="tbSurname_message" class="fnt20 fieldValidationError"></span>
+                                                </label>
+                                                
+                                                    <!-- close fieldset -->
+                                                    </fieldset>
+                                                
+                                            </div>
+
+                                            <div id="CityProvinceWrapper" class="fieldWrapper clearfix">
+                                                <div id="CityProvinceDiv" class="clearfix">
+                                                    <fieldset>
+                                                        <label class="GSgd5" id="ddlCountry_label" for="ddlCountry">
+                                                        <strong><span id="MONSMessage5">Country:</span></strong>
+                                                        <select name="ddlCountry" id="ddlCountry" class="wtTrackable" title="Country:">
+			<option value="">- SELECT -</option>
+			<option value="1">Afghanistan</option>
+			<option value="2">Albania</option>
+			<option value="3">Algeria</option>
+			<option value="243">American Samoa</option>
+			<option value="4">Andorra</option>
+			<option value="5">Angola</option>
+			<option value="176">Anguilla</option>
+			<option value="177">Antarctica</option>
+			<option value="175">Antigua and Barbuda</option>
+			<option value="6">Argentina</option>
+			<option value="7">Armenia</option>
+			<option value="179">Aruba</option>
+			<option value="8">Australia</option>
+			<option value="9">Austria</option>
+			<option value="10">Azerbaijan</option>
+			<option value="11">Bahamas</option>
+			<option value="12">Bahrain</option>
+			<option value="13">Bangladesh</option>
+			<option value="14">Barbados</option>
+			<option value="15">Belarus</option>
+			<option value="16">Belgium</option>
+			<option value="17">Belize</option>
+			<option value="18">Benin</option>
+			<option value="19">Bermuda</option>
+			<option value="20">Bhutan</option>
+			<option value="21">Bolivia</option>
+			<option value="22">Bosnia-Herzegovina</option>
+			<option value="23">Botswana</option>
+			<option value="181">Bouvet Island</option>
+			<option value="24">Brazil</option>
+			<option value="201">British Indian Ocean Territory</option>
+			<option value="180">Brunei Darussalam</option>
+			<option value="25">Bulgaria</option>
+			<option value="26">Burkina Faso</option>
+			<option value="27">Burundi</option>
+			<option value="28">Cambodia</option>
+			<option value="29">Cameroon</option>
+			<option value="30">Canada</option>
+			<option value="31">Cape Verde</option>
+			<option value="32">Cayman Islands</option>
+			<option value="33">Central African Republic</option>
+			<option value="34">Chad</option>
+			<option value="35">Chile</option>
+			<option value="36">China</option>
+			<option value="185">Christmas Island</option>
+			<option value="182">Cocos (Keeling) Islands</option>
+			<option value="37">Colombia</option>
+			<option value="204">Comoros</option>
+			<option value="38">Congo</option>
+			<option value="183">Cook Islands</option>
+			<option value="39">Costa Rica</option>
+			<option value="40">Croatia</option>
+			<option value="184">Cuba</option>
+			<option value="41">Cyprus</option>
+			<option value="42">Czech Republic</option>
+			<option value="172">Democratic Republic of Congo</option>
+			<option value="43">Denmark</option>
+			<option value="44">Djibouti</option>
+			<option value="186">Dominica</option>
+			<option value="187">Dominican Republic</option>
+			<option value="233">East Timor</option>
+			<option value="251">East Timor</option>
+			<option value="45">Ecuador</option>
+			<option value="46">Egypt</option>
+			<option value="47">El Salvador</option>
+			<option value="48">Equatorial Guinea</option>
+			<option value="49">Eritrea</option>
+			<option value="50">Estonia</option>
+			<option value="51">Ethiopia</option>
+			<option value="189">Falkland Islands</option>
+			<option value="191">Faroe Islands</option>
+			<option value="52">Fiji</option>
+			<option value="53">Finland</option>
+			<option value="228">Former USSR</option>
+			<option value="54">France</option>
+			<option value="55">France (European Territory)</option>
+			<option value="193">French Guyana</option>
+			<option value="230">French Southern Territories</option>
+			<option value="56">Gabon</option>
+			<option value="57">Gambia</option>
+			<option value="58">Georgia</option>
+			<option value="59">Germany</option>
+			<option value="60">Ghana</option>
+			<option value="194">Gibraltar</option>
+			<option value="61">Greece</option>
+			<option value="195">Greenland</option>
+			<option value="192">Grenada</option>
+			<option value="196">Guadeloupe (French)</option>
+			<option value="245">Guam</option>
+			<option value="198">Guatemala</option>
+			<option value="63">Guinea</option>
+			<option value="64">Guinea Bissau</option>
+			<option value="65">Guyana</option>
+			<option value="200">Haiti</option>
+			<option value="199">Heard and McDonald Islands</option>
+			<option value="66">Honduras</option>
+			<option value="67">Hong Kong</option>
+			<option value="68">Hungary</option>
+			<option value="69">Iceland</option>
+			<option value="70">India</option>
+			<option value="71">Indonesia</option>
+			<option value="72">Iran</option>
+			<option value="73">Iraq</option>
+			<option value="74">Ireland</option>
+			<option value="75">Israel</option>
+			<option value="76">Italy</option>
+			<option value="77">Ivory Coast</option>
+			<option value="202">Jamaica</option>
+			<option value="78">Japan</option>
+			<option value="79">Jordan</option>
+			<option value="80">Kazakhstan</option>
+			<option value="81">Kenya</option>
+			<option value="203">Kiribati</option>
+			<option value="82">Kuwait</option>
+			<option value="83">Kyrgyzstan</option>
+			<option value="84">Laos</option>
+			<option value="85">Latvia</option>
+			<option value="86">Lebanon</option>
+			<option value="87">Lesotho</option>
+			<option value="88">Liberia</option>
+			<option value="89">Libya</option>
+			<option value="90">Liechtenstein</option>
+			<option value="91">Lithuania</option>
+			<option value="92">Luxembourg</option>
+			<option value="208">Macau</option>
+			<option value="93">Macedonia</option>
+			<option value="94">Madagascar</option>
+			<option value="95">Malawi</option>
+			<option value="96">Malaysia</option>
+			<option value="97">Maldives</option>
+			<option value="98">Mali</option>
+			<option value="99">Malta</option>
+			<option value="207">Marshall Islands</option>
+			<option value="210">Martinique (French)</option>
+			<option value="100">Mauritania</option>
+			<option value="212">Mauritius</option>
+			<option value="241">Mayotte</option>
+			<option value="101">Mexico</option>
+			<option value="190">Micronesia</option>
+			<option value="102">Moldavia</option>
+			<option value="103">Monaco</option>
+			<option value="104">Mongolia</option>
+			<option value="246">Montenegro</option>
+			<option value="211">Montserrat</option>
+			<option value="105">Morocco</option>
+			<option value="106">Mozambique</option>
+			<option value="242">Myanmar, Union of (Burma)</option>
+			<option value="107">Namibia</option>
+			<option value="215">Nauru</option>
+			<option value="108">Nepal</option>
+			<option value="109">Netherlands</option>
+			<option value="110">Netherlands Antilles</option>
+			<option value="216">Neutral Zone</option>
+			<option value="213">New Caledonia (French)</option>
+			<option value="111">New Zealand</option>
+			<option value="112">Nicaragua</option>
+			<option value="113">Niger</option>
+			<option value="114">Nigeria</option>
+			<option value="217">Niue</option>
+			<option value="214">Norfolk Island</option>
+			<option value="115">North Korea</option>
+			<option value="209">Northern Mariana Islands</option>
+			<option value="116">Norway</option>
+			<option value="117">Oman</option>
+			<option value="118">Pakistan</option>
+			<option value="222">Palau</option>
+			<option value="249">Palestinian Territory, Occupied</option>
+			<option value="119">Panama</option>
+			<option value="219">Papua New Guinea</option>
+			<option value="120">Paraguay</option>
+			<option value="121">Peru</option>
+			<option value="122">Philippines</option>
+			<option value="221">Pitcairn Island</option>
+			<option value="123">Poland</option>
+			<option value="218">Polynesia (French)</option>
+			<option value="124">Portugal</option>
+			<option value="126">Qatar</option>
+			<option value="127">Reunion (French)</option>
+			<option value="128">Romania</option>
+			<option value="129">Russian Federation</option>
+			<option value="130">Rwanda</option>
+			<option value="197">S. Georgia &amp; S. Sandwich Islands</option>
+			<option value="244">Saint Barth&#233;lemy</option>
+			<option value="224">Saint Helena</option>
+			<option value="205">Saint Kitts &amp; Nevis Anguilla</option>
+			<option value="206">Saint Lucia</option>
+			<option value="247">Saint Martin</option>
+			<option value="220">Saint Pierre and Miquelon</option>
+			<option value="131">Saint Tome and Principe</option>
+			<option value="237">Saint Vincent &amp; Grenadines</option>
+			<option value="132">Samoa</option>
+			<option value="227">San Marino</option>
+			<option value="133">Saudi Arabia</option>
+			<option value="134">Senegal</option>
+			<option value="250">Serbia</option>
+			<option value="135">Seychelles</option>
+			<option value="136">Sierra Leone</option>
+			<option value="137">Singapore</option>
+			<option value="138">Slovakia</option>
+			<option value="139">Slovenia</option>
+			<option value="223">Solomon Islands</option>
+			<option value="140">Somalia</option>
+			<option value="141">South Africa</option>
+			<option value="142">South Korea</option>
+			<option value="143">Spain</option>
+			<option value="144">Sri Lanka</option>
+			<option value="145">Sudan</option>
+			<option value="146">Suriname</option>
+			<option value="225">Svalbard and Jan Mayen Islands</option>
+			<option value="147">Swaziland</option>
+			<option value="148">Sweden</option>
+			<option value="149">Switzerland</option>
+			<option value="150">Syria</option>
+			<option value="151">Tadjikistan</option>
+			<option value="152">Taiwan</option>
+			<option value="153">Tanzania</option>
+			<option value="154">Thailand</option>
+			<option value="155">Togo</option>
+			<option value="231">Tokelau</option>
+			<option value="232">Tonga</option>
+			<option value="234">Trinidad and Tobago</option>
+			<option value="156">Tunisia</option>
+			<option value="157">Turkey</option>
+			<option value="158">Turkmenistan</option>
+			<option value="229">Turks and Caicos Islands</option>
+			<option value="235">Tuvalu</option>
+			<option value="159">Uganda</option>
+			<option value="160">UK</option>
+			<option value="161">Ukraine</option>
+			<option value="162">United Arab Emirates</option>
+			<option value="163">Uruguay</option>
+			<option selected="selected" value="164">US</option>
+			<option value="236">USA Minor Outlying Islands</option>
+			<option value="165">Uzbekistan</option>
+			<option value="239">Vanuatu</option>
+			<option value="166">Vatican City</option>
+			<option value="167">Venezuela</option>
+			<option value="168">Vietnam</option>
+			<option value="169">Virgin Islands (British)</option>
+			<option value="238">Virgin Islands (USA)</option>
+			<option value="240">Wallis and Futuna Islands</option>
+			<option value="188">Western Sahara</option>
+			<option value="170">Yemen</option>
+			<option value="171">Yugoslavia</option>
+			<option value="173">Zambia</option>
+			<option value="174">Zimbabwe</option>
+
+		</select>
+                                                        <span id="ddlCountry_message" class="fnt20 fieldValidationError"></span>
+                                                    </label>   
+                                                    </fieldset>    
+                                                    <fieldset>                                                 
+                                                    <label class="GSgd5" id="tbCityProvince_label" for="tbCityProvince">
+                                                        <strong><span id="MONSMessageLocation">Zip Code:</span></strong>
+                                                        <input name="tbCityProvince" type="text" value="60626, Rogers Park, IL" maxlength="100" id="tbCityProvince" class="textInput lrgTextField wtTrackable" />
+                                                        <input name="tbGeoId" type="text" value="10102503" maxlength="100" id="tbGeoId" class="ctl060Hint hidden" />
+                                                        <span id="tbCityProvince_message" class="fnt20 fieldValidationError"></span>
+                                                    </label>
+                                                    </fieldset>
+                                                </div>
+                                            </div>
+
+                                            
+
+                                            
+
+                                            
+                                            
+                                        </div>
+                                    
+	</div>
+                                    </fieldset>
+                                
+                                
+                                    <span class="cssClearBoth"></span>
+                                    <fieldset class="clearfix">
+                                        <legend style="display:none">Diversity Information</legend>
+                                    <!-- Diversity Block -->    
+                                    <div id="jvDiversityBlock" class="clearfix" style="display:block;">
+		
+                                        <div class="jvPurpleHeading fnt12">
+                                            <span id="LabelRightColumnTitle">Diversity Information</span></div>
+                                        <div class="pcDivider"></div>
+                                        <div class="jvPadTop">
+                                            <div class="fieldWrapper clearfix">
+                                                <span class="fnt4">
+                                                    <span id="msgEEOInfo">This employer has requested Equal Employment Opportunity/ Affirmative Action <Strong>(EEO/AA)</strong> demographic information as part of their application process. Providing this information is strictly voluntary. Select 'Decline to identify' if you do not wish to provide it. The law prohibits employers from taking any adverse action against you if you choose not to provide this information.
+</span>                                                    
+                                                    <a id="lnkEEO" href="javascript:popHelpWindow(&#39;http://help.monster.com/jobview/index.aspx?ma=&#39;, &#39;/apply/apply&#39;, &#39;eeo&#39;)">Learn more</a>
+                                                </span>
+                                            </div>
+                                            <div id="ethnicityTarget" class="clearfix">
+                                                <fieldset>
+                                                <div id="divGender" class="fieldWrapper clearfix">
+                                                    
+                                                    <label class="GSgd5" id="ddlGender_label">
+                                                        <strong><span id="Monsmessage12">Gender:</span></strong>
+                                                        <select name="ddlGender" id="ddlGender" class=" wtTrackable" title="Gender:">
+			<option selected="selected" value="">- SELECT -</option>
+			<option value="1">Male</option>
+			<option value="2">Female</option>
+			<option value="-1">Decline to Identify</option>
+
+		</select>
+                                                        <div id="ddlGender_message" class="GSld5 fnt20 fieldValidationError"></div>
+                                                    </label>
+                                                    
+                                                </div>
+                                                </fieldset>
+                                                <fieldset class="GSld10">
+                                                <div id="jvEthnicity" class="fieldWrapper clearfix">
+                                                 
+                                                    <span class="GSgd10" id="ethnicity_label">
+                                                        <strong>
+                                                            Ethnicity:
+                                                            <span class="ctl060PlainText">Pre-2007 Values</span>
+                                                        </strong>
+                                                    </span>
+                                                 
+                                                    
+                                                        <div id="ethnicitySelections1" class="GSld10">
+                                                            <fieldset>
+                                                                <legend class="skip">Ethnicity:Pre-2007 Values</legend>
+                                                                <ul class="groupVertical">
+                                                                    <li>
+                                                                        <label for="ethn_1">
+                                                                            <input value="1" name="ethnicityRadio" type="radio" id="ethn_1" class="wtTrackable" onclick="return changeEthnicityLabel(&#39;ethnicityValuePre07_1&#39;, false);" />
+                                                                            <span><span id="ethnicityValuePre07_1">White (Not of Hispanic Origin)</span></span>
+                                                                        </label>
+                                                                    </li>
+                                                                    <li>
+                                                                        <label for="ethn_2">
+                                                                            <input value="2" name="ethnicityRadio" type="radio" id="ethn_2" role="radio" class="wtTrackable" onclick="return changeEthnicityLabel(&#39;ethnicityValuePre07_2&#39;, false);" />
+                                                                            <span><span id="ethnicityValuePre07_2">African American/Black (not of Hispanic Origin)</span></span>
+                                                                        </label>
+                                                                    </li>
+                                                                    <li>
+                                                                        <label for="ethn_3">
+                                                                            <input value="3" name="ethnicityRadio" type="radio" id="ethn_3" role="radio" class="wtTrackable" onclick="return changeEthnicityLabel(&#39;ethnicityValuePre07_3&#39;, false);" />
+                                                                            <span><span id="ethnicityValuePre07_3">Asian/Pacific Islander</span></span>
+                                                                        </label>
+                                                                    </li>
+                                                                    <li>
+                                                                        <label for="ethn_4">
+                                                                            <input value="4" name="ethnicityRadio" type="radio" id="ethn_4" role="radio" class="wtTrackable" onclick="return changeEthnicityLabel(&#39;ethnicityValuePre07_4&#39;, false);" />
+                                                                            <span><span id="ethnicityValuePre07_4">American Indian/Alaskan Native</span></span>
+                                                                        </label>
+                                                                    </li>
+                                                                    <li>
+                                                                        <label for="ethn_5">
+                                                                            <input value="5" name="ethnicityRadio" type="radio" id="ethn_5" role="radio" class="wtTrackable" onclick="return changeEthnicityLabel(&#39;ethnicityValuePre07_5&#39;, false);" />
+                                                                            <span><span id="ethnicityValuePre07_5">Hispanic</span></span>
+                                                                        </label>
+                                                                    </li>
+                                                                    <li>
+                                                                        <label for="ethn_6">
+                                                                            <input value="-1" name="ethnicityRadio" type="radio" id="ethn_6" role="radio" class="wtTrackable" onclick="return changeEthnicityLabel(&#39;ethnicityValuePre07_6&#39;, false);" />
+                                                                            <span><span id="ethnicityValuePre07_6">Decline to Identify</span></span>
+                                                                        </label>
+                                                                    </li>
+                                                                </ul>
+                                                                
+                                                                <div id="ethnicity_message" class="fnt20 fieldValidationError"></div>
+                                                            </fieldset>
+                                                        </div>
+                                                    
+                                                </div>
+                                                
+                                                </fieldset>
+                                            </div>
+                                            
+                                        </div>
+                                    
+	</div>
+                                    </fieldset>
+                                
+                                <!-- Checkbox Notices Block -->
+                                
+                                    <span class="cssClearBoth"></span>
+                                    <fieldset class="clearfix">
+                                    <legend style="display:none">Terms and Conditions</legend>                                    
+                                    
+                                    </fieldset>
+                                
+                            
+</div>
+                            <!-- Summary Page Block -->
+                            
+                            <!-- Buttons Block -->
+                            <a name="formButtons" id="formButtons"></a>
+                            <fieldset class="fieldWrapper GSld10 cssTextAlignCenter fnt4 cssMarginTop15">
+                            <div id="jvButtonsBlock">
+	
+                                        <button id="btnSubmit" class="btn styleA" onclick="return onSubmit(); " title="submit">
+                                            submit
+                                        </button>
+                                        <span class="jvSecondaryButtons">or 
+                                            <a id="lnkCancel" title="Cancel" onclick="dcsMultiTrack(&#39;DCS.dcsuri&#39;,&#39;/Apply.aspx_ApplyCancel.evt&#39;,&#39;DCSext.k&#39;,&#39;Cncl&#39;,&#39;DCSext.en&#39;,&#39;App_Std&#39;,&#39;DCSext.jpattrb&#39;,&#39;1_0_0&#39;,&#39;DCSext.applytypepage&#39;,&#39;SA&#39;); return true;" href="javascript:__doPostBack(&#39;lnkCancel&#39;,&#39;&#39;)">Cancel</a>                                   
+                                        </span>
+                                
+</div>                                
+                                <br class="clear" />
+                            
+                            
+                            </fieldset>
+                        </div>
+                    </div>
+                    <div class="pcBgBtm"></div>
+                </div>            
+            
+
+<div id="sidecol" class="jvApplyRightCol">
+    <!-- Job Description Block -->
+    <div class="sidecolboxtop"></div>
+    <div id="jobtools" class="sidecolbox fnt1">
+        <h2 id="JobSummary1_lblJobSummary">Job Summary</h2>
+        <dl>
+            <div>
+                <span class="wrappable">
+                    <a id="JobSummary1_HyperLinkViewJobDescription" title="View job description " href="javascript:void();" onClick="javascript:window.open(&#39;/GetJob.aspx?JobID=168820287&amp;md=pv&#39;, &#39;winJob&#39;, &#39;width=996,height=578,scrollbars=1,resizable=yes,menubar=no&#39;);return false;">View job description </a>
+                </span>                
+            </div>     
+            <br />
+            <dt id="JobSummary1_lblJobTitle">Job Title</dt>
+            <dd><span id="JobSummary1_spanJobTitle" class="wrappable">Purchasing Clerk – Buyer</span></dd>
+            
+            <dt id="JobSummary1_lblCompany">Company</dt>
+            <dd><span id="JobSummary1_spanCompany" class="wrappable">Riva Precision Manufacturing</span></dd>
+            
+            <dt id="JobSummary1_lblLocation">Location</dt>
+            <dd><span id="JobSummary1_spanLocation" class="wrappable">Brooklyn, NY 11220</span></dd>
+            
+            <dt id="JobSummary1_lblIndustries">Industries</dt>
+            
+                    <dd id="JobSummary1_rptIndustries_ctl00_ddItem"><span id="JobSummary1_rptIndustries_ctl00_spanItem" class="wrappable">Manufacturing - Other</span></dd>
+                
+            
+            <dt id="JobSummary1_lblJobType">Job Type</dt>
+            
+                    <dd id="JobSummary1_rptJobTypes_ctl00_ddItem" class="multipledd"><span id="JobSummary1_rptJobTypes_ctl00_spanItem" class="wrappable">Full Time</span></dd>
+                
+                    <dd id="JobSummary1_rptJobTypes_ctl01_ddItem" class="multipleddlast"><span id="JobSummary1_rptJobTypes_ctl01_spanItem" class="wrappable"> Employee</span></dd>
+                
+
+            <dt id="JobSummary1_lblWorkExperience">Years of Experience</dt>
+            <dd><span id="JobSummary1_spanWorkExperience" class="wrappable">2+ to 5 Years</span></dd>
+            
+            
+            <dd></dd>
+            
+            
+            <dd></dd>
+            
+            
+            <dd></dd>
+            
+        </dl>
+    </div>
+    
+    <script type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function () {
+            _s.jobview.jobsummary.wrapAll($('div#jobtools span.wrappable'));
+            _s.jobview.jobsummary.wrapAll($('div#nextJobs span.wrappable'));
+        });
+        //]]> 
+    </script>
+</div>
+            
+        </div>
+        </div>
+        <!-- END colums -->
+        <br class="clear" />
+    </div>
+    
+    <div style="display:none;"></div>
+    <input name="UserSecurityLevelControl" type="hidden" id="UserSecurityLevelControl" value="3" />
+    
+    
+    <script type="text/javascript" language="javascript">
+        var isEmailApply = false ;
+        var isDoiPostBack = false;
+        var isTypeAheadLocationZipCodeRequired = true;
+        var zipCodeRequiredCountryIds = "164,30,54,59,9,16,76,109,143,149,160,42,123,148,101,24";
+
+		var enableCitizenshipID = false;
+        var tabs1 = null;
+        $(document).ready(function() {
+            var findContent = 0;
+            var contentSize = 0;
+            if (isDoiPostBack) {
+                $("#signInHeader").hide();
+                if (_g.security.getUserLevel() != 3) {
+                    _s.jobview.logon.disableForm();
+                }
+            }
+            _s.jobview.apply.init();
+
+            _s.jobview.logon.showLogin(_g.security.isUserKnown());
+
+
+            var selTabIndex = PreselectResumeTab();
+            tabs1 = $("#jvResumeTabsContainer").tabs({ selected: selTabIndex });
+            addOffscreenText(selTabIndex);
+            
+            if ($('#jvEthnicity').length > 0) {
+                var button = $("input[name='ethnicityRadio'][value='0']");
+                if (button.length > 0) {
+                    button[0].checked = true;
+                }
+            }
+            
+            if ($('#jvRevisedEthnicity').length > 0) {
+                var button = $("input[name='revisedEthnicityRadio'][value='0']");
+                if (button.length > 0) {
+                    button[0].checked = true;
+                }
+            }
+            
+            $('.wtTrackable').focus(function(evt) {
+                if (evt && evt.currentTarget && evt.currentTarget.id) {
+                    dcsMultiTrack('DCS.dcsuri','/FullApply.evt','DCSext.ff',evt.currentTarget.id);
+                }
+                return true;
+            } );
+            
+            $('.wtQATrackable').focus(function(evt) {
+                if (evt && evt.currentTarget && evt.currentTarget.id) {
+                    dcsMultiTrack('DCS.dcsuri','/QuickApply.evt','DCSext.ff',evt.currentTarget.id);
+                }
+                return true;
+            } );
+            
+            if (_s.jobview.coverletter.getLetterControl('jvCoverLetterPaste').text() || false) {
+                var clcb = _s.jobview.coverletter.getLetterControl('jvCoverLetterIncludeInput');
+                clcb.attr('checked', true);
+                _s.jobview.coverletter.coverLetterCheckBoxClicked(clcb);
+            }
+            
+            if ($("#selectResume_message").is(":visible") || $("#qaResumeTitle_error").is(":visible"))
+            {
+                if ($("#selectedResumeLabelID").val() != "") {
+                    $("#" + $("#selectedResumeLabelID").val()).addClass("labelValidationError");
+                } else {
+                    $("#selectResume_message").empty();
+                }
+            }
+            if ($("#birthdate_message").is(":visible") && $.trim($("#birthdate_message").text()) != "") {
+                $("#divBirthDate strong").addClass("labelValidationError");
+            }
+            if ($("#citizenship_message").is(":visible") && $.trim($("#citizenship_message").text()) != "") {
+                $("#txtCitizenship_label strong").addClass("labelValidationError");
+            }
+            
+            if ($("#tbCityProvince_message").is(":visible") && $.trim($("#tbCityProvince_message").text()) != "") {
+                $("#tbCityProvince_label strong").addClass("labelValidationError");
+            }            
+        });
+
+        function checkAAgentView() {
+            $("input.acgchb").attr("checked", $("input.acgchbview").attr("checked"));
+        }
+
+        function select_tab(tabid) {
+            $('#resumeWhichTabSelected').val(tabid);
+            tabs1.tabs('select', tabid);
+            addOffscreenText(tabid);
+        }
+
+        function SignInClick(){
+            $("#tbxSgnEmail").focus();
+            _s.jobview.logon.clearErrorMessages();
+        }
+
+        function ForgotPwdClick(){
+            _s.jobview.lostPassword.showBox();
+            _s.jobview.logon.clearErrorMessages();
+        }
+
+        function PreselectResumeTab(){
+            var tabAnchors = $('div.jvTab a[_tabno]');
+
+            var resumeWhichTabSelectedValue = $("#resumeWhichTabSelected").val();
+            if (typeof resumeWhichTabSelectedValue === "object" && resumeWhichTabSelectedValue.length)
+            {
+                for (var i=0;i<tabAnchors.length;i++) {
+                    if ($(tabAnchors[i]).attr("_tabno") == $("#resumeWhichTabSelected").val())
+                        return i;
+                }
+            }
+            
+            $("#resumeWhichTabSelected").val($(tabAnchors[0]).attr("_tabno"));
+            return 0;
+        }
+        
+        function addOffscreenText(tabid) {
+            var spanText = ' ' + $('#jvResumeContainer').attr('data-selected');
+            if (tabid == 0 && typeof $('#tabno0')[0] != "undefined") {
+                $('#tabno0').text(spanText);
+                $('#tabno1').text('');
+            }
+            else {
+                $('#tabno1').text(spanText);
+                if(typeof $('#tabno0')[0] != "undefined") {
+                    $('#tabno0').text('');
+                }
+            }
+        }
+
+        function switchToFullApply() {
+            dcsMultiTrack('DCS.dcsuri','/Apply_QuickApplyEdit.evt');
+            document.form1["mode"].value = "edit";
+            document.form1.submit(); 
+        }
+        
+        //TODO pass only 1st part of the message here
+        function changeEthnicityLabel(label, revised)
+        {
+            var strLabel = $('#' + label)[0].innerHTML;
+         
+            
+            if (revised) {
+                $('#selectRevisedEthnicity').text(strLabel);
+                $('#selectRevisedEthnicity').attr("title", strLabel);
+            } else {
+                $('#selectEthnicity').text(strLabel);
+                $('#selectEthnicity').attr("title", strLabel);
+            }
+            $('#ethnicityTarget .monsPopUpClose').click();
+             if (revised) {
+                $("#selectRevisedEthnicity").focus();
+             } else {
+                 $("#selectEthnicity").focus();
+             }
+            return true;
+        }
+        
+         $("#ethnicityTarget").delegate("div.monsPopUpClose", "focus", function () {
+             if($("#selectRevisedEthnicity")) $("#selectRevisedEthnicity").focus();
+             if ($("#selectEthnicity")) $("#selectEthnicity").focus();
+             $('#ethnicityTarget .monsPopUpClose').click();
+        });
+        //OpenIDMethods
+        //The rest of related openid methods lies in s.jobview.apply.js in GRA app.
+        function HandleLoginResponse (status, message) {
+            _s.jobview.apply.openId.handleLoginResponse(status, message);
+        }
+    </script>
+        
+        
+    
+
+<script type="text/javascript">
+//<![CDATA[
+javascript:_s.jobview.coverletter.textCounter('CoverLetter1_jvCoverLetterPaste','CoverLetter1_charCounterLabel', 5000);//]]>
+</script>
+<script src="http://media.newjobs.com/js/wt/dcslu29vg00000s5r6ln8n8l5_7q8g.js" TYPE="text/javascript"></script><script type="text/javascript" language="javascript">var DYNAMIC_S_ACCOUNT='newjobsProdSeekerUS';var DYNAMIC_S_CURRENCYCODE='USD';</script><script type="text/javascript">//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type='text/javascript' src='http://media.newjobs.com/js/sc/sitecatalystLL.js'></sc"+"ript>");
+document.write("<scr"+"ipt type='text/javascript' src='http://media.newjobs.com/js/sc/jobview.js'></sc"+"ript>");
+//]]>
+_m.ATM.properties={"eVar2":"authenticated","channel":"58","eVar1":"D=g","prop1":"D=g","eVar4":"256059190","events.event15":"1","eVar36":"App_Std","events.event5":"1","eVar38":"SA","eVar37":"1_0_0"};_m.ATM.pageName='desktop|mons|jobview|/apply/apply.aspx';_m.ATM.version=0;_m.ATM.appID='jobview';_m.ATM.channelID=58;_m.ATM.countryID=164;_m.ATM.appConfig={version:'0',appID:'jobview',channelID:'58',countryID:'164'};_m.ATM.registerConfig({"jQuerySelector":"#lnkCancel,#lnkCancelLogin","o":"o","eventName":"","attributeName":"","eventType":"mousedown","vars":{"eVar37":"1_0_0","eVar38":"SA","events.event9":"true","eVar36":"App_Std"},"adobeDoneAction":""});
+_m.ATM.runOnLoad=true;
+(function () {if (typeof addMonsterReady != 'undefined') {addMonsterReady(_m.ATM.initFromOnReady);} else {$(document).ready(_m.ATM.initFromOnReady);}})();</script><img height="1" width="1" src="http://switch.atdmt.com/action/monmon_applystart_10/v3/10.5.199.242/1191814416.30530904/256059190" alt="" />
+
+<IFRAME SRC="http://olm.monster.com/ipixel?spacedesc=1120288_1061349_1x1_1061349_1061349&db_afcr=123&target=_blank&group=Monster&event=Ensight_ApplyStart&revenue=0&random=0&order_id=0" WIDTH="1" HEIGHT="1" SCROLLING="No" FRAMEBORDER="0" MARGINHEIGHT="0" MARGINWIDTH="0"></IFRAME> <img src="http://139.xg4ken.com/media/redir.php?track=1&token=4c097cb2-9112-4be2-8385-e440a7ebe169&type=apply_start&val=0.0&orderId=&promoCode=&valueCurrency=USD&GCID=&kw=&product=" width="1" height="1"> <img src="http://a1.interclick.com/univPixel.aspx?g=84bc2f80-2cfe-45ef-9737-71279cdb69ce"/>
+<img src="http://pixel.quantserve.com/pixel/p-7fziOTiEM1bCE.gif?labels=_fp.event.Job+Apply+Start" border="0" height="1" width="1" alt="Quantcast"/>
+<IMG SRC="http://ad.doubleclick.net/activity;src=1872115;type=monst965;cat=confi180;ord=1;num=1?" WIDTH=1 HEIGHT=1 BORDER=0>
+
+<img src='http://pixel.mathtag.com/event/img?mt_id=116177&mt_adid=100158&v1=&v2=&v3=&s1=&s2=&s3=' width='1' height='1' />
+<img border="0" src="http://r.turn.com/r/beacon?b2=ylGzcz9KtPkQcyQZ5ICRHzS0nnMru7on6d5B1WDAlGOjmxzJF-VuxYHoPEknN0c6TieBt62i6fPxckh7p64PIA&cid=">
+<img src="http://conversion-pixel.invitemedia.com/pixel?pixelID=88613&partnerID=191&clientID=5084&key=conv" width="1" height="1" /><img height="1" width="1" src="/services/TrackingHandler.ashx" alt="" /><script type="text/javascript" language="javascript" src="/JavaScripts/SpellCheckCaller.js"></script></form>
+</body>
+</html>
+
+
+Failure: 'WebElement' object has no attribute 'select_by_value'
+on line: genderDropdown[0].select_by_value("-1")
