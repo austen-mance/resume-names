@@ -1,1448 +1,1448 @@
-college,link,address
+college,type,resume,link,address
 "Manhattan College
-",http://jobview.monster.com/Mail-Clerk-Job-New-York-City-NY-US-167901040.aspx,"4600 Palisade Ave, New York, NY 10471
-"
-"Manhattan College
-",http://jobview.monster.com/Court-Clerk-Job-New-York-NY-US-169202917.aspx,"681 Bergen St, New York, NY 11238
-"
-"Pace University
-",http://jobview.monster.com/CLERK-LEVEL-1-Job-New-York-NY-US-168671515.aspx,"32-43 83rd St, New York, NY 11370
+",New York,0,http://jobview.monster.com/Mail-Clerk-Job-New-York-City-NY-US-167901040.aspx,"4600 Palisade Ave, New York, NY 10471
 "
 "Manhattan College
-",http://jobview.monster.com/Calendar-Clerk-Job-New-York-City-NY-US-169471007.aspx,"31-23 80th St, New York, NY 11370
-"
-"Fordham University
-",http://jobview.monster.com/Accounting-Clerk-Job-New-York-City-NY-US-169074411.aspx,"4600 Palisade Ave, New York, NY 10471
+",New York,0,http://jobview.monster.com/Court-Clerk-Job-New-York-NY-US-169202917.aspx,"681 Bergen St, New York, NY 11238
 "
 "Pace University
-",http://jobview.monster.com/Price-Control-Clerk-Job-Brooklyn-NY-US-167598077.aspx,"9 Ploughmans Bush, New York, NY 10471
-"
-"Fordham University
-",http://jobview.monster.com/Seasonal-Part-time-Accounting-Clerk-Job-Paramus-NJ-US-168764596.aspx,"47-11 45th St, New York, NY 11377
+",New York,0,http://jobview.monster.com/CLERK-LEVEL-1-Job-New-York-NY-US-168671515.aspx,"32-43 83rd St, New York, NY 11370
 "
 "Manhattan College
-",http://jobview.monster.com/Stock-Clerk-Job-Mountainside-NJ-US-169082376.aspx,"41-22 42nd St, New York, NY 11104
+",New York,3,http://jobview.monster.com/Calendar-Clerk-Job-New-York-City-NY-US-169471007.aspx,"31-23 80th St, New York, NY 11370
 "
 "Fordham University
-",http://job-openings.monster.com/monster/68877e70-53ec-45a5-80cd-04453bbe6620,"4650 Hadley Ave, New York, NY 10471
+",New York,2,http://jobview.monster.com/Accounting-Clerk-Job-New-York-City-NY-US-169074411.aspx,"4600 Palisade Ave, New York, NY 10471
 "
-"Baruch College
-",http://jobview.monster.com/File-Clerk-Manhassat-NY-Job-Manhasset-NY-US-169298517.aspx,"31-23 80th St, New York, NY 11370
+"Pace University
+",New York,7,http://jobview.monster.com/Price-Control-Clerk-Job-Brooklyn-NY-US-167598077.aspx,"9 Ploughmans Bush, New York, NY 10471
+"
+"Fordham University
+",New York,2,http://jobview.monster.com/Seasonal-Part-time-Accounting-Clerk-Job-Paramus-NJ-US-168764596.aspx,"47-11 45th St, New York, NY 11377
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/c82d7d33-6ba3-416f-ad9f-523549e3d9ea,"41-15 50th St, New York, NY 11377
+",New York,3,http://jobview.monster.com/Stock-Clerk-Job-Mountainside-NJ-US-169082376.aspx,"41-22 42nd St, New York, NY 11104
+"
+"Fordham University
+",New York,7,http://job-openings.monster.com/monster/68877e70-53ec-45a5-80cd-04453bbe6620,"4650 Hadley Ave, New York, NY 10471
+"
+"Baruch College
+",New York,5,http://jobview.monster.com/File-Clerk-Manhassat-NY-Job-Manhasset-NY-US-169298517.aspx,"31-23 80th St, New York, NY 11370
 "
 "Manhattan College
-",http://jobview.monster.com/Part-time-Accounting-Clerk-Job-Valley-Stream-NY-US-169481157.aspx,"32-54 82nd St, New York, NY 11370
-"
-"Fordham University
-",http://job-openings.monster.com/monster/4afe9a39-d181-42bf-bce0-5634db33bce4,"47-11 45th St, New York, NY 11377
-"
-"Fordham University
-",http://job-openings.monster.com/monster/8a4063bf-d934-4b39-a96c-b35dd530fbaa,"32-43 83rd St, New York, NY 11370
-"
-"Pace University
-",http://job-openings.monster.com/monster/7bee5c50-c130-436d-a869-00e6a5320974,"32-54 82nd St, New York, NY 11370
+",New York,1,http://job-openings.monster.com/monster/c82d7d33-6ba3-416f-ad9f-523549e3d9ea,"41-15 50th St, New York, NY 11377
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/364741fe-cefd-45fe-b6b6-5008c28e0040,"288 Prospect Pl, New York, NY 11238
-"
-"Baruch College
-",http://job-openings.monster.com/monster/dfd5bae7-90c7-4613-8abf-4d1aa1a79502,"681 Bergen St, New York, NY 11238
-"
-"Baruch College
-",http://job-openings.monster.com/monster/3fb8bd65-f23e-40d4-b7b8-cbfcd8189005,"4069 Dodgewood Rd, New York, NY 10471
-"
-"Baruch College
-",http://job-openings.monster.com/monster/0c2db850-977a-4f0e-acb8-105ad6c0d655,"41-15 50th St, New York, NY 11377
+",New York,1,http://jobview.monster.com/Part-time-Accounting-Clerk-Job-Valley-Stream-NY-US-169481157.aspx,"32-54 82nd St, New York, NY 11370
 "
 "Fordham University
-",http://job-openings.monster.com/monster/43aa5068-9e82-4706-9d5e-db7bdf812d6a,"4600 Palisade Ave, New York, NY 10471
+",New York,3,http://job-openings.monster.com/monster/4afe9a39-d181-42bf-bce0-5634db33bce4,"47-11 45th St, New York, NY 11377
 "
 "Fordham University
-",http://job-openings.monster.com/monster/d8f89c7b-3f6b-4323-855b-40c8c64615df,"4069 Dodgewood Rd, New York, NY 10471
-"
-"Baruch College
-",http://job-openings.monster.com/monster/73b4fdcd-a787-4313-9267-5201797d3c5a,"47-11 45th St, New York, NY 11377
+",New York,1,http://job-openings.monster.com/monster/8a4063bf-d934-4b39-a96c-b35dd530fbaa,"32-43 83rd St, New York, NY 11370
 "
 "Pace University
-",http://job-openings.monster.com/monster/8197ad58-667a-4612-bbe0-eac6e59bf307,"9 Ploughmans Bush, New York, NY 10471
-"
-"Pace University
-",http://job-openings.monster.com/monster/9df669bd-5d0b-4ff4-a8f0-e2cdb17fc5aa,"288 Prospect Pl, New York, NY 11238
-"
-"Pace University
-",http://job-openings.monster.com/monster/c66aa4bb-7ddc-4310-89d3-8bcab3a0711a,"41-15 50th St, New York, NY 11377
+",New York,3,http://job-openings.monster.com/monster/7bee5c50-c130-436d-a869-00e6a5320974,"32-54 82nd St, New York, NY 11370
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/63e516b8-9f05-44c8-a801-9b2b8da2f816,"31-23 80th St, New York, NY 11370
+",New York,5,http://job-openings.monster.com/monster/364741fe-cefd-45fe-b6b6-5008c28e0040,"288 Prospect Pl, New York, NY 11238
+"
+"Baruch College
+",New York,7,http://job-openings.monster.com/monster/dfd5bae7-90c7-4613-8abf-4d1aa1a79502,"681 Bergen St, New York, NY 11238
+"
+"Baruch College
+",New York,5,http://job-openings.monster.com/monster/3fb8bd65-f23e-40d4-b7b8-cbfcd8189005,"4069 Dodgewood Rd, New York, NY 10471
+"
+"Baruch College
+",New York,6,http://job-openings.monster.com/monster/0c2db850-977a-4f0e-acb8-105ad6c0d655,"41-15 50th St, New York, NY 11377
+"
+"Fordham University
+",New York,4,http://job-openings.monster.com/monster/43aa5068-9e82-4706-9d5e-db7bdf812d6a,"4600 Palisade Ave, New York, NY 10471
+"
+"Fordham University
+",New York,3,http://job-openings.monster.com/monster/d8f89c7b-3f6b-4323-855b-40c8c64615df,"4069 Dodgewood Rd, New York, NY 10471
+"
+"Baruch College
+",New York,6,http://job-openings.monster.com/monster/73b4fdcd-a787-4313-9267-5201797d3c5a,"47-11 45th St, New York, NY 11377
+"
+"Pace University
+",New York,3,http://job-openings.monster.com/monster/8197ad58-667a-4612-bbe0-eac6e59bf307,"9 Ploughmans Bush, New York, NY 10471
+"
+"Pace University
+",New York,1,http://job-openings.monster.com/monster/9df669bd-5d0b-4ff4-a8f0-e2cdb17fc5aa,"288 Prospect Pl, New York, NY 11238
+"
+"Pace University
+",New York,0,http://job-openings.monster.com/monster/c66aa4bb-7ddc-4310-89d3-8bcab3a0711a,"41-15 50th St, New York, NY 11377
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/701fea90-bd93-44c2-9495-c40d943a44b8,"41-46 50th St, New York, NY 11377
-"
-"Fordham University
-",http://job-openings.monster.com/monster/da4a02ad-28b4-45eb-bab4-a8c99574b44e,"153 Underhill Ave, New York, NY 11238
+",New York,7,http://job-openings.monster.com/monster/63e516b8-9f05-44c8-a801-9b2b8da2f816,"31-23 80th St, New York, NY 11370
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/0a60dfa0-738b-453b-a66d-aa538b6401a3,"41-46 50th St, New York, NY 11377
-"
-"Pace University
-",http://job-openings.monster.com/monster/4cf4e12d-9b49-44da-ad88-ca034d3d913b,"32-43 83rd St, New York, NY 11370
-"
-"Baruch College
-",http://job-openings.monster.com/monster/f2be0dcf-6d88-4c4f-bad6-430a7a4ea85c,"4645 Independence Ave, New York, NY 10471
-"
-"Baruch College
-",http://job-openings.monster.com/monster/bc30b877-d44a-481e-9b10-d23659d335b7,"32-19 76th St, New York, NY 11370
+",New York,6,http://job-openings.monster.com/monster/701fea90-bd93-44c2-9495-c40d943a44b8,"41-46 50th St, New York, NY 11377
 "
 "Fordham University
-",http://job-openings.monster.com/monster/bac09480-6697-4a37-b3c1-5ea0933d2c61,"681 Bergen St, New York, NY 11238
-"
-"Fordham University
-",http://job-openings.monster.com/monster/56e969ea-ad0b-4db7-a954-f25cca5c0711,"47-11 45th St, New York, NY 11377
+",New York,5,http://job-openings.monster.com/monster/da4a02ad-28b4-45eb-bab4-a8c99574b44e,"153 Underhill Ave, New York, NY 11238
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/151296fa-32cb-4216-9721-b997609a2fdf,"31-23 80th St, New York, NY 11370
+",New York,7,http://job-openings.monster.com/monster/0a60dfa0-738b-453b-a66d-aa538b6401a3,"41-46 50th St, New York, NY 11377
+"
+"Pace University
+",New York,3,http://job-openings.monster.com/monster/4cf4e12d-9b49-44da-ad88-ca034d3d913b,"32-43 83rd St, New York, NY 11370
+"
+"Baruch College
+",New York,6,http://job-openings.monster.com/monster/f2be0dcf-6d88-4c4f-bad6-430a7a4ea85c,"4645 Independence Ave, New York, NY 10471
+"
+"Baruch College
+",New York,0,http://job-openings.monster.com/monster/bc30b877-d44a-481e-9b10-d23659d335b7,"32-19 76th St, New York, NY 11370
 "
 "Fordham University
-",http://job-openings.monster.com/monster/0b50a710-351c-4abe-a255-b54517d9111e,"41-15 50th St, New York, NY 11377
-"
-"Baruch College
-",http://job-openings.monster.com/monster/1d09e622-4cdf-48f9-86e1-7dc7e8df422a,"41-22 42nd St, New York, NY 11104
-"
-"Baruch College
-",http://job-openings.monster.com/monster/5013d34a-475c-48cf-bb36-76309ef451f6,"32-54 82nd St, New York, NY 11370
-"
-"Baruch College
-",http://job-openings.monster.com/monster/55f7bfa2-84fe-4d5e-98f0-ba9ba973b93f,"45-44 42nd St, New York, NY 11104
+",New York,5,http://job-openings.monster.com/monster/bac09480-6697-4a37-b3c1-5ea0933d2c61,"681 Bergen St, New York, NY 11238
 "
 "Fordham University
-",http://job-openings.monster.com/monster/7b435939-44ad-4941-9057-81c9afaeb008,"4650 Hadley Ave, New York, NY 10471
+",New York,2,http://job-openings.monster.com/monster/56e969ea-ad0b-4db7-a954-f25cca5c0711,"47-11 45th St, New York, NY 11377
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/7c56f5ea-31dc-4d3e-883c-a5bf889df142,"32-54 82nd St, New York, NY 11370
+",New York,0,http://job-openings.monster.com/monster/151296fa-32cb-4216-9721-b997609a2fdf,"31-23 80th St, New York, NY 11370
+"
+"Fordham University
+",New York,1,http://job-openings.monster.com/monster/0b50a710-351c-4abe-a255-b54517d9111e,"41-15 50th St, New York, NY 11377
 "
 "Baruch College
-",http://job-openings.monster.com/monster/a4fb2a1e-4016-4bcc-b172-a7de112b69fe,"9 Ploughmans Bush, New York, NY 10471
-"
-"Fordham University
-",http://job-openings.monster.com/monster/57d2bc7c-d7e5-4bef-a60f-98cbcee04a5e,"41-22 42nd St, New York, NY 11104
-"
-"Pace University
-",http://job-openings.monster.com/monster/21807ce2-4ac2-4e4a-b858-db4730646749,"288 Prospect Pl, New York, NY 11238
+",New York,5,http://job-openings.monster.com/monster/1d09e622-4cdf-48f9-86e1-7dc7e8df422a,"41-22 42nd St, New York, NY 11104
 "
 "Baruch College
-",http://job-openings.monster.com/monster/edb75ff3-66a9-47dc-bf47-be99bb387f0f,"228 Lincoln Pl, New York, NY 11217
-"
-"Pace University
-",http://job-openings.monster.com/monster/c6fd71bf-8e26-4f98-b7cf-16b767d7e90e,"45-44 42nd St, New York, NY 11104
-"
-"Fordham University
-",http://job-openings.monster.com/monster/4c45fbe8-ff81-474b-ab6d-70a1a214cca1,"32-54 80th St, New York, NY 11370
-"
-"Fordham University
-",http://job-openings.monster.com/monster/e445ecd6-67f9-4c93-828d-6dd51bbb8e34,"4600 Palisade Ave, New York, NY 10471
-"
-"Pace University
-",http://job-openings.monster.com/monster/f5a857dd-4e0f-4297-b70b-2811ff206edd,"41-22 42nd St, New York, NY 11104
-"
-"Fordham University
-",http://job-openings.monster.com/monster/e0dde248-aaf1-4832-b369-1dfe7268f5fd,"4650 Hadley Ave, New York, NY 10471
-"
-"Fordham University
-",http://job-openings.monster.com/monster/5fc6c55c-0f4b-4c97-9015-fc06f54c6b38,"31-23 80th St, New York, NY 11370
+",New York,5,http://job-openings.monster.com/monster/5013d34a-475c-48cf-bb36-76309ef451f6,"32-54 82nd St, New York, NY 11370
 "
 "Baruch College
-",http://job-openings.monster.com/monster/10becbb7-4a64-4e95-a75f-113e01efb4e4,"31-23 80th St, New York, NY 11370
-"
-"Baruch College
-",http://job-openings.monster.com/monster/1c1e3e95-5579-4a02-93c1-3a7bfdbbe05d,"32-54 80th St, New York, NY 11370
+",New York,0,http://job-openings.monster.com/monster/55f7bfa2-84fe-4d5e-98f0-ba9ba973b93f,"45-44 42nd St, New York, NY 11104
 "
 "Fordham University
-",http://job-openings.monster.com/monster/8d7be65f-c0fa-4214-9ea0-159779b64241,"31-23 80th St, New York, NY 11370
-"
-"Pace University
-",http://job-openings.monster.com/monster/d71c7b32-9127-48c0-b8e1-20b1dda1c2b0,"4069 Dodgewood Rd, New York, NY 10471
+",New York,5,http://job-openings.monster.com/monster/7b435939-44ad-4941-9057-81c9afaeb008,"4650 Hadley Ave, New York, NY 10471
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/cee59b64-13e3-455b-9a67-9bc506534b80,"32-54 82nd St, New York, NY 11370
+",New York,4,http://job-openings.monster.com/monster/7c56f5ea-31dc-4d3e-883c-a5bf889df142,"32-54 82nd St, New York, NY 11370
 "
-"Pace University
-",http://job-openings.monster.com/monster/404490bd-e045-460f-94a9-3d0edfc6fac2,"32-54 80th St, New York, NY 11370
+"Baruch College
+",New York,1,http://job-openings.monster.com/monster/a4fb2a1e-4016-4bcc-b172-a7de112b69fe,"9 Ploughmans Bush, New York, NY 10471
 "
 "Fordham University
-",http://job-openings.monster.com/monster/dc1ddf80-2614-4034-ab25-80da4e963af5,"4645 Independence Ave, New York, NY 10471
-"
-"Baruch College
-",http://job-openings.monster.com/monster/409f5327-10a7-4bc9-843a-7196b94f5f05,"32-54 82nd St, New York, NY 11370
+",New York,1,http://job-openings.monster.com/monster/57d2bc7c-d7e5-4bef-a60f-98cbcee04a5e,"41-22 42nd St, New York, NY 11104
 "
 "Pace University
-",http://job-openings.monster.com/monster/8f797d57-c15d-48e2-8008-8adb0653a188,"4650 Hadley Ave, New York, NY 10471
+",New York,1,http://job-openings.monster.com/monster/21807ce2-4ac2-4e4a-b858-db4730646749,"288 Prospect Pl, New York, NY 11238
 "
 "Baruch College
-",http://job-openings.monster.com/monster/6a9bb1a8-4356-45ad-bdbd-ff2cfadf22cc,"41-46 50th St, New York, NY 11377
+",New York,7,http://job-openings.monster.com/monster/edb75ff3-66a9-47dc-bf47-be99bb387f0f,"228 Lincoln Pl, New York, NY 11217
 "
 "Pace University
-",http://job-openings.monster.com/monster/23861220-ae9f-41b4-a616-8535d9b976cf,"153 Underhill Ave, New York, NY 11238
+",New York,2,http://job-openings.monster.com/monster/c6fd71bf-8e26-4f98-b7cf-16b767d7e90e,"45-44 42nd St, New York, NY 11104
 "
 "Fordham University
-",http://job-openings.monster.com/monster/1d6fde31-5e96-40a2-9d69-a68cbe31aa79,"31-23 80th St, New York, NY 11370
-"
-"Baruch College
-",http://job-openings.monster.com/monster/f4b80df8-e9be-4def-b8e7-cda021d6f67a,"31-23 80th St, New York, NY 11370
-"
-"Baruch College
-",http://job-openings.monster.com/monster/ddcd5c8c-46c6-4ed2-bfee-57a01bda6e37,"4600 Palisade Ave, New York, NY 10471
-"
-"Baruch College
-",http://job-openings.monster.com/monster/04356697-84ea-4a1d-b5fb-a24c027efff1,"32-54 82nd St, New York, NY 11370
-"
-"Pace University
-",http://job-openings.monster.com/monster/e3dc764b-44ff-47ba-a813-2ceb697326a7,"4645 Independence Ave, New York, NY 10471
-"
-"Pace University
-",http://job-openings.monster.com/monster/f2b71477-03c8-49c1-9aea-4c9a42aa88b4,"4645 Independence Ave, New York, NY 10471
+",New York,4,http://job-openings.monster.com/monster/4c45fbe8-ff81-474b-ab6d-70a1a214cca1,"32-54 80th St, New York, NY 11370
 "
 "Fordham University
-",http://job-openings.monster.com/monster/ee186e8a-9f5b-48ea-aa69-c3656a23bfc6,"32-54 80th St, New York, NY 11370
+",New York,4,http://job-openings.monster.com/monster/e445ecd6-67f9-4c93-828d-6dd51bbb8e34,"4600 Palisade Ave, New York, NY 10471
+"
+"Pace University
+",New York,2,http://job-openings.monster.com/monster/f5a857dd-4e0f-4297-b70b-2811ff206edd,"41-22 42nd St, New York, NY 11104
 "
 "Fordham University
-",http://job-openings.monster.com/monster/c3439bfb-7766-470d-b56b-63b4790720d9,"41-22 42nd St, New York, NY 11104
+",New York,1,http://job-openings.monster.com/monster/e0dde248-aaf1-4832-b369-1dfe7268f5fd,"4650 Hadley Ave, New York, NY 10471
+"
+"Fordham University
+",New York,0,http://job-openings.monster.com/monster/5fc6c55c-0f4b-4c97-9015-fc06f54c6b38,"31-23 80th St, New York, NY 11370
+"
+"Baruch College
+",New York,4,http://job-openings.monster.com/monster/10becbb7-4a64-4e95-a75f-113e01efb4e4,"31-23 80th St, New York, NY 11370
+"
+"Baruch College
+",New York,1,http://job-openings.monster.com/monster/1c1e3e95-5579-4a02-93c1-3a7bfdbbe05d,"32-54 80th St, New York, NY 11370
+"
+"Fordham University
+",New York,2,http://job-openings.monster.com/monster/8d7be65f-c0fa-4214-9ea0-159779b64241,"31-23 80th St, New York, NY 11370
+"
+"Pace University
+",New York,4,http://job-openings.monster.com/monster/d71c7b32-9127-48c0-b8e1-20b1dda1c2b0,"4069 Dodgewood Rd, New York, NY 10471
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/b87a5c43-bf52-442a-9c63-3833ea57ff19,"31-23 80th St, New York, NY 11370
-"
-"Fordham University
-",http://job-openings.monster.com/monster/8077b302-f56c-4663-bc96-7557f883db2a,"41-22 42nd St, New York, NY 11104
-"
-"Fordham University
-",http://job-openings.monster.com/monster/3fc63ac2-dc68-4ac7-907d-bf7267d6f042,"47-11 45th St, New York, NY 11377
-"
-"Manhattan College
-",http://job-openings.monster.com/monster/57a9df74-b7f1-4179-a092-119efa2e3dd9,"9 Ploughmans Bush, New York, NY 10471
+",New York,2,http://job-openings.monster.com/monster/cee59b64-13e3-455b-9a67-9bc506534b80,"32-54 82nd St, New York, NY 11370
 "
 "Pace University
-",http://job-openings.monster.com/monster/8266e83d-c419-414d-89db-4e68abc7a986,"9 Ploughmans Bush, New York, NY 10471
+",New York,3,http://job-openings.monster.com/monster/404490bd-e045-460f-94a9-3d0edfc6fac2,"32-54 80th St, New York, NY 11370
+"
+"Fordham University
+",New York,4,http://job-openings.monster.com/monster/dc1ddf80-2614-4034-ab25-80da4e963af5,"4645 Independence Ave, New York, NY 10471
 "
 "Baruch College
-",http://job-openings.monster.com/monster/a11de56c-e0d8-41a1-9b2f-a5af0642c1d4,"4645 Independence Ave, New York, NY 10471
+",New York,3,http://job-openings.monster.com/monster/409f5327-10a7-4bc9-843a-7196b94f5f05,"32-54 82nd St, New York, NY 11370
 "
 "Pace University
-",http://job-openings.monster.com/monster/491c6578-657d-4215-99b6-918cc95e5d45,"288 Prospect Pl, New York, NY 11238
-"
-"Pace University
-",http://job-openings.monster.com/monster/19b85d25-cb65-4482-9c56-f915eb524753,"681 Bergen St, New York, NY 11238
-"
-"Fordham University
-",http://job-openings.monster.com/monster/159aef9d-71fd-406f-8345-9eb7ed9087bc,"4645 Independence Ave, New York, NY 10471
-"
-"Manhattan College
-",http://job-openings.monster.com/monster/d7974e98-dc09-4d74-8020-5e580349ed3d,"31-23 80th St, New York, NY 11370
-"
-"Fordham University
-",http://job-openings.monster.com/monster/c46c895b-8571-4009-b529-3d5234bc8c25,"32-19 76th St, New York, NY 11370
-"
-"Fordham University
-",http://job-openings.monster.com/monster/0c57cd47-66d0-40e8-95ce-e0e8d87dca18,"4069 Dodgewood Rd, New York, NY 10471
-"
-"Pace University
-",http://job-openings.monster.com/monster/9b2c580c-aad3-4311-92d6-06ec7d21ab77,"45-44 42nd St, New York, NY 11104
+",New York,0,http://job-openings.monster.com/monster/8f797d57-c15d-48e2-8008-8adb0653a188,"4650 Hadley Ave, New York, NY 10471
 "
 "Baruch College
-",http://job-openings.monster.com/monster/9f9fbc74-d303-46ac-9e97-a494fd3c245c,"45-44 42nd St, New York, NY 11104
-"
-"Manhattan College
-",http://job-openings.monster.com/monster/5d9ea8ab-faf0-4fe8-b2b3-d122936b9714,"32-54 82nd St, New York, NY 11370
-"
-"Manhattan College
-",http://job-openings.monster.com/monster/1d77c3ed-2dc3-4a4b-8556-21787014267b,"4069 Dodgewood Rd, New York, NY 10471
+",New York,5,http://job-openings.monster.com/monster/6a9bb1a8-4356-45ad-bdbd-ff2cfadf22cc,"41-46 50th St, New York, NY 11377
 "
 "Pace University
-",http://job-openings.monster.com/monster/f264cfb6-d518-4f56-9ca9-4446e26291f4,"32-43 83rd St, New York, NY 11370
+",New York,2,http://job-openings.monster.com/monster/23861220-ae9f-41b4-a616-8535d9b976cf,"153 Underhill Ave, New York, NY 11238
 "
 "Fordham University
-",http://job-openings.monster.com/monster/6e1d73bc-b9b8-444e-86ee-7e40cb7efbcc,"31-23 80th St, New York, NY 11370
+",New York,3,http://job-openings.monster.com/monster/1d6fde31-5e96-40a2-9d69-a68cbe31aa79,"31-23 80th St, New York, NY 11370
+"
+"Baruch College
+",New York,5,http://job-openings.monster.com/monster/f4b80df8-e9be-4def-b8e7-cda021d6f67a,"31-23 80th St, New York, NY 11370
+"
+"Baruch College
+",New York,0,http://job-openings.monster.com/monster/ddcd5c8c-46c6-4ed2-bfee-57a01bda6e37,"4600 Palisade Ave, New York, NY 10471
+"
+"Baruch College
+",New York,6,http://job-openings.monster.com/monster/04356697-84ea-4a1d-b5fb-a24c027efff1,"32-54 82nd St, New York, NY 11370
 "
 "Pace University
-",http://job-openings.monster.com/monster/47d814a5-fffb-4a10-9b84-fc8165e3e4b2,"4600 Palisade Ave, New York, NY 10471
+",New York,1,http://job-openings.monster.com/monster/e3dc764b-44ff-47ba-a813-2ceb697326a7,"4645 Independence Ave, New York, NY 10471
 "
 "Pace University
-",http://job-openings.monster.com/monster/56d63a24-c354-43ed-8dad-dbe4db1d3c84,"288 Prospect Pl, New York, NY 11238
+",New York,3,http://job-openings.monster.com/monster/f2b71477-03c8-49c1-9aea-4c9a42aa88b4,"4645 Independence Ave, New York, NY 10471
+"
+"Fordham University
+",New York,5,http://job-openings.monster.com/monster/ee186e8a-9f5b-48ea-aa69-c3656a23bfc6,"32-54 80th St, New York, NY 11370
+"
+"Fordham University
+",New York,0,http://job-openings.monster.com/monster/c3439bfb-7766-470d-b56b-63b4790720d9,"41-22 42nd St, New York, NY 11104
+"
+"Manhattan College
+",New York,3,http://job-openings.monster.com/monster/b87a5c43-bf52-442a-9c63-3833ea57ff19,"31-23 80th St, New York, NY 11370
+"
+"Fordham University
+",New York,3,http://job-openings.monster.com/monster/8077b302-f56c-4663-bc96-7557f883db2a,"41-22 42nd St, New York, NY 11104
+"
+"Fordham University
+",New York,4,http://job-openings.monster.com/monster/3fc63ac2-dc68-4ac7-907d-bf7267d6f042,"47-11 45th St, New York, NY 11377
+"
+"Manhattan College
+",New York,5,http://job-openings.monster.com/monster/57a9df74-b7f1-4179-a092-119efa2e3dd9,"9 Ploughmans Bush, New York, NY 10471
+"
+"Pace University
+",New York,6,http://job-openings.monster.com/monster/8266e83d-c419-414d-89db-4e68abc7a986,"9 Ploughmans Bush, New York, NY 10471
+"
+"Baruch College
+",New York,6,http://job-openings.monster.com/monster/a11de56c-e0d8-41a1-9b2f-a5af0642c1d4,"4645 Independence Ave, New York, NY 10471
+"
+"Pace University
+",New York,5,http://job-openings.monster.com/monster/491c6578-657d-4215-99b6-918cc95e5d45,"288 Prospect Pl, New York, NY 11238
+"
+"Pace University
+",New York,5,http://job-openings.monster.com/monster/19b85d25-cb65-4482-9c56-f915eb524753,"681 Bergen St, New York, NY 11238
+"
+"Fordham University
+",New York,2,http://job-openings.monster.com/monster/159aef9d-71fd-406f-8345-9eb7ed9087bc,"4645 Independence Ave, New York, NY 10471
+"
+"Manhattan College
+",New York,5,http://job-openings.monster.com/monster/d7974e98-dc09-4d74-8020-5e580349ed3d,"31-23 80th St, New York, NY 11370
+"
+"Fordham University
+",New York,1,http://job-openings.monster.com/monster/c46c895b-8571-4009-b529-3d5234bc8c25,"32-19 76th St, New York, NY 11370
+"
+"Fordham University
+",New York,3,http://job-openings.monster.com/monster/0c57cd47-66d0-40e8-95ce-e0e8d87dca18,"4069 Dodgewood Rd, New York, NY 10471
+"
+"Pace University
+",New York,0,http://job-openings.monster.com/monster/9b2c580c-aad3-4311-92d6-06ec7d21ab77,"45-44 42nd St, New York, NY 11104
+"
+"Baruch College
+",New York,1,http://job-openings.monster.com/monster/9f9fbc74-d303-46ac-9e97-a494fd3c245c,"45-44 42nd St, New York, NY 11104
+"
+"Manhattan College
+",New York,1,http://job-openings.monster.com/monster/5d9ea8ab-faf0-4fe8-b2b3-d122936b9714,"32-54 82nd St, New York, NY 11370
+"
+"Manhattan College
+",New York,0,http://job-openings.monster.com/monster/1d77c3ed-2dc3-4a4b-8556-21787014267b,"4069 Dodgewood Rd, New York, NY 10471
+"
+"Pace University
+",New York,1,http://job-openings.monster.com/monster/f264cfb6-d518-4f56-9ca9-4446e26291f4,"32-43 83rd St, New York, NY 11370
+"
+"Fordham University
+",New York,7,http://job-openings.monster.com/monster/6e1d73bc-b9b8-444e-86ee-7e40cb7efbcc,"31-23 80th St, New York, NY 11370
+"
+"Pace University
+",New York,7,http://job-openings.monster.com/monster/47d814a5-fffb-4a10-9b84-fc8165e3e4b2,"4600 Palisade Ave, New York, NY 10471
+"
+"Pace University
+",New York,5,http://job-openings.monster.com/monster/56d63a24-c354-43ed-8dad-dbe4db1d3c84,"288 Prospect Pl, New York, NY 11238
 "
 "Pepperdine University
-",http://jobview.monster.com/Legal-Mail-Print-Clerk-Job-Federal-CA-US-169638157.aspx,"7553 Trask Ave, Los Angeles, CA 90293
+",Los Angeles,7,http://jobview.monster.com/Legal-Mail-Print-Clerk-Job-Federal-CA-US-169638157.aspx,"7553 Trask Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://jobview.monster.com/General-Office-Clerk-Cashier-Job-Los-Angeles-CA-US-113559561.aspx,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,0,http://jobview.monster.com/General-Office-Clerk-Cashier-Job-Los-Angeles-CA-US-113559561.aspx,"421 Lewis St, Los Angeles, CA 90042
 "
 "Pepperdine University
-",http://jobview.monster.com/Medical-Office-Clerk-Job-Baldwin-Park-CA-US-168880581.aspx,"13929 Cardillo Dr, Los Angeles, CA 92683
+",Los Angeles,5,http://jobview.monster.com/Medical-Office-Clerk-Job-Baldwin-Park-CA-US-168880581.aspx,"13929 Cardillo Dr, Los Angeles, CA 92683
 "
 "California State University, Northridge
-",http://jobview.monster.com/Registration-Clerk-Job-Anaheim-CA-US-169416628.aspx,"6414 Roble Ave, Los Angeles, CA 90042
+",Los Angeles,4,http://jobview.monster.com/Registration-Clerk-Job-Anaheim-CA-US-169416628.aspx,"6414 Roble Ave, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/7c6dc471-dcef-49cf-8274-f9b2ea940b65,"6414 Roble Ave, Los Angeles, CA 90042
+",Los Angeles,3,http://job-openings.monster.com/monster/7c6dc471-dcef-49cf-8274-f9b2ea940b65,"6414 Roble Ave, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://jobview.monster.com/22423081-Clerk-Job-Century-City-CA-US-168628315.aspx,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,0,http://jobview.monster.com/22423081-Clerk-Job-Century-City-CA-US-168628315.aspx,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Accounts-Payable-Specialist-Clerk-Job-LOS-ANGELES-CA-US-162636173.aspx,"15415 Dogwood St, Los Angeles, CA 92683
+",Los Angeles,0,http://jobview.monster.com/Accounts-Payable-Specialist-Clerk-Job-LOS-ANGELES-CA-US-162636173.aspx,"15415 Dogwood St, Los Angeles, CA 92683
 "
 "California State University, Northridge
-",http://jobview.monster.com/Firm-in-Downtown-LA-is-Seeking-File-Clerks-Job-Los-Angeles-CA-US-169443233.aspx,"6414 Roble Ave, Los Angeles, CA 90042
+",Los Angeles,0,http://jobview.monster.com/Firm-in-Downtown-LA-is-Seeking-File-Clerks-Job-Los-Angeles-CA-US-169443233.aspx,"6414 Roble Ave, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Office-Clerk-Job-Los-Angeles-CA-US-169474543.aspx,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,3,http://jobview.monster.com/Office-Clerk-Job-Los-Angeles-CA-US-169474543.aspx,"421 Lewis St, Los Angeles, CA 90042
 "
 "California State University, Northridge
-",http://jobview.monster.com/Label-Room-Clerk-Seasonal-Position-Job-Fullerton-CA-US-169745866.aspx,"15415 Dogwood St, Los Angeles, CA 92683
+",Los Angeles,1,http://jobview.monster.com/Label-Room-Clerk-Seasonal-Position-Job-Fullerton-CA-US-169745866.aspx,"15415 Dogwood St, Los Angeles, CA 92683
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/016d184a-a0de-44a2-9097-4232fc607551,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,2,http://job-openings.monster.com/monster/016d184a-a0de-44a2-9097-4232fc607551,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/b7558ec2-fb59-4036-9055-f68b27900ea3,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,3,http://job-openings.monster.com/monster/b7558ec2-fb59-4036-9055-f68b27900ea3,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/58c852d7-b5ff-496d-ac2a-976f594c288f,"395 W Terrace Ln, Los Angeles, CA 90042
+",Los Angeles,5,http://job-openings.monster.com/monster/58c852d7-b5ff-496d-ac2a-976f594c288f,"395 W Terrace Ln, Los Angeles, CA 90042
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/230a3cda-2917-462c-a09a-4ca4f9badecf,"395 W Terrace Ln, Los Angeles, CA 90042
+",Los Angeles,2,http://job-openings.monster.com/monster/230a3cda-2917-462c-a09a-4ca4f9badecf,"395 W Terrace Ln, Los Angeles, CA 90042
 "
 "Pepperdine University
-",http://jobview.monster.com/Accounts-Payable-Clerk-Job-Los-Angeles-CA-US-168614784.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
+",Los Angeles,7,http://jobview.monster.com/Accounts-Payable-Clerk-Job-Los-Angeles-CA-US-168614784.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/351d8e70-250d-4b18-9bbc-d438ca075407,"1049 Larker Ave, Los Angeles, CA 90042
+",Los Angeles,4,http://job-openings.monster.com/monster/351d8e70-250d-4b18-9bbc-d438ca075407,"1049 Larker Ave, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://jobview.monster.com/ACCOUNTING-CLERK-NEEDED!-Job-Los-Angeles-CA-US-169744826.aspx,"1308 9th St, Los Angeles, CA 90401
+",Los Angeles,6,http://jobview.monster.com/ACCOUNTING-CLERK-NEEDED!-Job-Los-Angeles-CA-US-169744826.aspx,"1308 9th St, Los Angeles, CA 90401
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/da8a7f97-63fc-45ca-b9b7-b5f16cf7ce9e,"6414 Roble Ave, Los Angeles, CA 90042
+",Los Angeles,7,http://job-openings.monster.com/monster/da8a7f97-63fc-45ca-b9b7-b5f16cf7ce9e,"6414 Roble Ave, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/2be44f72-7acf-46a3-99ca-03d510dcfdd3,"8136 Zitola Terrace, Los Angeles, CA 90293
+",Los Angeles,0,http://job-openings.monster.com/monster/2be44f72-7acf-46a3-99ca-03d510dcfdd3,"8136 Zitola Terrace, Los Angeles, CA 90293
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/c6c8a1b4-77fe-46e6-a5c6-adf16c5c1047,"15415 Dogwood St, Los Angeles, CA 92683
+",Los Angeles,7,http://job-openings.monster.com/monster/c6c8a1b4-77fe-46e6-a5c6-adf16c5c1047,"15415 Dogwood St, Los Angeles, CA 92683
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/4a6a37e7-9d25-40f6-b45c-33ae2c9aec16,"5236 Park Ave, Los Angeles, CA 92845
+",Los Angeles,2,http://job-openings.monster.com/monster/4a6a37e7-9d25-40f6-b45c-33ae2c9aec16,"5236 Park Ave, Los Angeles, CA 92845
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/72d5dfad-32ad-41d1-9937-c9cc912ecc6f,"7553 Trask Ave, Los Angeles, CA 90293
+",Los Angeles,6,http://job-openings.monster.com/monster/72d5dfad-32ad-41d1-9937-c9cc912ecc6f,"7553 Trask Ave, Los Angeles, CA 90293
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/744afe1f-def6-4a26-aad1-acfbe3201e18,"1079 S Arroyo Blvd, Los Angeles, CA 91105
+",Los Angeles,5,http://job-openings.monster.com/monster/744afe1f-def6-4a26-aad1-acfbe3201e18,"1079 S Arroyo Blvd, Los Angeles, CA 91105
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/286d14e2-633c-41fd-bc81-e33dd42312a9,"1049 Larker Ave, Los Angeles, CA 90042
+",Los Angeles,1,http://job-openings.monster.com/monster/286d14e2-633c-41fd-bc81-e33dd42312a9,"1049 Larker Ave, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/c86391dc-75a2-4b32-801c-447a1270b439,"1049 Larker Ave, Los Angeles, CA 90042
+",Los Angeles,1,http://job-openings.monster.com/monster/c86391dc-75a2-4b32-801c-447a1270b439,"1049 Larker Ave, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/77890dc3-a729-417a-876f-5c3006c234bf,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,1,http://job-openings.monster.com/monster/77890dc3-a729-417a-876f-5c3006c234bf,"421 Lewis St, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/56e145a6-7700-4b04-abcb-412b98f7dc27,"13929 Cardillo Dr, Los Angeles, CA 92683
+",Los Angeles,3,http://job-openings.monster.com/monster/56e145a6-7700-4b04-abcb-412b98f7dc27,"13929 Cardillo Dr, Los Angeles, CA 92683
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/9219089d-dc65-46d2-ab9b-8744f4c22445,"13929 Cardillo Dr, Los Angeles, CA 92683
+",Los Angeles,3,http://job-openings.monster.com/monster/9219089d-dc65-46d2-ab9b-8744f4c22445,"13929 Cardillo Dr, Los Angeles, CA 92683
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/3fe7f2ee-786a-4699-8d67-e940354691ac,"1218 12th St, Los Angeles, CA 90401
+",Los Angeles,4,http://job-openings.monster.com/monster/3fe7f2ee-786a-4699-8d67-e940354691ac,"1218 12th St, Los Angeles, CA 90401
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/0f0e49a7-371d-4f8f-be76-75ad35056e5e,"15415 Dogwood St, Los Angeles, CA 92683
+",Los Angeles,6,http://job-openings.monster.com/monster/0f0e49a7-371d-4f8f-be76-75ad35056e5e,"15415 Dogwood St, Los Angeles, CA 92683
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/41fd0f16-ccb8-4a89-9853-0e3da34d9934,"7200 Rindge Ave, Los Angeles, CA 90293
+",Los Angeles,2,http://job-openings.monster.com/monster/41fd0f16-ccb8-4a89-9853-0e3da34d9934,"7200 Rindge Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/6d48cd4b-b429-494f-bed1-a76ec409365d,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,3,http://job-openings.monster.com/monster/6d48cd4b-b429-494f-bed1-a76ec409365d,"421 Lewis St, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/091bf953-6553-403b-abc9-d3d2d0d070fc,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,1,http://job-openings.monster.com/monster/091bf953-6553-403b-abc9-d3d2d0d070fc,"421 Lewis St, Los Angeles, CA 90042
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/df62d304-4db4-4de7-a267-6d572614c68e,"5236 Park Ave, Los Angeles, CA 92845
+",Los Angeles,1,http://job-openings.monster.com/monster/df62d304-4db4-4de7-a267-6d572614c68e,"5236 Park Ave, Los Angeles, CA 92845
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/e629b3af-8b60-45be-ab60-0239355296b8,"5236 Park Ave, Los Angeles, CA 92845
+",Los Angeles,0,http://job-openings.monster.com/monster/e629b3af-8b60-45be-ab60-0239355296b8,"5236 Park Ave, Los Angeles, CA 92845
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/b85bdda5-aff5-4b73-903b-0d307aac472e,"13929 Cardillo Dr, Los Angeles, CA 92683
+",Los Angeles,1,http://job-openings.monster.com/monster/b85bdda5-aff5-4b73-903b-0d307aac472e,"13929 Cardillo Dr, Los Angeles, CA 92683
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/27560e37-5bcc-4d34-a563-7ef3d32977dd,"1049 Larker Ave, Los Angeles, CA 90042
+",Los Angeles,6,http://job-openings.monster.com/monster/27560e37-5bcc-4d34-a563-7ef3d32977dd,"1049 Larker Ave, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/0723d6ba-83e0-4874-9d02-ef8ee8c15460,"7200 Rindge Ave, Los Angeles, CA 90293
+",Los Angeles,5,http://job-openings.monster.com/monster/0723d6ba-83e0-4874-9d02-ef8ee8c15460,"7200 Rindge Ave, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/b69c6a13-2950-45a8-a01d-dee574571469,"14335 Cedarwood Ave, Los Angeles, CA 92683
+",Los Angeles,2,http://job-openings.monster.com/monster/b69c6a13-2950-45a8-a01d-dee574571469,"14335 Cedarwood Ave, Los Angeles, CA 92683
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/c12c4a4f-04c5-4d10-ab7e-6d2c4a31fdac,"5236 Park Ave, Los Angeles, CA 92845
+",Los Angeles,1,http://job-openings.monster.com/monster/c12c4a4f-04c5-4d10-ab7e-6d2c4a31fdac,"5236 Park Ave, Los Angeles, CA 92845
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/9273050a-abca-424a-9962-4e6c27221817,"1079 S Arroyo Blvd, Los Angeles, CA 91105
+",Los Angeles,4,http://job-openings.monster.com/monster/9273050a-abca-424a-9962-4e6c27221817,"1079 S Arroyo Blvd, Los Angeles, CA 91105
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/afb541a8-52a5-4acd-aa7c-09f8513b760f,"14335 Cedarwood Ave, Los Angeles, CA 92683
+",Los Angeles,6,http://job-openings.monster.com/monster/afb541a8-52a5-4acd-aa7c-09f8513b760f,"14335 Cedarwood Ave, Los Angeles, CA 92683
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/a0518903-ebc2-4bb1-ba45-ea99a63cf0de,"1321 Euclid St, Los Angeles, CA 90404
+",Los Angeles,1,http://job-openings.monster.com/monster/a0518903-ebc2-4bb1-ba45-ea99a63cf0de,"1321 Euclid St, Los Angeles, CA 90404
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/00fa57c6-ae0d-444e-a631-5e20ebe3e1fb,"1308 9th St, Los Angeles, CA 90401
+",Los Angeles,2,http://job-openings.monster.com/monster/00fa57c6-ae0d-444e-a631-5e20ebe3e1fb,"1308 9th St, Los Angeles, CA 90401
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/5c9d0bcf-53bd-4c2d-a1ea-c5351811349f,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,3,http://job-openings.monster.com/monster/5c9d0bcf-53bd-4c2d-a1ea-c5351811349f,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/fb4679ac-4b7b-4a42-a637-ccf5307210c1,"1122 10th St, Los Angeles, CA 90403
+",Los Angeles,0,http://job-openings.monster.com/monster/fb4679ac-4b7b-4a42-a637-ccf5307210c1,"1122 10th St, Los Angeles, CA 90403
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/b196b6df-d937-43e3-9bf4-94ef882dd8e5,"1321 Euclid St, Los Angeles, CA 90404
+",Los Angeles,0,http://job-openings.monster.com/monster/b196b6df-d937-43e3-9bf4-94ef882dd8e5,"1321 Euclid St, Los Angeles, CA 90404
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/bf6e9c86-3945-4334-97d7-db7ddd09dd90,"6414 Roble Ave, Los Angeles, CA 90042
+",Los Angeles,1,http://job-openings.monster.com/monster/bf6e9c86-3945-4334-97d7-db7ddd09dd90,"6414 Roble Ave, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/cd332e3a-1a4d-4246-937f-eba1f4fff38f,"1308 9th St, Los Angeles, CA 90401
+",Los Angeles,6,http://job-openings.monster.com/monster/cd332e3a-1a4d-4246-937f-eba1f4fff38f,"1308 9th St, Los Angeles, CA 90401
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/07cfc258-728d-409c-9d2b-c90583d19429,"1325 Arizona Ave, Los Angeles, CA 90404
+",Los Angeles,2,http://job-openings.monster.com/monster/07cfc258-728d-409c-9d2b-c90583d19429,"1325 Arizona Ave, Los Angeles, CA 90404
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/08c557d6-c7df-4361-95cc-cd6b35e03e2f,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,4,http://job-openings.monster.com/monster/08c557d6-c7df-4361-95cc-cd6b35e03e2f,"433 Sunridge St, Los Angeles, CA 90293
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/7d60f1a0-ac26-4d21-8ca8-361230ea120c,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,0,http://job-openings.monster.com/monster/7d60f1a0-ac26-4d21-8ca8-361230ea120c,"421 Lewis St, Los Angeles, CA 90042
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/857ddd6e-b7d1-4315-a5f2-c706a5bef559,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,0,http://job-openings.monster.com/monster/857ddd6e-b7d1-4315-a5f2-c706a5bef559,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/bf7e2084-236a-45a2-983b-59cb3c239eb2,"1325 Arizona Ave, Los Angeles, CA 90404
+",Los Angeles,2,http://job-openings.monster.com/monster/bf7e2084-236a-45a2-983b-59cb3c239eb2,"1325 Arizona Ave, Los Angeles, CA 90404
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/f37948b3-5755-4f42-9e2f-e61c2367a4ca,"6414 Roble Ave, Los Angeles, CA 90042
+",Los Angeles,1,http://job-openings.monster.com/monster/f37948b3-5755-4f42-9e2f-e61c2367a4ca,"6414 Roble Ave, Los Angeles, CA 90042
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/b6e89d52-2f0b-4532-99e0-24a08dfbcce3,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,6,http://job-openings.monster.com/monster/b6e89d52-2f0b-4532-99e0-24a08dfbcce3,"433 Sunridge St, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/4e095b92-927d-45ef-bf35-4498bd3dd897,"395 W Terrace Ln, Los Angeles, CA 90042
+",Los Angeles,1,http://job-openings.monster.com/monster/4e095b92-927d-45ef-bf35-4498bd3dd897,"395 W Terrace Ln, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/634b3e21-13ff-46a1-b996-9b3434871e74,"1308 9th St, Los Angeles, CA 90401
+",Los Angeles,0,http://job-openings.monster.com/monster/634b3e21-13ff-46a1-b996-9b3434871e74,"1308 9th St, Los Angeles, CA 90401
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/958f67fe-90cf-412d-8697-60b2287f640a,"1218 12th St, Los Angeles, CA 90401
+",Los Angeles,5,http://job-openings.monster.com/monster/958f67fe-90cf-412d-8697-60b2287f640a,"1218 12th St, Los Angeles, CA 90401
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/d073c24a-d13d-44fa-8558-5c78258a45a9,"1079 S Arroyo Blvd, Los Angeles, CA 91105
+",Los Angeles,2,http://job-openings.monster.com/monster/d073c24a-d13d-44fa-8558-5c78258a45a9,"1079 S Arroyo Blvd, Los Angeles, CA 91105
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/f713cdb6-3f66-4b77-b6ac-54a016923038,"1308 9th St, Los Angeles, CA 90401
+",Los Angeles,0,http://job-openings.monster.com/monster/f713cdb6-3f66-4b77-b6ac-54a016923038,"1308 9th St, Los Angeles, CA 90401
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/33dd808f-f02f-4765-b4ff-0cb0228932ae,"1325 Arizona Ave, Los Angeles, CA 90404
+",Los Angeles,0,http://job-openings.monster.com/monster/33dd808f-f02f-4765-b4ff-0cb0228932ae,"1325 Arizona Ave, Los Angeles, CA 90404
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/a29aea17-7648-4248-b789-b099f7e32b48,"5236 Park Ave, Los Angeles, CA 92845
+",Los Angeles,6,http://job-openings.monster.com/monster/a29aea17-7648-4248-b789-b099f7e32b48,"5236 Park Ave, Los Angeles, CA 92845
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/cb2be85b-af32-4341-8f41-3fa372b47a6e,"1122 10th St, Los Angeles, CA 90403
+",Los Angeles,7,http://job-openings.monster.com/monster/cb2be85b-af32-4341-8f41-3fa372b47a6e,"1122 10th St, Los Angeles, CA 90403
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/73c7e0d5-8c50-4521-901c-4cdd4f449fe5,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,7,http://job-openings.monster.com/monster/73c7e0d5-8c50-4521-901c-4cdd4f449fe5,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/40f9bd92-8587-44f4-9945-d9737afc6089,"6414 Roble Ave, Los Angeles, CA 90042
+",Los Angeles,7,http://job-openings.monster.com/monster/40f9bd92-8587-44f4-9945-d9737afc6089,"6414 Roble Ave, Los Angeles, CA 90042
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/b5d7847b-2b09-4dfd-b3d2-edad67bb7567,"1321 Euclid St, Los Angeles, CA 90404
+",Los Angeles,1,http://job-openings.monster.com/monster/b5d7847b-2b09-4dfd-b3d2-edad67bb7567,"1321 Euclid St, Los Angeles, CA 90404
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/2bd974ae-ca5a-4c1d-b562-16a5d213ac88,"5236 Park Ave, Los Angeles, CA 92845
+",Los Angeles,6,http://job-openings.monster.com/monster/2bd974ae-ca5a-4c1d-b562-16a5d213ac88,"5236 Park Ave, Los Angeles, CA 92845
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/de7b5018-cc03-49be-a1de-928aa6042537,"14335 Cedarwood Ave, Los Angeles, CA 92683
+",Los Angeles,7,http://job-openings.monster.com/monster/de7b5018-cc03-49be-a1de-928aa6042537,"14335 Cedarwood Ave, Los Angeles, CA 92683
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/51a12344-480f-47f5-a0ed-010dfbaf448f,"6414 Roble Ave, Los Angeles, CA 90042
+",Los Angeles,7,http://job-openings.monster.com/monster/51a12344-480f-47f5-a0ed-010dfbaf448f,"6414 Roble Ave, Los Angeles, CA 90042
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/2e4dafff-2c01-4c11-83b6-4404dd1bf6ac,"1321 Euclid St, Los Angeles, CA 90404
+",Los Angeles,7,http://job-openings.monster.com/monster/2e4dafff-2c01-4c11-83b6-4404dd1bf6ac,"1321 Euclid St, Los Angeles, CA 90404
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/3fafab9b-f52d-459d-ae30-a5eaa0914b62,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,7,http://job-openings.monster.com/monster/3fafab9b-f52d-459d-ae30-a5eaa0914b62,"421 Lewis St, Los Angeles, CA 90042
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/5a068063-de3a-457c-828f-12799741adf7,"395 W Terrace Ln, Los Angeles, CA 90042
+",Los Angeles,1,http://job-openings.monster.com/monster/5a068063-de3a-457c-828f-12799741adf7,"395 W Terrace Ln, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/297f2b85-175e-49d3-8e02-70553f4d80ae,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,0,http://job-openings.monster.com/monster/297f2b85-175e-49d3-8e02-70553f4d80ae,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/f3725e1e-1608-498f-b20d-b10eb38041ef,"8136 Zitola Terrace, Los Angeles, CA 90293
+",Los Angeles,0,http://job-openings.monster.com/monster/f3725e1e-1608-498f-b20d-b10eb38041ef,"8136 Zitola Terrace, Los Angeles, CA 90293
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/10a3afe6-165c-489c-8a82-bac2eba78105,"15415 Dogwood St, Los Angeles, CA 92683
+",Los Angeles,6,http://job-openings.monster.com/monster/10a3afe6-165c-489c-8a82-bac2eba78105,"15415 Dogwood St, Los Angeles, CA 92683
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/b71ae274-002b-40e9-946a-74b7fe408d3e,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,2,http://job-openings.monster.com/monster/b71ae274-002b-40e9-946a-74b7fe408d3e,"433 Sunridge St, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/7ab4378e-cf99-4884-8984-5df3d61e566d,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,0,http://job-openings.monster.com/monster/7ab4378e-cf99-4884-8984-5df3d61e566d,"433 Sunridge St, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/a61442ff-dafe-4107-89ba-751f25e35f16,"7200 Rindge Ave, Los Angeles, CA 90293
+",Los Angeles,3,http://job-openings.monster.com/monster/a61442ff-dafe-4107-89ba-751f25e35f16,"7200 Rindge Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/38f51daa-39d6-43ef-8357-86e2529c6f92,"7553 Trask Ave, Los Angeles, CA 90293
+",Los Angeles,5,http://job-openings.monster.com/monster/38f51daa-39d6-43ef-8357-86e2529c6f92,"7553 Trask Ave, Los Angeles, CA 90293
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/e2b6b84f-223e-4fed-bca4-f709eb5399b0,"5236 Park Ave, Los Angeles, CA 92845
+",Los Angeles,4,http://job-openings.monster.com/monster/e2b6b84f-223e-4fed-bca4-f709eb5399b0,"5236 Park Ave, Los Angeles, CA 92845
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/7577813c-0a82-4f6e-97d3-24a3f66064a1,"1308 9th St, Los Angeles, CA 90401
+",Los Angeles,4,http://job-openings.monster.com/monster/7577813c-0a82-4f6e-97d3-24a3f66064a1,"1308 9th St, Los Angeles, CA 90401
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/ba91b3c5-0f61-4355-82ea-e6733e11f49b,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,6,http://job-openings.monster.com/monster/ba91b3c5-0f61-4355-82ea-e6733e11f49b,"433 Sunridge St, Los Angeles, CA 90293
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/8a837c88-3bc3-4792-9134-848306425890,"395 W Terrace Ln, Los Angeles, CA 90042
+",Los Angeles,6,http://job-openings.monster.com/monster/8a837c88-3bc3-4792-9134-848306425890,"395 W Terrace Ln, Los Angeles, CA 90042
 "
 "DePaul University
-",http://jobview.monster.com/Sales-Director-Job-Evanston-IL-US-165211767.aspx,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,1,http://jobview.monster.com/Sales-Director-Job-Evanston-IL-US-165211767.aspx,"4511 S Karlov Ave, Chicago, IL 60632
 "
 "Wheaton College
-",http://jobview.monster.com/Sales-Representative-Job-Chicago-IL-US-168790429.aspx,"4842 S Lavergne Ave, Chicago, IL 60638
+",Chicago,2,http://jobview.monster.com/Sales-Representative-Job-Chicago-IL-US-168790429.aspx,"4842 S Lavergne Ave, Chicago, IL 60638
 "
 "University of Illinois at Chicago
-",http://jobview.monster.com/Customer-Service-Sales-Assistant-To-Low-40s-Fantastic-Benefits!-Job-River-Grove-IL-US-169164160.aspx,"4649 W Schubert Ave, Chicago, IL 60639
+",Chicago,5,http://jobview.monster.com/Customer-Service-Sales-Assistant-To-Low-40s-Fantastic-Benefits!-Job-River-Grove-IL-US-169164160.aspx,"4649 W Schubert Ave, Chicago, IL 60639
 "
 "DePaul University
-",http://jobview.monster.com/FABRICATION-SALES-MANAGER-Job-maywood-IL-US-168121406.aspx,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,7,http://jobview.monster.com/FABRICATION-SALES-MANAGER-Job-maywood-IL-US-168121406.aspx,"4511 S Karlov Ave, Chicago, IL 60632
 "
 "Wheaton College
-",http://jobview.monster.com/Wedding-Sales-Stylist-Part-Time-Job-Schaumburg-IL-US-168766782.aspx,"4728 N Hamlin Ave, Chicago, IL 60625
+",Chicago,4,http://jobview.monster.com/Wedding-Sales-Stylist-Part-Time-Job-Schaumburg-IL-US-168766782.aspx,"4728 N Hamlin Ave, Chicago, IL 60625
 "
-Valparaiso University,http://jobview.monster.com/Entry-Level-Marketing-Sales-Restaurant-Retail-Background-No-Nights-Weekends-Job-Chicago-IL-US-168659946.aspx,"1943 W Belle Plaine Ave, Chicago, IL 60613
-"
-"DePaul University
-",http://job-openings.monster.com/monster/ece5f0b1-6e8d-46e0-a1e8-6f8ff7ea08a9,"4649 W Schubert Ave, Chicago, IL 60639
+Valparaiso University,Chicago,2,http://jobview.monster.com/Entry-Level-Marketing-Sales-Restaurant-Retail-Background-No-Nights-Weekends-Job-Chicago-IL-US-168659946.aspx,"1943 W Belle Plaine Ave, Chicago, IL 60613
 "
 "DePaul University
-",http://jobview.monster.com/Inside-Sales-Representative-Job-Chicago-IL-US-169017437.aspx,"1051 W Maxwell St, Chicago, IL 60608
+",Chicago,4,http://job-openings.monster.com/monster/ece5f0b1-6e8d-46e0-a1e8-6f8ff7ea08a9,"4649 W Schubert Ave, Chicago, IL 60639
+"
+"DePaul University
+",Chicago,7,http://jobview.monster.com/Inside-Sales-Representative-Job-Chicago-IL-US-169017437.aspx,"1051 W Maxwell St, Chicago, IL 60608
 "
 "University of Illinois at Chicago
-",http://jobview.monster.com/Account-Executive-Mokena-Job-Mokena-IL-US-168914433.aspx,"1331 W Lunt Ave, Chicago, IL 60626
+",Chicago,1,http://jobview.monster.com/Account-Executive-Mokena-Job-Mokena-IL-US-168914433.aspx,"1331 W Lunt Ave, Chicago, IL 60626
 "
 "Wheaton College
-",http://jobview.monster.com/central-regional-bakery-equipment-sales-specialist-job-us-159206408.aspx,"6407 N Newgard Ave, Chicago, IL 60626
+",Chicago,4,http://jobview.monster.com/central-regional-bakery-equipment-sales-specialist-job-us-159206408.aspx,"6407 N Newgard Ave, Chicago, IL 60626
 "
-Valparaiso University,http://job-openings.monster.com/monster/2aea7a9d-4025-4a17-b504-6b44fcd7cf0f,"4230 N Whipple St, Chicago, IL 60618
+Valparaiso University,Chicago,0,http://job-openings.monster.com/monster/2aea7a9d-4025-4a17-b504-6b44fcd7cf0f,"4230 N Whipple St, Chicago, IL 60618
 "
 "University of Illinois at Chicago
-",http://jobview.monster.com/Sales-Representative-Job-Chicago-IL-US-169482500.aspx,"1348 W Washburne Ave, Chicago, IL 60608
+",Chicago,6,http://jobview.monster.com/Sales-Representative-Job-Chicago-IL-US-169482500.aspx,"1348 W Washburne Ave, Chicago, IL 60608
 "
-Valparaiso University,http://jobview.monster.com/Safety-Product-Sales-Specialist-Job-Chicago-IL-US-169727506.aspx,"1454 S Emerald Ave, Chicago, IL 60607
+Valparaiso University,Chicago,2,http://jobview.monster.com/Safety-Product-Sales-Specialist-Job-Chicago-IL-US-169727506.aspx,"1454 S Emerald Ave, Chicago, IL 60607
 "
-Valparaiso University,http://jobview.monster.com/sponsorship-sales-representative-job-san-mateo-ca-us-169440843.aspx,"1348 W Washburne Ave, Chicago, IL 60608
+Valparaiso University,Chicago,1,http://jobview.monster.com/sponsorship-sales-representative-job-san-mateo-ca-us-169440843.aspx,"1348 W Washburne Ave, Chicago, IL 60608
 "
-Valparaiso University,http://jobview.monster.com/sales-marketing-manager-job-us-169417403.aspx,"4649 W Schubert Ave, Chicago, IL 60639
+Valparaiso University,Chicago,3,http://jobview.monster.com/sales-marketing-manager-job-us-169417403.aspx,"4649 W Schubert Ave, Chicago, IL 60639
 "
 "Wheaton College
-",http://jobview.monster.com/Regional-Sales-Manager-Job-Chicago-IL-US-168254725.aspx,"1660 W Schreiber Ave, Chicago, IL 60626
+",Chicago,3,http://jobview.monster.com/Regional-Sales-Manager-Job-Chicago-IL-US-168254725.aspx,"1660 W Schreiber Ave, Chicago, IL 60626
 "
 "DePaul University
-",http://jobview.monster.com/Territory-Sales-Manager-Technical-Field-Sales-Wisconson-Illinois-Job-Chicago-IL-US-168755887.aspx,"848 S Carpenter St, Chicago, IL 60607
+",Chicago,5,http://jobview.monster.com/Territory-Sales-Manager-Technical-Field-Sales-Wisconson-Illinois-Job-Chicago-IL-US-168755887.aspx,"848 S Carpenter St, Chicago, IL 60607
 "
 "Wheaton College
-",http://jobview.monster.com/Telecom-Cloud-Sales-Representative-Job-Chicago-IL-US-149410073.aspx,"1331 W Lunt Ave, Chicago, IL 60626
+",Chicago,4,http://jobview.monster.com/Telecom-Cloud-Sales-Representative-Job-Chicago-IL-US-149410073.aspx,"1331 W Lunt Ave, Chicago, IL 60626
 "
-Valparaiso University,http://jobview.monster.com/Central-US-Regional-Sales-Manager-%E2%80%93-Solid-State-Lighting-SSL-Industry-Background-Job-Chicago-IL-US-168908894.aspx,"4230 N Whipple St, Chicago, IL 60618
+Valparaiso University,Chicago,4,http://jobview.monster.com/Central-US-Regional-Sales-Manager-%E2%80%93-Solid-State-Lighting-SSL-Industry-Background-Job-Chicago-IL-US-168908894.aspx,"4230 N Whipple St, Chicago, IL 60618
 "
-Valparaiso University,http://jobview.monster.com/Sales-%E2%80%94-Technical-Account-Manager-Job-Chicago-IL-US-168075673.aspx,"1515 W Farwell Ave, Chicago, IL 60626
+Valparaiso University,Chicago,3,http://jobview.monster.com/Sales-%E2%80%94-Technical-Account-Manager-Job-Chicago-IL-US-168075673.aspx,"1515 W Farwell Ave, Chicago, IL 60626
 "
 "DePaul University
-",http://jobview.monster.com/its-project-manager-job-franklin-wi-us-167586338.aspx,"4649 W Schubert Ave, Chicago, IL 60639
+",Chicago,3,http://jobview.monster.com/its-project-manager-job-franklin-wi-us-167586338.aspx,"4649 W Schubert Ave, Chicago, IL 60639
 "
-Valparaiso University,http://jobview.monster.com/Outside-Sales-Representative-UniFirst-Job-Mokena-IL-US-168716102.aspx,"4842 S Lavergne Ave, Chicago, IL 60638
+Valparaiso University,Chicago,2,http://jobview.monster.com/Outside-Sales-Representative-UniFirst-Job-Mokena-IL-US-168716102.aspx,"4842 S Lavergne Ave, Chicago, IL 60638
 "
 "University of Illinois at Chicago
-",http://jobview.monster.com/Cosmetic-Sales-Consultant-Estee-Lauder-Job-HAMMOND-IN-US-169176623.aspx,"2428 N Kilpatrick Ave, Chicago, IL 60639
+",Chicago,7,http://jobview.monster.com/Cosmetic-Sales-Consultant-Estee-Lauder-Job-HAMMOND-IN-US-169176623.aspx,"2428 N Kilpatrick Ave, Chicago, IL 60639
 "
-Valparaiso University,http://jobview.monster.com/Marketing-Advertising-Sales-Representative-Job-Northbrook-IL-US-148409710.aspx,"1454 S Emerald Ave, Chicago, IL 60607
+Valparaiso University,Chicago,1,http://jobview.monster.com/Marketing-Advertising-Sales-Representative-Job-Northbrook-IL-US-148409710.aspx,"1454 S Emerald Ave, Chicago, IL 60607
 "
 "DePaul University
-",http://jobview.monster.com/Outside-Sales-Representative-Job-Broadview-IL-US-169220864.aspx,"1348 W Washburne Ave, Chicago, IL 60608
+",Chicago,5,http://jobview.monster.com/Outside-Sales-Representative-Job-Broadview-IL-US-169220864.aspx,"1348 W Washburne Ave, Chicago, IL 60608
 "
 "Wheaton College
-",http://jobview.monster.com/cts-product-developer-job-norwalk-ct-us-169069917.aspx,"1612 W Estes Ave, Chicago, IL 60626
+",Chicago,0,http://jobview.monster.com/cts-product-developer-job-norwalk-ct-us-169069917.aspx,"1612 W Estes Ave, Chicago, IL 60626
 "
-Valparaiso University,http://jobview.monster.com/Educational-Sales-Opportunity-IL-Eastern-MO-Job-Chicago-IL-US-168587380.aspx,"4728 N Hamlin Ave, Chicago, IL 60625
-"
-"DePaul University
-",http://jobview.monster.com/HVAC-Account-Development-Representative-Job-Des-Plaines-IL-US-168500483.aspx,"1051 W Maxwell St, Chicago, IL 60608
-"
-Valparaiso University,http://jobview.monster.com/Entry-Level-Sales-Job-Chicago-IL-US-153215972.aspx,"4511 S Karlov Ave, Chicago, IL 60632
+Valparaiso University,Chicago,5,http://jobview.monster.com/Educational-Sales-Opportunity-IL-Eastern-MO-Job-Chicago-IL-US-168587380.aspx,"4728 N Hamlin Ave, Chicago, IL 60625
 "
 "DePaul University
-",http://jobview.monster.com/Sales-Marketing-Account-Executive-with-base-salary-benefits-Job-Chicago-IL-US-169383207.aspx,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,3,http://jobview.monster.com/HVAC-Account-Development-Representative-Job-Des-Plaines-IL-US-168500483.aspx,"1051 W Maxwell St, Chicago, IL 60608
+"
+Valparaiso University,Chicago,1,http://jobview.monster.com/Entry-Level-Sales-Job-Chicago-IL-US-153215972.aspx,"4511 S Karlov Ave, Chicago, IL 60632
+"
+"DePaul University
+",Chicago,7,http://jobview.monster.com/Sales-Marketing-Account-Executive-with-base-salary-benefits-Job-Chicago-IL-US-169383207.aspx,"4511 S Karlov Ave, Chicago, IL 60632
 "
 "University of Illinois at Chicago
-",http://jobview.monster.com/account-manager-job-us-162121035.aspx,"1612 W Estes Ave, Chicago, IL 60626
+",Chicago,2,http://jobview.monster.com/account-manager-job-us-162121035.aspx,"1612 W Estes Ave, Chicago, IL 60626
 "
 "Wheaton College
-",http://jobview.monster.com/Sales-Representative-Job-Chicago-IL-US-169427234.aspx,"1660 W Schreiber Ave, Chicago, IL 60626
+",Chicago,6,http://jobview.monster.com/Sales-Representative-Job-Chicago-IL-US-169427234.aspx,"1660 W Schreiber Ave, Chicago, IL 60626
 "
-Valparaiso University,http://jobview.local-jobs.monster.com/PRESTA-TECHNICAL-SALES-REPRESENTATIVE-Job-Chicago-IL-US-169265541.aspx,"1612 W Estes Ave, Chicago, IL 60626
-"
-"DePaul University
-",http://jobview.monster.com/Flight-Center-Sales-Airfare-Expert-Chicago-IL-Job-Chicago-IL-US-166029432.aspx,"1943 W Belle Plaine Ave, Chicago, IL 60613
-"
-"University of Illinois at Chicago
-",http://jobview.monster.com/Sales-Communication-Support-Specialist-Job-Chicago-IL-US-169650341.aspx,"1331 W Lunt Ave, Chicago, IL 60626
-"
-"University of Illinois at Chicago
-",http://jobview.monster.com/Insurance-Sales-Producer-P-C-Signing-Bonus!-Job-Northbrook-IL-US-168661266.aspx,"1454 S Emerald Ave, Chicago, IL 60607
+Valparaiso University,Chicago,0,http://jobview.local-jobs.monster.com/PRESTA-TECHNICAL-SALES-REPRESENTATIVE-Job-Chicago-IL-US-169265541.aspx,"1612 W Estes Ave, Chicago, IL 60626
 "
 "DePaul University
-",http://jobview.monster.com/senior-field-service-technician-see-video-job-us-164423156.aspx,"1515 W Farwell Ave, Chicago, IL 60626
+",Chicago,2,http://jobview.monster.com/Flight-Center-Sales-Airfare-Expert-Chicago-IL-Job-Chicago-IL-US-166029432.aspx,"1943 W Belle Plaine Ave, Chicago, IL 60613
+"
+"University of Illinois at Chicago
+",Chicago,6,http://jobview.monster.com/Sales-Communication-Support-Specialist-Job-Chicago-IL-US-169650341.aspx,"1331 W Lunt Ave, Chicago, IL 60626
+"
+"University of Illinois at Chicago
+",Chicago,4,http://jobview.monster.com/Insurance-Sales-Producer-P-C-Signing-Bonus!-Job-Northbrook-IL-US-168661266.aspx,"1454 S Emerald Ave, Chicago, IL 60607
+"
+"DePaul University
+",Chicago,0,http://jobview.monster.com/senior-field-service-technician-see-video-job-us-164423156.aspx,"1515 W Farwell Ave, Chicago, IL 60626
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/60b2893e-600b-4330-8da5-dcc312d844cf,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,1,http://job-openings.monster.com/monster/60b2893e-600b-4330-8da5-dcc312d844cf,"4511 S Karlov Ave, Chicago, IL 60632
 "
 "University of Illinois at Chicago
-",http://jobview.monster.com/Account-Manager-Customer-Care-Job-Lisle-IL-US-168810148.aspx,"6407 N Newgard Ave, Chicago, IL 60626
+",Chicago,5,http://jobview.monster.com/Account-Manager-Customer-Care-Job-Lisle-IL-US-168810148.aspx,"6407 N Newgard Ave, Chicago, IL 60626
 "
 "DePaul University
-",http://job-openings.monster.com/monster/f184fa6f-20d7-4523-8113-6379289eba31,"848 S Carpenter St, Chicago, IL 60607
+",Chicago,6,http://job-openings.monster.com/monster/f184fa6f-20d7-4523-8113-6379289eba31,"848 S Carpenter St, Chicago, IL 60607
 "
 "DePaul University
-",http://jobview.monster.com/Regional-Account-Manager-Building-Products-Midwest-Great-Lakes-Job-Chicago-IL-US-169114554.aspx,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,6,http://jobview.monster.com/Regional-Account-Manager-Building-Products-Midwest-Great-Lakes-Job-Chicago-IL-US-169114554.aspx,"4511 S Karlov Ave, Chicago, IL 60632
 "
 "Wheaton College
-",http://jobview.monster.com/Sales-Representative-for-Event-Agency-Job-Chicago-IL-US-169498668.aspx,"6332 S Lamon Ave, Chicago, IL 60638
+",Chicago,3,http://jobview.monster.com/Sales-Representative-for-Event-Agency-Job-Chicago-IL-US-169498668.aspx,"6332 S Lamon Ave, Chicago, IL 60638
 "
-Valparaiso University,http://jobview.monster.com/Sales-Management-Trainee-Job-Chicago-IL-US-162897795.aspx,"1348 W Washburne Ave, Chicago, IL 60608
+Valparaiso University,Chicago,0,http://jobview.monster.com/Sales-Management-Trainee-Job-Chicago-IL-US-162897795.aspx,"1348 W Washburne Ave, Chicago, IL 60608
 "
 "DePaul University
-",http://jobview.monster.com/Part-Time-Account-Manager-Job-Bensenville-IL-US-169006075.aspx,"6332 S Lamon Ave, Chicago, IL 60638
+",Chicago,5,http://jobview.monster.com/Part-Time-Account-Manager-Job-Bensenville-IL-US-169006075.aspx,"6332 S Lamon Ave, Chicago, IL 60638
 "
 "University of Illinois at Chicago
-",http://jobview.monster.com/Outside-Sales-Schaumburg-IL-Job-opportunity!!-Job-Schaumburg-IL-US-169340037.aspx,"1348 W Washburne Ave, Chicago, IL 60608
+",Chicago,2,http://jobview.monster.com/Outside-Sales-Schaumburg-IL-Job-opportunity!!-Job-Schaumburg-IL-US-169340037.aspx,"1348 W Washburne Ave, Chicago, IL 60608
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/266a14d1-b42b-4bac-b15d-8931cb1747c9,"6407 N Newgard Ave, Chicago, IL 60626
+",Chicago,0,http://job-openings.monster.com/monster/266a14d1-b42b-4bac-b15d-8931cb1747c9,"6407 N Newgard Ave, Chicago, IL 60626
 "
 "Wheaton College
-",http://jobview.monster.com/Area-Sales-Manager-Job-Chicago-IL-US-169734311.aspx,"1612 W Estes Ave, Chicago, IL 60626
+",Chicago,4,http://jobview.monster.com/Area-Sales-Manager-Job-Chicago-IL-US-169734311.aspx,"1612 W Estes Ave, Chicago, IL 60626
 "
 "University of Illinois at Chicago
-",http://jobview.monster.com/Sales-Reps-Team-Leaders-Needed-ASAP-PD-WKLY-BONUS!-Job-Chicago-IL-US-168757933.aspx,"1660 W Schreiber Ave, Chicago, IL 60626
+",Chicago,6,http://jobview.monster.com/Sales-Reps-Team-Leaders-Needed-ASAP-PD-WKLY-BONUS!-Job-Chicago-IL-US-168757933.aspx,"1660 W Schreiber Ave, Chicago, IL 60626
 "
 "DePaul University
-",http://jobview.monster.com/Customer-service-Sales-Represntative-Part-Time-Evenings-Job-Oak-Brook-IL-US-169084777.aspx,"1660 W Schreiber Ave, Chicago, IL 60626
+",Chicago,5,http://jobview.monster.com/Customer-service-Sales-Represntative-Part-Time-Evenings-Job-Oak-Brook-IL-US-169084777.aspx,"1660 W Schreiber Ave, Chicago, IL 60626
 "
-Valparaiso University,http://job-openings.monster.com/monster/0adb5e90-5bce-442e-8fa9-78173bb4e00a,"1348 W Washburne Ave, Chicago, IL 60608
+Valparaiso University,Chicago,5,http://job-openings.monster.com/monster/0adb5e90-5bce-442e-8fa9-78173bb4e00a,"1348 W Washburne Ave, Chicago, IL 60608
 "
-Valparaiso University,http://job-openings.monster.com/monster/e166e5cb-f334-4f47-9376-4bcf0126d13c,"4511 S Karlov Ave, Chicago, IL 60632
+Valparaiso University,Chicago,4,http://job-openings.monster.com/monster/e166e5cb-f334-4f47-9376-4bcf0126d13c,"4511 S Karlov Ave, Chicago, IL 60632
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/4ee8e4d3-84cb-4ae3-9e50-e63ee05579d9,"6332 S Lamon Ave, Chicago, IL 60638
+",Chicago,3,http://job-openings.monster.com/monster/4ee8e4d3-84cb-4ae3-9e50-e63ee05579d9,"6332 S Lamon Ave, Chicago, IL 60638
 "
 "DePaul University
-",http://jobview.monster.com/E-Commerce-Account-Manager-Job-Wheeling-IL-US-152472114.aspx,"6332 S Lamon Ave, Chicago, IL 60638
+",Chicago,2,http://jobview.monster.com/E-Commerce-Account-Manager-Job-Wheeling-IL-US-152472114.aspx,"6332 S Lamon Ave, Chicago, IL 60638
 "
-Valparaiso University,http://jobview.monster.com/Account-Manager-Job-Chicago-IL-US-164608529.aspx,"1612 W Estes Ave, Chicago, IL 60626
+Valparaiso University,Chicago,5,http://jobview.monster.com/Account-Manager-Job-Chicago-IL-US-164608529.aspx,"1612 W Estes Ave, Chicago, IL 60626
 "
 "DePaul University
-",http://jobview.monster.com/Retail-Store-Sales-Associate-Job-Wilmette-IL-US-169128913.aspx,"952 W Vernon Park Pl, Chicago, IL 60607
+",Chicago,1,http://jobview.monster.com/Retail-Store-Sales-Associate-Job-Wilmette-IL-US-169128913.aspx,"952 W Vernon Park Pl, Chicago, IL 60607
 "
 "Wheaton College
-",http://jobview.monster.com/Account-Manager-Commercial-Property-Casualty-Job-Lombard-IL-US-167764165.aspx,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,5,http://jobview.monster.com/Account-Manager-Commercial-Property-Casualty-Job-Lombard-IL-US-167764165.aspx,"4511 S Karlov Ave, Chicago, IL 60632
 "
 "Wheaton College
-",http://jobview.monster.com/Event-Specialist-Part-Time-Sales-ACO-Job-Chicago-IL-US-169303480.aspx,"952 W Vernon Park Pl, Chicago, IL 60607
+",Chicago,5,http://jobview.monster.com/Event-Specialist-Part-Time-Sales-ACO-Job-Chicago-IL-US-169303480.aspx,"952 W Vernon Park Pl, Chicago, IL 60607
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/d1f91538-f394-481f-ad3d-134822d79841,"4649 W Schubert Ave, Chicago, IL 60639
+",Chicago,7,http://job-openings.monster.com/monster/d1f91538-f394-481f-ad3d-134822d79841,"4649 W Schubert Ave, Chicago, IL 60639
 "
 "Wheaton College
-",http://jobview.monster.com/Sales-Representative-S-Base-Pay-Comm-Job-Crestwood-IL-US-168919418.aspx,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,0,http://jobview.monster.com/Sales-Representative-S-Base-Pay-Comm-Job-Crestwood-IL-US-168919418.aspx,"4511 S Karlov Ave, Chicago, IL 60632
 "
 "DePaul University
-",http://job-openings.monster.com/monster/0555a0a7-dd84-4c46-a2b4-aa92e294aae5,"4842 S Lavergne Ave, Chicago, IL 60638
+",Chicago,7,http://job-openings.monster.com/monster/0555a0a7-dd84-4c46-a2b4-aa92e294aae5,"4842 S Lavergne Ave, Chicago, IL 60638
 "
 "DePaul University
-",http://job-openings.monster.com/monster/0555a0a7-dd84-4c46-a2b4-aa92e294aae5,"848 S Carpenter St, Chicago, IL 60607
+",Chicago,5,http://job-openings.monster.com/monster/0555a0a7-dd84-4c46-a2b4-aa92e294aae5,"848 S Carpenter St, Chicago, IL 60607
 "
 "DePaul University
-",http://job-openings.monster.com/monster/1a033d06-0922-4ac7-96c3-508633262736,"6407 N Newgard Ave, Chicago, IL 60626
+",Chicago,4,http://job-openings.monster.com/monster/1a033d06-0922-4ac7-96c3-508633262736,"6407 N Newgard Ave, Chicago, IL 60626
 "
-Valparaiso University,http://job-openings.monster.com/monster/bde30845-91ad-4bd9-bc6f-7cb026d6fc6b,"1331 W Lunt Ave, Chicago, IL 60626
+Valparaiso University,Chicago,7,http://job-openings.monster.com/monster/bde30845-91ad-4bd9-bc6f-7cb026d6fc6b,"1331 W Lunt Ave, Chicago, IL 60626
 "
-Valparaiso University,http://job-openings.monster.com/monster/89b31e7d-1623-49d8-b7ad-e6ffb6b474cb,"4842 S Lavergne Ave, Chicago, IL 60638
+Valparaiso University,Chicago,2,http://job-openings.monster.com/monster/89b31e7d-1623-49d8-b7ad-e6ffb6b474cb,"4842 S Lavergne Ave, Chicago, IL 60638
 "
-Valparaiso University,http://job-openings.monster.com/monster/15654547-49eb-4954-b230-6fb0c5430485,"6332 S Lamon Ave, Chicago, IL 60638
+Valparaiso University,Chicago,3,http://job-openings.monster.com/monster/15654547-49eb-4954-b230-6fb0c5430485,"6332 S Lamon Ave, Chicago, IL 60638
 "
-Valparaiso University,http://job-openings.monster.com/monster/bea4d17e-30e3-441b-bde2-1e5c95212662,"1454 S Emerald Ave, Chicago, IL 60607
+Valparaiso University,Chicago,1,http://job-openings.monster.com/monster/bea4d17e-30e3-441b-bde2-1e5c95212662,"1454 S Emerald Ave, Chicago, IL 60607
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/146e0260-72d4-4e30-aa6d-224353e51f38,"1051 W Maxwell St, Chicago, IL 60608
+",Chicago,0,http://job-openings.monster.com/monster/146e0260-72d4-4e30-aa6d-224353e51f38,"1051 W Maxwell St, Chicago, IL 60608
 "
 "DePaul University
-",http://job-openings.monster.com/monster/d576c424-e7e5-4595-843f-f9f71cad2b71,"4230 N Whipple St, Chicago, IL 60618
+",Chicago,7,http://job-openings.monster.com/monster/d576c424-e7e5-4595-843f-f9f71cad2b71,"4230 N Whipple St, Chicago, IL 60618
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/706bdba8-12cc-4de6-8985-3f3ff4ba7520,"1660 W Schreiber Ave, Chicago, IL 60626
+",Chicago,7,http://job-openings.monster.com/monster/706bdba8-12cc-4de6-8985-3f3ff4ba7520,"1660 W Schreiber Ave, Chicago, IL 60626
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/6bf69645-1030-4dbe-9767-27224fb94f24,"4807 S Kilpatrick Ave, Chicago, IL 60632
+",Chicago,7,http://job-openings.monster.com/monster/6bf69645-1030-4dbe-9767-27224fb94f24,"4807 S Kilpatrick Ave, Chicago, IL 60632
 "
 "DePaul University
-",http://job-openings.monster.com/monster/a7b481a0-99bf-4843-a759-7197241c428d,"848 S Carpenter St, Chicago, IL 60607
+",Chicago,3,http://job-openings.monster.com/monster/a7b481a0-99bf-4843-a759-7197241c428d,"848 S Carpenter St, Chicago, IL 60607
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/5b964d85-a95f-4071-9315-e254682ed63d,"1943 W Belle Plaine Ave, Chicago, IL 60613
+",Chicago,5,http://job-openings.monster.com/monster/5b964d85-a95f-4071-9315-e254682ed63d,"1943 W Belle Plaine Ave, Chicago, IL 60613
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/bf671f09-6480-486c-b91f-4e24f1c8ae5f,"4807 S Kilpatrick Ave, Chicago, IL 60632
+",Chicago,2,http://job-openings.monster.com/monster/bf671f09-6480-486c-b91f-4e24f1c8ae5f,"4807 S Kilpatrick Ave, Chicago, IL 60632
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/f65429f5-ade9-444e-bc1b-f43b28ba6a00,"1515 W Farwell Ave, Chicago, IL 60626
+",Chicago,3,http://job-openings.monster.com/monster/f65429f5-ade9-444e-bc1b-f43b28ba6a00,"1515 W Farwell Ave, Chicago, IL 60626
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/04279bd6-ab50-4c33-8234-cc7204ee36ea,"952 W Vernon Park Pl, Chicago, IL 60607
+",Chicago,7,http://job-openings.monster.com/monster/04279bd6-ab50-4c33-8234-cc7204ee36ea,"952 W Vernon Park Pl, Chicago, IL 60607
 "
-Valparaiso University,http://job-openings.monster.com/monster/f806bfd5-4f8a-4348-ab21-f7c71f684f4a,"1454 S Emerald Ave, Chicago, IL 60607
+Valparaiso University,Chicago,1,http://job-openings.monster.com/monster/f806bfd5-4f8a-4348-ab21-f7c71f684f4a,"1454 S Emerald Ave, Chicago, IL 60607
 "
 "DePaul University
-",http://job-openings.monster.com/monster/97544cc6-0ec2-44bd-88f6-2ace332c0d64,"1454 S Emerald Ave, Chicago, IL 60607
+",Chicago,0,http://job-openings.monster.com/monster/97544cc6-0ec2-44bd-88f6-2ace332c0d64,"1454 S Emerald Ave, Chicago, IL 60607
 "
-Valparaiso University,http://job-openings.monster.com/monster/5bf7eb59-1789-4f4f-a345-ff57b2876dda,"4230 N Whipple St, Chicago, IL 60618
+Valparaiso University,Chicago,4,http://job-openings.monster.com/monster/5bf7eb59-1789-4f4f-a345-ff57b2876dda,"4230 N Whipple St, Chicago, IL 60618
 "
-Valparaiso University,http://job-openings.monster.com/monster/cc4e6040-d35b-459f-82e6-7a970da2efcb,"4807 S Kilpatrick Ave, Chicago, IL 60632
+Valparaiso University,Chicago,6,http://job-openings.monster.com/monster/cc4e6040-d35b-459f-82e6-7a970da2efcb,"4807 S Kilpatrick Ave, Chicago, IL 60632
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/97544cc6-0ec2-44bd-88f6-2ace332c0d64,"1660 W Schreiber Ave, Chicago, IL 60626
+",Chicago,0,http://job-openings.monster.com/monster/97544cc6-0ec2-44bd-88f6-2ace332c0d64,"1660 W Schreiber Ave, Chicago, IL 60626
 "
-Valparaiso University,http://job-openings.monster.com/monster/d36321fb-7496-4f10-8e30-982d2ea96012,"1660 W Schreiber Ave, Chicago, IL 60626
+Valparaiso University,Chicago,1,http://job-openings.monster.com/monster/d36321fb-7496-4f10-8e30-982d2ea96012,"1660 W Schreiber Ave, Chicago, IL 60626
 "
-Valparaiso University,http://job-openings.monster.com/monster/cdaf4199-dcb3-4874-905a-4e174a2576d6,"1943 W Belle Plaine Ave, Chicago, IL 60613
+Valparaiso University,Chicago,5,http://job-openings.monster.com/monster/cdaf4199-dcb3-4874-905a-4e174a2576d6,"1943 W Belle Plaine Ave, Chicago, IL 60613
 "
 "DePaul University
-",http://job-openings.monster.com/monster/9d5061dd-d552-4b03-ace1-6907667975e2,"4842 S Lavergne Ave, Chicago, IL 60638
+",Chicago,0,http://job-openings.monster.com/monster/9d5061dd-d552-4b03-ace1-6907667975e2,"4842 S Lavergne Ave, Chicago, IL 60638
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/c768b7c5-7b4c-44a0-b99c-c561369b31ae,"4649 W Schubert Ave, Chicago, IL 60639
+",Chicago,4,http://job-openings.monster.com/monster/c768b7c5-7b4c-44a0-b99c-c561369b31ae,"4649 W Schubert Ave, Chicago, IL 60639
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/bb3489a7-8688-444d-b7dd-3b9f0ca7fa51,"4728 N Hamlin Ave, Chicago, IL 60625
+",Chicago,0,http://job-openings.monster.com/monster/bb3489a7-8688-444d-b7dd-3b9f0ca7fa51,"4728 N Hamlin Ave, Chicago, IL 60625
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/8024edc6-26de-4c6f-8795-3e1dc94d0930,"1454 S Emerald Ave, Chicago, IL 60607
+",Chicago,3,http://job-openings.monster.com/monster/8024edc6-26de-4c6f-8795-3e1dc94d0930,"1454 S Emerald Ave, Chicago, IL 60607
 "
 "DePaul University
-",http://job-openings.monster.com/monster/a09ca446-f05e-4259-8ed9-4f5a548b77bf,"848 S Carpenter St, Chicago, IL 60607
+",Chicago,7,http://job-openings.monster.com/monster/a09ca446-f05e-4259-8ed9-4f5a548b77bf,"848 S Carpenter St, Chicago, IL 60607
 "
 "Wheaton College
-",http://jobview.monster.com/Secretary-Receptionist-General-Clerical-Job-Stock-Yards-IL-US-169541719.aspx,"1348 W Washburne Ave, Chicago, IL 60608
+",Chicago,6,http://jobview.monster.com/Secretary-Receptionist-General-Clerical-Job-Stock-Yards-IL-US-169541719.aspx,"1348 W Washburne Ave, Chicago, IL 60608
 "
 "Wheaton College
-",http://jobview.local-jobs.monster.com/Docket-Clerk-Job-US-169667146.aspx,"6407 N Newgard Ave, Chicago, IL 60626
+",Chicago,6,http://jobview.local-jobs.monster.com/Docket-Clerk-Job-US-169667146.aspx,"6407 N Newgard Ave, Chicago, IL 60626
 "
-Valparaiso University,http://job-openings.monster.com/monster/9f2a2799-f816-4072-b059-53c407dcfc84,"952 W Vernon Park Pl, Chicago, IL 60607
+Valparaiso University,Chicago,5,http://job-openings.monster.com/monster/9f2a2799-f816-4072-b059-53c407dcfc84,"952 W Vernon Park Pl, Chicago, IL 60607
 "
 "University of Illinois at Chicago
-",http://jobview.monster.com/General-Clerical-Job-Des-Plaines-IL-US-168768754.aspx,"1943 W Belle Plaine Ave, Chicago, IL 60613
+",Chicago,0,http://jobview.monster.com/General-Clerical-Job-Des-Plaines-IL-US-168768754.aspx,"1943 W Belle Plaine Ave, Chicago, IL 60613
 "
-Valparaiso University,http://job-openings.monster.com/monster/1d4a5e8f-0c3b-4216-a5bc-9d0980d85709,"4728 N Hamlin Ave, Chicago, IL 60625
-"
-"Wheaton College
-",http://job-openings.monster.com/monster/5bebabd6-4d2d-404d-be30-bc6611bb6cd2,"6407 N Newgard Ave, Chicago, IL 60626
-"
-Valparaiso University,http://job-openings.monster.com/monster/c104abf3-65f9-4c39-b42c-ab7faf85456a,"6332 S Lamon Ave, Chicago, IL 60638
+Valparaiso University,Chicago,6,http://job-openings.monster.com/monster/1d4a5e8f-0c3b-4216-a5bc-9d0980d85709,"4728 N Hamlin Ave, Chicago, IL 60625
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/c4b38ba9-5731-4953-9146-52a813d7096e,"1051 W Maxwell St, Chicago, IL 60608
+",Chicago,0,http://job-openings.monster.com/monster/5bebabd6-4d2d-404d-be30-bc6611bb6cd2,"6407 N Newgard Ave, Chicago, IL 60626
 "
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/f179cbdc-0485-4138-b214-b15613acb34b,"1454 S Emerald Ave, Chicago, IL 60607
-"
-"Wheaton College
-",http://job-openings.monster.com/monster/ef5bdfb2-eeb8-4b9a-aa5a-43cf8d732bc8,"4728 N Hamlin Ave, Chicago, IL 60625
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/8d434c7b-cb73-4705-80cc-bafd7e23d36f,"1943 W Belle Plaine Ave, Chicago, IL 60613
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/b38dc755-9cfc-4ca9-a6b5-e516472dcca1,"1454 S Emerald Ave, Chicago, IL 60607
+Valparaiso University,Chicago,1,http://job-openings.monster.com/monster/c104abf3-65f9-4c39-b42c-ab7faf85456a,"6332 S Lamon Ave, Chicago, IL 60638
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/3fd93f9b-907b-4ee9-bec2-198cb5a65531,"1331 W Lunt Ave, Chicago, IL 60626
+",Chicago,0,http://job-openings.monster.com/monster/c4b38ba9-5731-4953-9146-52a813d7096e,"1051 W Maxwell St, Chicago, IL 60608
 "
-Valparaiso University,http://job-openings.monster.com/monster/cdcf2e29-94b4-4ead-b761-54e8c5d53adc,"1051 W Maxwell St, Chicago, IL 60608
+"University of Illinois at Chicago
+",Chicago,5,http://job-openings.monster.com/monster/f179cbdc-0485-4138-b214-b15613acb34b,"1454 S Emerald Ave, Chicago, IL 60607
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/640ee8d9-2215-4152-aa52-af73faf118ed,"1454 S Emerald Ave, Chicago, IL 60607
+",Chicago,7,http://job-openings.monster.com/monster/ef5bdfb2-eeb8-4b9a-aa5a-43cf8d732bc8,"4728 N Hamlin Ave, Chicago, IL 60625
 "
-"DePaul University
-",http://job-openings.monster.com/monster/a83f7f73-b327-47d8-b117-0b1fb073f38b,"4842 S Lavergne Ave, Chicago, IL 60638
+"University of Illinois at Chicago
+",Chicago,2,http://job-openings.monster.com/monster/8d434c7b-cb73-4705-80cc-bafd7e23d36f,"1943 W Belle Plaine Ave, Chicago, IL 60613
 "
-"DePaul University
-",http://job-openings.monster.com/monster/de9eed2b-5dfb-468b-9b9e-36d51bfe59b5,"848 S Carpenter St, Chicago, IL 60607
-"
-Valparaiso University,http://job-openings.monster.com/monster/76c8cc83-97d7-4e13-b650-52af1a3348c2,"4511 S Karlov Ave, Chicago, IL 60632
-"
-Valparaiso University,http://job-openings.monster.com/monster/40af9e73-c0fb-4e38-a8a6-85ead17c56e8,"1515 W Farwell Ave, Chicago, IL 60626
+"University of Illinois at Chicago
+",Chicago,2,http://job-openings.monster.com/monster/b38dc755-9cfc-4ca9-a6b5-e516472dcca1,"1454 S Emerald Ave, Chicago, IL 60607
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/21b94122-e020-4fb0-8c61-393192116d12,"2428 N Kilpatrick Ave, Chicago, IL 60639
+",Chicago,7,http://job-openings.monster.com/monster/3fd93f9b-907b-4ee9-bec2-198cb5a65531,"1331 W Lunt Ave, Chicago, IL 60626
 "
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/03c77cba-5a1e-47a8-938b-02b952a15d67,"6407 N Newgard Ave, Chicago, IL 60626
-"
-"DePaul University
-",http://job-openings.monster.com/monster/58ab6f15-4222-4780-ae11-a68f244571b7,"1660 W Schreiber Ave, Chicago, IL 60626
-"
-"DePaul University
-",http://job-openings.monster.com/monster/a14bb099-25aa-4a91-b424-0300b79ab1e1,"2428 N Kilpatrick Ave, Chicago, IL 60639
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/3d0afdcd-4ec8-486f-8ab3-c839150fbe63,"2428 N Kilpatrick Ave, Chicago, IL 60639
-"
-"DePaul University
-",http://job-openings.monster.com/monster/408af5aa-bfca-4258-8879-a3c64fc33881,"4649 W Schubert Ave, Chicago, IL 60639
-"
-Valparaiso University,http://job-openings.monster.com/monster/1f57c2f3-d062-4981-b5db-3686ae13f753,"1943 W Belle Plaine Ave, Chicago, IL 60613
-"
-"DePaul University
-",http://job-openings.monster.com/monster/3808da7d-aa5d-47bd-992c-e940a273ebd7,"4511 S Karlov Ave, Chicago, IL 60632
-"
-"DePaul University
-",http://job-openings.monster.com/monster/bdbf0d5d-39d2-481e-99c6-4b6b1c53ea8a,"1943 W Belle Plaine Ave, Chicago, IL 60613
-"
-"DePaul University
-",http://job-openings.monster.com/monster/7767cbac-6702-4c5e-8ad9-6c3d4fccce9f,"1051 W Maxwell St, Chicago, IL 60608
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/5d57b15f-d1d8-4004-a81b-10f45d23d6f0,"4230 N Whipple St, Chicago, IL 60618
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/c5095e59-a165-484f-8ad0-b1049a8bfc28,"4230 N Whipple St, Chicago, IL 60618
-"
-"DePaul University
-",http://job-openings.monster.com/monster/ae53e263-d699-4a5f-90bb-d96df8eb7d9a,"952 W Vernon Park Pl, Chicago, IL 60607
-"
-"DePaul University
-",http://job-openings.monster.com/monster/371ea724-6a96-46da-8ddb-8234b6cc34ac,"1454 S Emerald Ave, Chicago, IL 60607
-"
-Valparaiso University,http://job-openings.monster.com/monster/9737fd4a-9b4a-45c6-a4c1-eaf4d90a03a8,"4807 S Kilpatrick Ave, Chicago, IL 60632
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/bdeb74d9-0595-483d-a082-565457dbbf9c,"1454 S Emerald Ave, Chicago, IL 60607
+Valparaiso University,Chicago,0,http://job-openings.monster.com/monster/cdcf2e29-94b4-4ead-b761-54e8c5d53adc,"1051 W Maxwell St, Chicago, IL 60608
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/15defaed-bb14-41be-b302-efc3c386cd39,"6407 N Newgard Ave, Chicago, IL 60626
+",Chicago,5,http://job-openings.monster.com/monster/640ee8d9-2215-4152-aa52-af73faf118ed,"1454 S Emerald Ave, Chicago, IL 60607
+"
+"DePaul University
+",Chicago,5,http://job-openings.monster.com/monster/a83f7f73-b327-47d8-b117-0b1fb073f38b,"4842 S Lavergne Ave, Chicago, IL 60638
+"
+"DePaul University
+",Chicago,1,http://job-openings.monster.com/monster/de9eed2b-5dfb-468b-9b9e-36d51bfe59b5,"848 S Carpenter St, Chicago, IL 60607
+"
+Valparaiso University,Chicago,5,http://job-openings.monster.com/monster/76c8cc83-97d7-4e13-b650-52af1a3348c2,"4511 S Karlov Ave, Chicago, IL 60632
+"
+Valparaiso University,Chicago,5,http://job-openings.monster.com/monster/40af9e73-c0fb-4e38-a8a6-85ead17c56e8,"1515 W Farwell Ave, Chicago, IL 60626
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/af1604e4-739a-4618-9b14-99db8a5adefc,"1660 W Schreiber Ave, Chicago, IL 60626
+",Chicago,7,http://job-openings.monster.com/monster/21b94122-e020-4fb0-8c61-393192116d12,"2428 N Kilpatrick Ave, Chicago, IL 60639
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/a63eb12b-4ef3-40b8-9483-fa0ecae98086,"1515 W Farwell Ave, Chicago, IL 60626
-"
-Valparaiso University,http://job-openings.monster.com/monster/d584e193-565d-487e-ad84-a25287f5d0c7,"4230 N Whipple St, Chicago, IL 60618
+",Chicago,0,http://job-openings.monster.com/monster/03c77cba-5a1e-47a8-938b-02b952a15d67,"6407 N Newgard Ave, Chicago, IL 60626
 "
 "DePaul University
-",http://job-openings.monster.com/monster/ed9f735f-533e-4b36-94e8-413665339edc,"952 W Vernon Park Pl, Chicago, IL 60607
+",Chicago,6,http://job-openings.monster.com/monster/58ab6f15-4222-4780-ae11-a68f244571b7,"1660 W Schreiber Ave, Chicago, IL 60626
+"
+"DePaul University
+",Chicago,7,http://job-openings.monster.com/monster/a14bb099-25aa-4a91-b424-0300b79ab1e1,"2428 N Kilpatrick Ave, Chicago, IL 60639
+"
+"University of Illinois at Chicago
+",Chicago,1,http://job-openings.monster.com/monster/3d0afdcd-4ec8-486f-8ab3-c839150fbe63,"2428 N Kilpatrick Ave, Chicago, IL 60639
+"
+"DePaul University
+",Chicago,6,http://job-openings.monster.com/monster/408af5aa-bfca-4258-8879-a3c64fc33881,"4649 W Schubert Ave, Chicago, IL 60639
+"
+Valparaiso University,Chicago,5,http://job-openings.monster.com/monster/1f57c2f3-d062-4981-b5db-3686ae13f753,"1943 W Belle Plaine Ave, Chicago, IL 60613
+"
+"DePaul University
+",Chicago,4,http://job-openings.monster.com/monster/3808da7d-aa5d-47bd-992c-e940a273ebd7,"4511 S Karlov Ave, Chicago, IL 60632
+"
+"DePaul University
+",Chicago,2,http://job-openings.monster.com/monster/bdbf0d5d-39d2-481e-99c6-4b6b1c53ea8a,"1943 W Belle Plaine Ave, Chicago, IL 60613
+"
+"DePaul University
+",Chicago,7,http://job-openings.monster.com/monster/7767cbac-6702-4c5e-8ad9-6c3d4fccce9f,"1051 W Maxwell St, Chicago, IL 60608
+"
+"University of Illinois at Chicago
+",Chicago,4,http://job-openings.monster.com/monster/5d57b15f-d1d8-4004-a81b-10f45d23d6f0,"4230 N Whipple St, Chicago, IL 60618
+"
+"University of Illinois at Chicago
+",Chicago,0,http://job-openings.monster.com/monster/c5095e59-a165-484f-8ad0-b1049a8bfc28,"4230 N Whipple St, Chicago, IL 60618
+"
+"DePaul University
+",Chicago,5,http://job-openings.monster.com/monster/ae53e263-d699-4a5f-90bb-d96df8eb7d9a,"952 W Vernon Park Pl, Chicago, IL 60607
+"
+"DePaul University
+",Chicago,3,http://job-openings.monster.com/monster/371ea724-6a96-46da-8ddb-8234b6cc34ac,"1454 S Emerald Ave, Chicago, IL 60607
+"
+Valparaiso University,Chicago,4,http://job-openings.monster.com/monster/9737fd4a-9b4a-45c6-a4c1-eaf4d90a03a8,"4807 S Kilpatrick Ave, Chicago, IL 60632
+"
+"University of Illinois at Chicago
+",Chicago,4,http://job-openings.monster.com/monster/bdeb74d9-0595-483d-a082-565457dbbf9c,"1454 S Emerald Ave, Chicago, IL 60607
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/a5beced4-9e3b-49c5-ac6a-484a6420ea80,"4649 W Schubert Ave, Chicago, IL 60639
+",Chicago,6,http://job-openings.monster.com/monster/15defaed-bb14-41be-b302-efc3c386cd39,"6407 N Newgard Ave, Chicago, IL 60626
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/92ac41b2-f407-4f73-a757-d30401e06b5c,"1454 S Emerald Ave, Chicago, IL 60607
-"
-"DePaul University
-",http://job-openings.monster.com/monster/e8bff264-c3de-421c-85be-69de66bd1338,"1331 W Lunt Ave, Chicago, IL 60626
+",Chicago,0,http://job-openings.monster.com/monster/af1604e4-739a-4618-9b14-99db8a5adefc,"1660 W Schreiber Ave, Chicago, IL 60626
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/860bc002-2619-4754-9238-1aa3271b879c,"4842 S Lavergne Ave, Chicago, IL 60638
+",Chicago,3,http://job-openings.monster.com/monster/a63eb12b-4ef3-40b8-9483-fa0ecae98086,"1515 W Farwell Ave, Chicago, IL 60626
+"
+Valparaiso University,Chicago,3,http://job-openings.monster.com/monster/d584e193-565d-487e-ad84-a25287f5d0c7,"4230 N Whipple St, Chicago, IL 60618
 "
 "DePaul University
-",http://job-openings.monster.com/monster/ea936f2d-1cfa-49fe-ba81-5e3e70224878,"1612 W Estes Ave, Chicago, IL 60626
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/b19973a3-c91c-43ff-adbe-63607059a1bc,"1515 W Farwell Ave, Chicago, IL 60626
-"
-Valparaiso University,http://job-openings.monster.com/monster/1b91e7b9-7dec-4acf-9e24-e93e2ceb2747,"6407 N Newgard Ave, Chicago, IL 60626
+",Chicago,2,http://job-openings.monster.com/monster/ed9f735f-533e-4b36-94e8-413665339edc,"952 W Vernon Park Pl, Chicago, IL 60607
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/0970bb6a-a13d-49e9-941c-c072a43949bc,"2428 N Kilpatrick Ave, Chicago, IL 60639
-"
-"DePaul University
-",http://job-openings.monster.com/monster/c1e8c896-fca3-4296-ad9d-44039e70bd82,"848 S Carpenter St, Chicago, IL 60607
-"
-"DePaul University
-",http://job-openings.monster.com/monster/d9e9c79c-c1c8-4978-a0cc-64d043c7ad14,"6332 S Lamon Ave, Chicago, IL 60638
-"
-"DePaul University
-",http://job-openings.monster.com/monster/727964b8-0586-4450-8fba-85233e19e12d,"952 W Vernon Park Pl, Chicago, IL 60607
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/eb0ff436-95f0-4033-bd13-7424aeb7cdf9,"4842 S Lavergne Ave, Chicago, IL 60638
+",Chicago,6,http://job-openings.monster.com/monster/a5beced4-9e3b-49c5-ac6a-484a6420ea80,"4649 W Schubert Ave, Chicago, IL 60639
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/600b0915-6996-4527-a6b7-26526201a3ef,"1331 W Lunt Ave, Chicago, IL 60626
+",Chicago,0,http://job-openings.monster.com/monster/92ac41b2-f407-4f73-a757-d30401e06b5c,"1454 S Emerald Ave, Chicago, IL 60607
+"
+"DePaul University
+",Chicago,6,http://job-openings.monster.com/monster/e8bff264-c3de-421c-85be-69de66bd1338,"1331 W Lunt Ave, Chicago, IL 60626
+"
+"University of Illinois at Chicago
+",Chicago,5,http://job-openings.monster.com/monster/860bc002-2619-4754-9238-1aa3271b879c,"4842 S Lavergne Ave, Chicago, IL 60638
+"
+"DePaul University
+",Chicago,2,http://job-openings.monster.com/monster/ea936f2d-1cfa-49fe-ba81-5e3e70224878,"1612 W Estes Ave, Chicago, IL 60626
+"
+"University of Illinois at Chicago
+",Chicago,4,http://job-openings.monster.com/monster/b19973a3-c91c-43ff-adbe-63607059a1bc,"1515 W Farwell Ave, Chicago, IL 60626
+"
+Valparaiso University,Chicago,5,http://job-openings.monster.com/monster/1b91e7b9-7dec-4acf-9e24-e93e2ceb2747,"6407 N Newgard Ave, Chicago, IL 60626
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/164e6fa0-7f9e-4ede-9f51-7a4dc43533b3,"1612 W Estes Ave, Chicago, IL 60626
+",Chicago,0,http://job-openings.monster.com/monster/0970bb6a-a13d-49e9-941c-c072a43949bc,"2428 N Kilpatrick Ave, Chicago, IL 60639
 "
 "DePaul University
-",http://job-openings.monster.com/monster/b96cf8d8-7af6-4225-91be-5111f94aa8d2,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,4,http://job-openings.monster.com/monster/c1e8c896-fca3-4296-ad9d-44039e70bd82,"848 S Carpenter St, Chicago, IL 60607
+"
+"DePaul University
+",Chicago,5,http://job-openings.monster.com/monster/d9e9c79c-c1c8-4978-a0cc-64d043c7ad14,"6332 S Lamon Ave, Chicago, IL 60638
+"
+"DePaul University
+",Chicago,4,http://job-openings.monster.com/monster/727964b8-0586-4450-8fba-85233e19e12d,"952 W Vernon Park Pl, Chicago, IL 60607
+"
+"University of Illinois at Chicago
+",Chicago,5,http://job-openings.monster.com/monster/eb0ff436-95f0-4033-bd13-7424aeb7cdf9,"4842 S Lavergne Ave, Chicago, IL 60638
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/4fe25bd8-c4ab-4758-a97e-3cba7ae4a06b,"4511 S Karlov Ave, Chicago, IL 60632
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/a1deb1d6-99e4-4c8a-ab56-0b10e6e7fba5,"4728 N Hamlin Ave, Chicago, IL 60625
-"
-"DePaul University
-",http://job-openings.monster.com/monster/0da954af-4b57-41ed-8e8c-56e24c59c8c1,"1515 W Farwell Ave, Chicago, IL 60626
+",Chicago,4,http://job-openings.monster.com/monster/600b0915-6996-4527-a6b7-26526201a3ef,"1331 W Lunt Ave, Chicago, IL 60626
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/822f4a4f-0c35-449e-8103-d6e854615f7d,"1943 W Belle Plaine Ave, Chicago, IL 60613
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/0763c0c6-0d8c-4854-847b-1d34beaf4106,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,1,http://job-openings.monster.com/monster/164e6fa0-7f9e-4ede-9f51-7a4dc43533b3,"1612 W Estes Ave, Chicago, IL 60626
 "
 "DePaul University
-",http://job-openings.monster.com/monster/65804af0-5e60-4da7-bee9-b6448709de1f,"6332 S Lamon Ave, Chicago, IL 60638
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/dfdf5eb3-c562-4fb6-b621-74f03bdd041a,"6332 S Lamon Ave, Chicago, IL 60638
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/15db3998-a94d-4cdf-ba66-0bc07acc23e8,"1331 W Lunt Ave, Chicago, IL 60626
-"
-Valparaiso University,http://job-openings.monster.com/monster/2979b5d8-10d3-47b2-a11d-7c4be6a82e78,"1051 W Maxwell St, Chicago, IL 60608
-"
-"DePaul University
-",http://job-openings.monster.com/monster/e17fdd48-0c55-45c4-b756-a6700045e979,"848 S Carpenter St, Chicago, IL 60607
-"
-"DePaul University
-",http://job-openings.monster.com/monster/085f0a59-bd7d-4513-9885-d1654638d2b1,"4728 N Hamlin Ave, Chicago, IL 60625
-"
-"DePaul University
-",http://job-openings.monster.com/monster/2daf61dc-86b9-48a6-bf29-7a7cc221190a,"1515 W Farwell Ave, Chicago, IL 60626
-"
-"DePaul University
-",http://job-openings.monster.com/monster/c4d87e59-93f9-4ecf-b126-5733ca53cd57,"4728 N Hamlin Ave, Chicago, IL 60625
+",Chicago,0,http://job-openings.monster.com/monster/b96cf8d8-7af6-4225-91be-5111f94aa8d2,"4511 S Karlov Ave, Chicago, IL 60632
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/996328cf-1e7b-48f7-af8d-9d3c7484a96f,"1943 W Belle Plaine Ave, Chicago, IL 60613
+",Chicago,4,http://job-openings.monster.com/monster/4fe25bd8-c4ab-4758-a97e-3cba7ae4a06b,"4511 S Karlov Ave, Chicago, IL 60632
 "
-Valparaiso University,http://job-openings.monster.com/monster/40fd4bc3-48e6-4c50-8b6b-6740e6d8aa35,"4230 N Whipple St, Chicago, IL 60618
+"University of Illinois at Chicago
+",Chicago,6,http://job-openings.monster.com/monster/a1deb1d6-99e4-4c8a-ab56-0b10e6e7fba5,"4728 N Hamlin Ave, Chicago, IL 60625
 "
-Valparaiso University,http://job-openings.monster.com/monster/0373d0c2-64f8-45b0-b399-e83f99c8c6a1,"1331 W Lunt Ave, Chicago, IL 60626
+"DePaul University
+",Chicago,1,http://job-openings.monster.com/monster/0da954af-4b57-41ed-8e8c-56e24c59c8c1,"1515 W Farwell Ave, Chicago, IL 60626
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/345e4b07-663b-4413-bba0-47252ecefb41,"6407 N Newgard Ave, Chicago, IL 60626
-"
-Valparaiso University,http://job-openings.monster.com/monster/7dd12922-c32e-4977-8a3b-64b43c71c009,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,1,http://job-openings.monster.com/monster/822f4a4f-0c35-449e-8103-d6e854615f7d,"1943 W Belle Plaine Ave, Chicago, IL 60613
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/9abdd0ee-6b27-4ccf-b9da-c65ca227e8b9,"4511 S Karlov Ave, Chicago, IL 60632
+",Chicago,2,http://job-openings.monster.com/monster/0763c0c6-0d8c-4854-847b-1d34beaf4106,"4511 S Karlov Ave, Chicago, IL 60632
 "
-Valparaiso University,http://job-openings.monster.com/monster/6a85ecee-6911-4028-bd1a-4df32c687f95,"848 S Carpenter St, Chicago, IL 60607
-"
-"University of Illinois at Chicago
-",http://job-openings.monster.com/monster/18b8e480-9b23-4295-9401-bbbd3a3670b6,"4649 W Schubert Ave, Chicago, IL 60639
+"DePaul University
+",Chicago,5,http://job-openings.monster.com/monster/65804af0-5e60-4da7-bee9-b6448709de1f,"6332 S Lamon Ave, Chicago, IL 60638
 "
 "University of Illinois at Chicago
-",http://job-openings.monster.com/monster/2ce89e6f-8047-414a-8165-678d6938a82e,"4728 N Hamlin Ave, Chicago, IL 60625
+",Chicago,6,http://job-openings.monster.com/monster/dfdf5eb3-c562-4fb6-b621-74f03bdd041a,"6332 S Lamon Ave, Chicago, IL 60638
 "
-Valparaiso University,http://job-openings.monster.com/monster/a54610ff-e5ac-4e76-b2ff-596012c70c88,"4728 N Hamlin Ave, Chicago, IL 60625
+"University of Illinois at Chicago
+",Chicago,4,http://job-openings.monster.com/monster/15db3998-a94d-4cdf-ba66-0bc07acc23e8,"1331 W Lunt Ave, Chicago, IL 60626
+"
+Valparaiso University,Chicago,2,http://job-openings.monster.com/monster/2979b5d8-10d3-47b2-a11d-7c4be6a82e78,"1051 W Maxwell St, Chicago, IL 60608
+"
+"DePaul University
+",Chicago,6,http://job-openings.monster.com/monster/e17fdd48-0c55-45c4-b756-a6700045e979,"848 S Carpenter St, Chicago, IL 60607
+"
+"DePaul University
+",Chicago,4,http://job-openings.monster.com/monster/085f0a59-bd7d-4513-9885-d1654638d2b1,"4728 N Hamlin Ave, Chicago, IL 60625
+"
+"DePaul University
+",Chicago,1,http://job-openings.monster.com/monster/2daf61dc-86b9-48a6-bf29-7a7cc221190a,"1515 W Farwell Ave, Chicago, IL 60626
+"
+"DePaul University
+",Chicago,5,http://job-openings.monster.com/monster/c4d87e59-93f9-4ecf-b126-5733ca53cd57,"4728 N Hamlin Ave, Chicago, IL 60625
 "
 "Wheaton College
-",http://job-openings.monster.com/monster/08390d53-518a-4028-95d6-e8e134535749,"4728 N Hamlin Ave, Chicago, IL 60625
+",Chicago,3,http://job-openings.monster.com/monster/996328cf-1e7b-48f7-af8d-9d3c7484a96f,"1943 W Belle Plaine Ave, Chicago, IL 60613
+"
+Valparaiso University,Chicago,5,http://job-openings.monster.com/monster/40fd4bc3-48e6-4c50-8b6b-6740e6d8aa35,"4230 N Whipple St, Chicago, IL 60618
+"
+Valparaiso University,Chicago,5,http://job-openings.monster.com/monster/0373d0c2-64f8-45b0-b399-e83f99c8c6a1,"1331 W Lunt Ave, Chicago, IL 60626
+"
+"Wheaton College
+",Chicago,6,http://job-openings.monster.com/monster/345e4b07-663b-4413-bba0-47252ecefb41,"6407 N Newgard Ave, Chicago, IL 60626
+"
+Valparaiso University,Chicago,4,http://job-openings.monster.com/monster/7dd12922-c32e-4977-8a3b-64b43c71c009,"4511 S Karlov Ave, Chicago, IL 60632
+"
+"University of Illinois at Chicago
+",Chicago,0,http://job-openings.monster.com/monster/9abdd0ee-6b27-4ccf-b9da-c65ca227e8b9,"4511 S Karlov Ave, Chicago, IL 60632
+"
+Valparaiso University,Chicago,0,http://job-openings.monster.com/monster/6a85ecee-6911-4028-bd1a-4df32c687f95,"848 S Carpenter St, Chicago, IL 60607
+"
+"University of Illinois at Chicago
+",Chicago,0,http://job-openings.monster.com/monster/18b8e480-9b23-4295-9401-bbbd3a3670b6,"4649 W Schubert Ave, Chicago, IL 60639
+"
+"University of Illinois at Chicago
+",Chicago,6,http://job-openings.monster.com/monster/2ce89e6f-8047-414a-8165-678d6938a82e,"4728 N Hamlin Ave, Chicago, IL 60625
+"
+Valparaiso University,Chicago,7,http://job-openings.monster.com/monster/a54610ff-e5ac-4e76-b2ff-596012c70c88,"4728 N Hamlin Ave, Chicago, IL 60625
+"
+"Wheaton College
+",Chicago,1,http://job-openings.monster.com/monster/08390d53-518a-4028-95d6-e8e134535749,"4728 N Hamlin Ave, Chicago, IL 60625
 "
 "Baruch College
-",http://jobview.monster.com/Account-Executive-Sales-Lead-Job-New-Rochelle-NY-US-168624882.aspx,"45-44 42nd St, New York, NY 11104
+",New York,5,http://jobview.monster.com/Account-Executive-Sales-Lead-Job-New-Rochelle-NY-US-168624882.aspx,"45-44 42nd St, New York, NY 11104
 "
 "Fordham University
-",http://jobview.monster.com/Jr-Sales-Coordinator-Job-New-York-NY-US-169480532.aspx,"4600 Palisade Ave, New York, NY 10471
+",New York,3,http://jobview.monster.com/Jr-Sales-Coordinator-Job-New-York-NY-US-169480532.aspx,"4600 Palisade Ave, New York, NY 10471
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Management-Trainee-Job-Jersey-City-NJ-NJ-US-168993330.aspx,"681 Bergen St, New York, NY 11238
+",New York,0,http://jobview.monster.com/Sales-Management-Trainee-Job-Jersey-City-NJ-NJ-US-168993330.aspx,"681 Bergen St, New York, NY 11238
 "
 "Baruch College
-",http://jobview.monster.com/Medicaid-Enrollment-Sales-Representative-Community-Plan-New-York-City-NY-Job-New-York-NY-US-169617427.aspx,"32-43 83rd St, New York, NY 11370
+",New York,3,http://jobview.monster.com/Medicaid-Enrollment-Sales-Representative-Community-Plan-New-York-City-NY-Job-New-York-NY-US-169617427.aspx,"32-43 83rd St, New York, NY 11370
 "
 "Pace University
-",http://jobview.monster.com/inside-sales-rep-job-waltham-ma-us-167504910.aspx,"32-19 76th St, New York, NY 11370
+",New York,7,http://jobview.monster.com/inside-sales-rep-job-waltham-ma-us-167504910.aspx,"32-19 76th St, New York, NY 11370
 "
 "Baruch College
-",http://jobview.monster.com/Inside-Sales-Rep-Entry-Level-Job-Long-Island-City-NY-US-169016503.aspx,"9 Ploughmans Bush, New York, NY 10471
+",New York,0,http://jobview.monster.com/Inside-Sales-Rep-Entry-Level-Job-Long-Island-City-NY-US-169016503.aspx,"9 Ploughmans Bush, New York, NY 10471
 "
 "Pace University
-",http://jobview.monster.com/Sales-Management-Trainee-Job-Edison-NJ-US-162897851.aspx,"32-19 76th St, New York, NY 11370
+",New York,7,http://jobview.monster.com/Sales-Management-Trainee-Job-Edison-NJ-US-162897851.aspx,"32-19 76th St, New York, NY 11370
 "
 "Fordham University
-",http://jobview.monster.com/Internal-Sales-Representative-Job-Flushing-NY-US-169381759.aspx,"32-19 76th St, New York, NY 11370
+",New York,5,http://jobview.monster.com/Internal-Sales-Representative-Job-Flushing-NY-US-169381759.aspx,"32-19 76th St, New York, NY 11370
 "
 "Manhattan College
-",http://jobview.monster.com/Business-Development-Manager-Job-River-Edge-NJ-US-167639549.aspx,"228 Lincoln Pl, New York, NY 11217
+",New York,5,http://jobview.monster.com/Business-Development-Manager-Job-River-Edge-NJ-US-167639549.aspx,"228 Lincoln Pl, New York, NY 11217
 "
 "Fordham University
-",http://jobview.monster.com/Entry-Level-Account-Representative-Now-Hiring-Full-Time-Job-Union-NJ-US-169588519.aspx,"4600 Palisade Ave, New York, NY 10471
+",New York,3,http://jobview.monster.com/Entry-Level-Account-Representative-Now-Hiring-Full-Time-Job-Union-NJ-US-169588519.aspx,"4600 Palisade Ave, New York, NY 10471
 "
 "Baruch College
-",http://jobview.monster.com/Full-Time-Sales-Marketing-Pro-Job-Montclair-NJ-US-165379801.aspx,"32-54 82nd St, New York, NY 11370
+",New York,0,http://jobview.monster.com/Full-Time-Sales-Marketing-Pro-Job-Montclair-NJ-US-165379801.aspx,"32-54 82nd St, New York, NY 11370
 "
 "Manhattan College
-",http://jobview.monster.com/Regional-Sales-Director-Strategic-Accounts-Job-New-York-NY-US-167503701.aspx,"4650 Hadley Ave, New York, NY 10471
+",New York,7,http://jobview.monster.com/Regional-Sales-Director-Strategic-Accounts-Job-New-York-NY-US-167503701.aspx,"4650 Hadley Ave, New York, NY 10471
 "
 "Manhattan College
-",http://jobview.monster.com/Northeast-Region-Sales-Manager-Job-New-York-NY-US-168833429.aspx,"32-54 82nd St, New York, NY 11370
+",New York,7,http://jobview.monster.com/Northeast-Region-Sales-Manager-Job-New-York-NY-US-168833429.aspx,"32-54 82nd St, New York, NY 11370
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Associate-Job-Westfield-NJ-US-169269735.aspx,"32-19 76th St, New York, NY 11370
+",New York,3,http://jobview.monster.com/Sales-Associate-Job-Westfield-NJ-US-169269735.aspx,"32-19 76th St, New York, NY 11370
 "
 "Manhattan College
-",http://jobview.monster.com/Sales-Representative-Job-New-York-NY-US-167399544.aspx,"681 Bergen St, New York, NY 11238
+",New York,0,http://jobview.monster.com/Sales-Representative-Job-New-York-NY-US-167399544.aspx,"681 Bergen St, New York, NY 11238
 "
 "Manhattan College
-",http://jobview.monster.com/Sealants-Sales-Representative-Job-New-York-NY-US-167855843.aspx,"41-22 42nd St, New York, NY 11104
+",New York,1,http://jobview.monster.com/Sealants-Sales-Representative-Job-New-York-NY-US-167855843.aspx,"41-22 42nd St, New York, NY 11104
 "
 "Fordham University
-",http://jobview.monster.com/Newswire-Sales-Associate-Base-up-to-25-Commission-Job-New-York-City-NY-US-168768792.aspx,"41-22 42nd St, New York, NY 11104
+",New York,3,http://jobview.monster.com/Newswire-Sales-Associate-Base-up-to-25-Commission-Job-New-York-City-NY-US-168768792.aspx,"41-22 42nd St, New York, NY 11104
 "
 "Manhattan College
-",http://jobview.monster.com/Enterprise-Sales-SaaS-Retail-Job-New-York-NY-US-169479949.aspx,"47-11 45th St, New York, NY 11377
+",New York,1,http://jobview.monster.com/Enterprise-Sales-SaaS-Retail-Job-New-York-NY-US-169479949.aspx,"47-11 45th St, New York, NY 11377
 "
 "Pace University
-",http://jobview.monster.com/Sales-Assistant-Job-Hackensack-NJ-US-169072742.aspx,"4650 Hadley Ave, New York, NY 10471
+",New York,3,http://jobview.monster.com/Sales-Assistant-Job-Hackensack-NJ-US-169072742.aspx,"4650 Hadley Ave, New York, NY 10471
 "
 "Manhattan College
-",http://jobview.monster.com/Sales-Associate-Gym-Memberships-Job-Staten-Island-NY-US-167917483.aspx,"4650 Hadley Ave, New York, NY 10471
+",New York,6,http://jobview.monster.com/Sales-Associate-Gym-Memberships-Job-Staten-Island-NY-US-167917483.aspx,"4650 Hadley Ave, New York, NY 10471
 "
 "Pace University
-",http://jobview.monster.com/Part-Time-Sales-Assistant-Berkeley-Heights-NJ-Job-Jersey-City-NJ-US-169070241.aspx,"228 Lincoln Pl, New York, NY 11217
+",New York,6,http://jobview.monster.com/Part-Time-Sales-Assistant-Berkeley-Heights-NJ-Job-Jersey-City-NJ-US-169070241.aspx,"228 Lincoln Pl, New York, NY 11217
 "
 "Fordham University
-",http://jobview.monster.com/Sales-Engineer-Networking-Job-New-York-City-NY-US-169719262.aspx,"32-54 82nd St, New York, NY 11370
+",New York,0,http://jobview.monster.com/Sales-Engineer-Networking-Job-New-York-City-NY-US-169719262.aspx,"32-54 82nd St, New York, NY 11370
 "
 "Pace University
-",http://jobview.monster.com/Territory-Manager-Job-Newark-NJ-US-168954386.aspx,"288 Prospect Pl, New York, NY 11238
+",New York,4,http://jobview.monster.com/Territory-Manager-Job-Newark-NJ-US-168954386.aspx,"288 Prospect Pl, New York, NY 11238
 "
 "Manhattan College
-",http://jobview.monster.com/Sales-Associate-Job-Fairfield-NJ-US-167757603.aspx,"32-43 83rd St, New York, NY 11370
+",New York,4,http://jobview.monster.com/Sales-Associate-Job-Fairfield-NJ-US-167757603.aspx,"32-43 83rd St, New York, NY 11370
 "
 "Baruch College
-",http://job-openings.monster.com/monster/af7a5175-dac5-4120-a0b5-6fc7a6f1b7e4,"45-44 42nd St, New York, NY 11104
+",New York,6,http://job-openings.monster.com/monster/af7a5175-dac5-4120-a0b5-6fc7a6f1b7e4,"45-44 42nd St, New York, NY 11104
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/d181f093-95d7-4f29-be68-7214bd35a962,"32-54 80th St, New York, NY 11370
+",New York,6,http://job-openings.monster.com/monster/d181f093-95d7-4f29-be68-7214bd35a962,"32-54 80th St, New York, NY 11370
 "
 "Pace University
-",http://jobview.monster.com/Retail-Sales-Associate-Showroom-Sales-Design-Consultant-Job-Bronx-NY-US-169445460.aspx,"153 Underhill Ave, New York, NY 11238
+",New York,1,http://jobview.monster.com/Retail-Sales-Associate-Showroom-Sales-Design-Consultant-Job-Bronx-NY-US-169445460.aspx,"153 Underhill Ave, New York, NY 11238
 "
 "Fordham University
-",http://jobview.monster.com/Real-Estate-Sales-Associate-Sales-Representative-Job-Brooklyn-NY-US-164141015.aspx,"32-54 82nd St, New York, NY 11370
+",New York,0,http://jobview.monster.com/Real-Estate-Sales-Associate-Sales-Representative-Job-Brooklyn-NY-US-164141015.aspx,"32-54 82nd St, New York, NY 11370
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Manager-Job-Manhattan-NY-US-169381106.aspx,"4650 Hadley Ave, New York, NY 10471
+",New York,7,http://jobview.monster.com/Sales-Manager-Job-Manhattan-NY-US-169381106.aspx,"4650 Hadley Ave, New York, NY 10471
 "
 "Manhattan College
-",http://jobview.monster.com/Medical-Sales-Rep-Job-Manhattan-NY-US-168701554.aspx,"41-46 50th St, New York, NY 11377
+",New York,6,http://jobview.monster.com/Medical-Sales-Rep-Job-Manhattan-NY-US-168701554.aspx,"41-46 50th St, New York, NY 11377
 "
 "Fordham University
-",http://jobview.monster.com/Sales-Manager-Sales-Reps-Job-new-york-NY-US-169399126.aspx,"4645 Independence Ave, New York, NY 10471
+",New York,6,http://jobview.monster.com/Sales-Manager-Sales-Reps-Job-new-york-NY-US-169399126.aspx,"4645 Independence Ave, New York, NY 10471
 "
 "Fordham University
-",http://jobview.monster.com/Senior-Account-Executive-for-Print-Management-Services-Job-New-York-NY-US-169716833.aspx,"41-15 50th St, New York, NY 11377
+",New York,7,http://jobview.monster.com/Senior-Account-Executive-for-Print-Management-Services-Job-New-York-NY-US-169716833.aspx,"41-15 50th St, New York, NY 11377
 "
 "Fordham University
-",http://jobview.monster.com/Business-Development-Director-%E2%80%93-Digital-Healthtech-Job-Manhattan-NY-US-169642411.aspx,"41-22 42nd St, New York, NY 11104
+",New York,5,http://jobview.monster.com/Business-Development-Director-%E2%80%93-Digital-Healthtech-Job-Manhattan-NY-US-169642411.aspx,"41-22 42nd St, New York, NY 11104
 "
 "Baruch College
-",http://jobview.monster.com/Call-Center-Representative-Job-Brooklyn-NY-US-169706513.aspx,"4069 Dodgewood Rd, New York, NY 10471
+",New York,1,http://jobview.monster.com/Call-Center-Representative-Job-Brooklyn-NY-US-169706513.aspx,"4069 Dodgewood Rd, New York, NY 10471
 "
 "Baruch College
-",http://jobview.monster.com/Account-Coordinator-Job-Manhattan-NY-US-168928858.aspx,"4650 Hadley Ave, New York, NY 10471
+",New York,5,http://jobview.monster.com/Account-Coordinator-Job-Manhattan-NY-US-168928858.aspx,"4650 Hadley Ave, New York, NY 10471
 "
 "Manhattan College
-",http://jobview.monster.com/Account-Director-Job-Hackensack-NJ-US-169213106.aspx,"41-22 42nd St, New York, NY 11104
+",New York,4,http://jobview.monster.com/Account-Director-Job-Hackensack-NJ-US-169213106.aspx,"41-22 42nd St, New York, NY 11104
 "
 "Baruch College
-",http://jobview.monster.com/Import-Clerk-Mandarin-Bilingual-Job-North-Bergen-NJ-US-169210041.aspx,"32-43 83rd St, New York, NY 11370
+",New York,0,http://jobview.monster.com/Import-Clerk-Mandarin-Bilingual-Job-North-Bergen-NJ-US-169210041.aspx,"32-43 83rd St, New York, NY 11370
 "
 "Baruch College
-",http://jobview.monster.com/Temporary-Sales-Associate-Job-Bronx-NY-US-169203038.aspx,"4650 Hadley Ave, New York, NY 10471
+",New York,1,http://jobview.monster.com/Temporary-Sales-Associate-Job-Bronx-NY-US-169203038.aspx,"4650 Hadley Ave, New York, NY 10471
 "
 "Pace University
-",http://job-openings.monster.com/monster/af8e28c2-cc18-4c09-b0ef-3301bd18f28b,"41-46 50th St, New York, NY 11377
+",New York,7,http://job-openings.monster.com/monster/af8e28c2-cc18-4c09-b0ef-3301bd18f28b,"41-46 50th St, New York, NY 11377
 "
 "Baruch College
-",http://jobview.monster.com/Consultative-Outside-Sales-Account-Manager-Job-Brooklyn-NY-US-169614836.aspx,"31-23 80th St, New York, NY 11370
+",New York,3,http://jobview.monster.com/Consultative-Outside-Sales-Account-Manager-Job-Brooklyn-NY-US-169614836.aspx,"31-23 80th St, New York, NY 11370
 "
 "Fordham University
-",http://jobview.monster.com/SALES-JOB-FAIR-TUESDAY-JULY-26-MANY-NEW-COMPANIES-5PM-Job-Menlo-Park-NJ-US-169286380.aspx,"32-54 82nd St, New York, NY 11370
+",New York,1,http://jobview.monster.com/SALES-JOB-FAIR-TUESDAY-JULY-26-MANY-NEW-COMPANIES-5PM-Job-Menlo-Park-NJ-US-169286380.aspx,"32-54 82nd St, New York, NY 11370
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/750293b0-9c3b-4ed7-a33e-7cc133d30963,"228 Lincoln Pl, New York, NY 11217
+",New York,2,http://job-openings.monster.com/monster/750293b0-9c3b-4ed7-a33e-7cc133d30963,"228 Lincoln Pl, New York, NY 11217
 "
 "Pace University
-",http://jobview.monster.com/Retail-Sales-Manager-In-Training-Job-Totowa-NJ-US-169657424.aspx,"47-11 45th St, New York, NY 11377
+",New York,2,http://jobview.monster.com/Retail-Sales-Manager-In-Training-Job-Totowa-NJ-US-169657424.aspx,"47-11 45th St, New York, NY 11377
 "
 "Pace University
-",http://jobview.monster.com/Inside-Sales-Job-Garfield-NJ-US-85833602.aspx,"32-54 80th St, New York, NY 11370
+",New York,2,http://jobview.monster.com/Inside-Sales-Job-Garfield-NJ-US-85833602.aspx,"32-54 80th St, New York, NY 11370
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Professional-Job-New-York-NY-US-169631625.aspx,"288 Prospect Pl, New York, NY 11238
+",New York,4,http://jobview.monster.com/Sales-Professional-Job-New-York-NY-US-169631625.aspx,"288 Prospect Pl, New York, NY 11238
 "
 "Manhattan College
-",http://jobview.monster.com/Sales-Captain-Need-on-the-Upper-East-Side-Job-Manhattan-NY-US-169581947.aspx,"4650 Hadley Ave, New York, NY 10471
+",New York,5,http://jobview.monster.com/Sales-Captain-Need-on-the-Upper-East-Side-Job-Manhattan-NY-US-169581947.aspx,"4650 Hadley Ave, New York, NY 10471
 "
 "Baruch College
-",http://jobview.monster.com/FASHION-SALES-childrenswear-IN-NYC-WITH-ACCOUNTS-Job-New-York-City-NY-US-161094147.aspx,"32-19 76th St, New York, NY 11370
+",New York,7,http://jobview.monster.com/FASHION-SALES-childrenswear-IN-NYC-WITH-ACCOUNTS-Job-New-York-City-NY-US-161094147.aspx,"32-19 76th St, New York, NY 11370
 "
 "Fordham University
-",http://jobview.monster.com/Sr-Manager-Digital-Ad-Sales-CRM-Research-Systems-Job-New-York-NY-US-169573553.aspx,"32-43 83rd St, New York, NY 11370
+",New York,4,http://jobview.monster.com/Sr-Manager-Digital-Ad-Sales-CRM-Research-Systems-Job-New-York-NY-US-169573553.aspx,"32-43 83rd St, New York, NY 11370
 "
 "Manhattan College
-",http://jobview.monster.com/Licensed-Sales-Agent-Job-Rutherford-NJ-US-168746489.aspx,"41-46 50th St, New York, NY 11377
+",New York,3,http://jobview.monster.com/Licensed-Sales-Agent-Job-Rutherford-NJ-US-168746489.aspx,"41-46 50th St, New York, NY 11377
 "
 "Baruch College
-",http://jobview.monster.com/Strategic-Partnership-ISV-Relationship-Manager-Northeast-Job-New-York-NY-US-169399532.aspx,"4650 Hadley Ave, New York, NY 10471
+",New York,2,http://jobview.monster.com/Strategic-Partnership-ISV-Relationship-Manager-Northeast-Job-New-York-NY-US-169399532.aspx,"4650 Hadley Ave, New York, NY 10471
 "
 "Baruch College
-",http://jobview.monster.com/Lead-Generator-Job-Job-Hackensack-NJ-US-168619832.aspx,"4069 Dodgewood Rd, New York, NY 10471
+",New York,0,http://jobview.monster.com/Lead-Generator-Job-Job-Hackensack-NJ-US-168619832.aspx,"4069 Dodgewood Rd, New York, NY 10471
 "
 "Pace University
-",http://jobview.monster.com/Direct-Sales-Reps-Job-New-Hyde-Park-NY-US-169285714.aspx,"153 Underhill Ave, New York, NY 11238
+",New York,2,http://jobview.monster.com/Direct-Sales-Reps-Job-New-Hyde-Park-NY-US-169285714.aspx,"153 Underhill Ave, New York, NY 11238
 "
 "Manhattan College
-",http://jobview.monster.com/Health-Insurance-Enroller-Agent-Presenter-Bilingual-Spanish-Job-New-York-City-NY-US-169176929.aspx,"153 Underhill Ave, New York, NY 11238
+",New York,1,http://jobview.monster.com/Health-Insurance-Enroller-Agent-Presenter-Bilingual-Spanish-Job-New-York-City-NY-US-169176929.aspx,"153 Underhill Ave, New York, NY 11238
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Manager-for-Dynamic-Software-Company-Job-New-York-City-NY-US-169484615.aspx,"32-19 76th St, New York, NY 11370
+",New York,3,http://jobview.monster.com/Sales-Manager-for-Dynamic-Software-Company-Job-New-York-City-NY-US-169484615.aspx,"32-19 76th St, New York, NY 11370
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Representative-Fire-Security-Job-Long-Island-City-NY-US-169746257.aspx,"32-19 76th St, New York, NY 11370
+",New York,7,http://jobview.monster.com/Sales-Representative-Fire-Security-Job-Long-Island-City-NY-US-169746257.aspx,"32-19 76th St, New York, NY 11370
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Representative-Job-Williston-Park-NY-US-169656624.aspx,"32-19 76th St, New York, NY 11370
+",New York,4,http://jobview.monster.com/Sales-Representative-Job-Williston-Park-NY-US-169656624.aspx,"32-19 76th St, New York, NY 11370
 "
 "Pace University
-",http://jobview.monster.com/General-Manager-Sales-Manager-Sales-Owner-Operator-Job-New-York-City-NY-US-151134516.aspx,"41-15 50th St, New York, NY 11377
+",New York,4,http://jobview.monster.com/General-Manager-Sales-Manager-Sales-Owner-Operator-Job-New-York-City-NY-US-151134516.aspx,"41-15 50th St, New York, NY 11377
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Representative-Job-Manhattan-NY-US-168972954.aspx,"45-44 42nd St, New York, NY 11104
+",New York,4,http://jobview.monster.com/Sales-Representative-Job-Manhattan-NY-US-168972954.aspx,"45-44 42nd St, New York, NY 11104
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Associate-Interior-Designer-Job-Paramus-NJ-US-169482710.aspx,"4600 Palisade Ave, New York, NY 10471
+",New York,7,http://jobview.monster.com/Sales-Associate-Interior-Designer-Job-Paramus-NJ-US-169482710.aspx,"4600 Palisade Ave, New York, NY 10471
 "
 "Fordham University
-",http://jobview.monster.com/Regional-Sales-Director-Job-new-york-NY-US-169426111.aspx,"41-22 42nd St, New York, NY 11104
+",New York,2,http://jobview.monster.com/Regional-Sales-Director-Job-new-york-NY-US-169426111.aspx,"41-22 42nd St, New York, NY 11104
 "
 "Fordham University
-",http://jobview.monster.com/Junior-Sales-Manager-3735-292-Job-New-York-NY-US-169487345.aspx,"288 Prospect Pl, New York, NY 11238
+",New York,1,http://jobview.monster.com/Junior-Sales-Manager-3735-292-Job-New-York-NY-US-169487345.aspx,"288 Prospect Pl, New York, NY 11238
 "
 "Manhattan College
-",http://jobview.monster.com/Sales-Representative-Job-Williston-Park-NY-US-169656624.aspx,"9 Ploughmans Bush, New York, NY 10471
+",New York,0,http://jobview.monster.com/Sales-Representative-Job-Williston-Park-NY-US-169656624.aspx,"9 Ploughmans Bush, New York, NY 10471
 "
 "Fordham University
-",http://jobview.monster.com/Consumer-Electronics-Sales-Specialist-Part-Time-Job-Jersey-City-NJ-US-169057220.aspx,"681 Bergen St, New York, NY 11238
+",New York,6,http://jobview.monster.com/Consumer-Electronics-Sales-Specialist-Part-Time-Job-Jersey-City-NJ-US-169057220.aspx,"681 Bergen St, New York, NY 11238
 "
 "Manhattan College
-",http://jobview.monster.com/Sales-Entry-Level-Sales-Sales-Marketing-Management-Training-Provided-Job-New-York-City-NY-US-129583778.aspx,"32-54 80th St, New York, NY 11370
+",New York,4,http://jobview.monster.com/Sales-Entry-Level-Sales-Sales-Marketing-Management-Training-Provided-Job-New-York-City-NY-US-129583778.aspx,"32-54 80th St, New York, NY 11370
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Entry-Level-Sales-Sales-Marketing-Management-Training-Provided-Job-New-York-City-NY-US-129583778.aspx,"9 Ploughmans Bush, New York, NY 10471
+",New York,2,http://jobview.monster.com/Sales-Entry-Level-Sales-Sales-Marketing-Management-Training-Provided-Job-New-York-City-NY-US-129583778.aspx,"9 Ploughmans Bush, New York, NY 10471
 "
 "Manhattan College
-",http://jobview.monster.com/Foreign-Exchange-Sales-Consultant-Job-New-York-City-NY-US-166373170.aspx,"153 Underhill Ave, New York, NY 11238
+",New York,1,http://jobview.monster.com/Foreign-Exchange-Sales-Consultant-Job-New-York-City-NY-US-166373170.aspx,"153 Underhill Ave, New York, NY 11238
 "
 "Manhattan College
-",http://jobview.monster.com/Customer-Relations-Customer-Service-Sales-Job-White-Plains-NY-US-169461554.aspx,"41-22 42nd St, New York, NY 11104
+",New York,6,http://jobview.monster.com/Customer-Relations-Customer-Service-Sales-Job-White-Plains-NY-US-169461554.aspx,"41-22 42nd St, New York, NY 11104
 "
 "Manhattan College
-",http://jobview.monster.com/Sales-Representative-Job-Brooklyn-NY-US-169126955.aspx,"47-11 45th St, New York, NY 11377
+",New York,5,http://jobview.monster.com/Sales-Representative-Job-Brooklyn-NY-US-169126955.aspx,"47-11 45th St, New York, NY 11377
 "
 "Baruch College
-",http://job-openings.monster.com/monster/9dfd9c30-4545-4d6f-8adb-edb0c5ae3b39,"4650 Hadley Ave, New York, NY 10471
+",New York,2,http://job-openings.monster.com/monster/9dfd9c30-4545-4d6f-8adb-edb0c5ae3b39,"4650 Hadley Ave, New York, NY 10471
 "
 "Manhattan College
-",http://jobview.monster.com/Entry-Level-Marketing-Sales-Management-Job-Carle-Place-NY-US-137085074.aspx,"228 Lincoln Pl, New York, NY 11217
+",New York,1,http://jobview.monster.com/Entry-Level-Marketing-Sales-Management-Job-Carle-Place-NY-US-137085074.aspx,"228 Lincoln Pl, New York, NY 11217
 "
 "Fordham University
-",http://jobview.monster.com/Director-Advertising-Sales-Job-New-York-NY-US-169704210.aspx,"41-15 50th St, New York, NY 11377
+",New York,7,http://jobview.monster.com/Director-Advertising-Sales-Job-New-York-NY-US-169704210.aspx,"41-15 50th St, New York, NY 11377
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Technical-Recruiter-Job-New-York-City-NY-US-169003218.aspx,"45-44 42nd St, New York, NY 11104
+",New York,3,http://jobview.monster.com/Sales-Technical-Recruiter-Job-New-York-City-NY-US-169003218.aspx,"45-44 42nd St, New York, NY 11104
 "
 "Pace University
-",http://jobview.monster.com/Account-Executive-Job-New-York-City-NY-US-165379808.aspx,"4069 Dodgewood Rd, New York, NY 10471
+",New York,6,http://jobview.monster.com/Account-Executive-Job-New-York-City-NY-US-165379808.aspx,"4069 Dodgewood Rd, New York, NY 10471
 "
 "Pace University
-",http://jobview.monster.com/On-Site-Sales-Coordinator-Job-New-York-NY-US-165384118.aspx,"681 Bergen St, New York, NY 11238
+",New York,1,http://jobview.monster.com/On-Site-Sales-Coordinator-Job-New-York-NY-US-165384118.aspx,"681 Bergen St, New York, NY 11238
 "
 "Manhattan College
-",http://job-openings.monster.com/monster/47b60702-8824-4092-82e6-0b18cf27750f,"41-15 50th St, New York, NY 11377
+",New York,1,http://job-openings.monster.com/monster/47b60702-8824-4092-82e6-0b18cf27750f,"41-15 50th St, New York, NY 11377
 "
 "Pace University
-",http://jobview.monster.com/LUXURY-SALES-ASSOCIATE-Job-New-York-City-NY-US-168990304.aspx,"32-19 76th St, New York, NY 11370
+",New York,0,http://jobview.monster.com/LUXURY-SALES-ASSOCIATE-Job-New-York-City-NY-US-168990304.aspx,"32-19 76th St, New York, NY 11370
 "
 "Baruch College
-",http://jobview.monster.com/Sales-Rep-Outside-Sales-Territory-Sales-Job-Staten-Island-NY-US-168976000.aspx,"4069 Dodgewood Rd, New York, NY 10471
+",New York,6,http://jobview.monster.com/Sales-Rep-Outside-Sales-Territory-Sales-Job-Staten-Island-NY-US-168976000.aspx,"4069 Dodgewood Rd, New York, NY 10471
 "
 "Baruch College
-",http://jobview.monster.com/Entry-Level-Marketing-Sales-Position-Ambitious-Candidates-Wanted-Job-Union-NJ-US-169588581.aspx,"47-11 45th St, New York, NY 11377
+",New York,1,http://jobview.monster.com/Entry-Level-Marketing-Sales-Position-Ambitious-Candidates-Wanted-Job-Union-NJ-US-169588581.aspx,"47-11 45th St, New York, NY 11377
 "
 "Pace University
-",http://jobview.monster.com/Legal-Sales-Professional-Job-New-York-NY-US-169697031.aspx,"4600 Palisade Ave, New York, NY 10471
+",New York,5,http://jobview.monster.com/Legal-Sales-Professional-Job-New-York-NY-US-169697031.aspx,"4600 Palisade Ave, New York, NY 10471
 "
 "Baruch College
-",http://jobview.monster.com/Entry-Level-Marketing-Sales-Position-Ambitious-Candidates-Wanted-Job-Montclair-NJ-US-169588526.aspx,"9 Ploughmans Bush, New York, NY 10471
+",New York,4,http://jobview.monster.com/Entry-Level-Marketing-Sales-Position-Ambitious-Candidates-Wanted-Job-Montclair-NJ-US-169588526.aspx,"9 Ploughmans Bush, New York, NY 10471
 "
 "Pepperdine University
-",http://jobview.monster.com/Sales-Representative-Job-Santa-Ana-CA-US-169217108.aspx,"15415 Dogwood St, Los Angeles, CA 92683
+",Los Angeles,4,http://jobview.monster.com/Sales-Representative-Job-Santa-Ana-CA-US-169217108.aspx,"15415 Dogwood St, Los Angeles, CA 92683
 "
 "Pepperdine University
-",http://jobview.monster.com/Account-Executive-Business-Sales-Long-Beach-Job-Redondo-Beach-CA-US-169273914.aspx,"14335 Cedarwood Ave, Los Angeles, CA 92683
+",Los Angeles,6,http://jobview.monster.com/Account-Executive-Business-Sales-Long-Beach-Job-Redondo-Beach-CA-US-169273914.aspx,"14335 Cedarwood Ave, Los Angeles, CA 92683
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Account-Executive-Outside-B2B-Sales-Job-Los-Angeles-CA-US-169635179.aspx,"395 W Terrace Ln, Los Angeles, CA 90042
+",Los Angeles,5,http://jobview.monster.com/Account-Executive-Outside-B2B-Sales-Job-Los-Angeles-CA-US-169635179.aspx,"395 W Terrace Ln, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Pharmaceutical-Medical-Outside-Sales-Interviews-Weds-June-8-New-Location-Hilton-LAX-Job-Los-Angeles-CA-US-168146448.aspx,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,4,http://jobview.monster.com/Pharmaceutical-Medical-Outside-Sales-Interviews-Weds-June-8-New-Location-Hilton-LAX-Job-Los-Angeles-CA-US-168146448.aspx,"421 Lewis St, Los Angeles, CA 90042
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Account-Manager-Sales-Representative-Job-Los-Angeles-CA-US-168929379.aspx,"7553 Trask Ave, Los Angeles, CA 90293
+",Los Angeles,1,http://jobview.monster.com/Account-Manager-Sales-Representative-Job-Los-Angeles-CA-US-168929379.aspx,"7553 Trask Ave, Los Angeles, CA 90293
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Entry-Level-Sales-Job-El-Segundo-CA-US-169439976.aspx,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,2,http://jobview.monster.com/Entry-Level-Sales-Job-El-Segundo-CA-US-169439976.aspx,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://jobview.monster.com/event-specialist-part-time-sales-job-woodland-hills-ca-us-169303696.aspx,"1122 10th St, Los Angeles, CA 90403
+",Los Angeles,7,http://jobview.monster.com/event-specialist-part-time-sales-job-woodland-hills-ca-us-169303696.aspx,"1122 10th St, Los Angeles, CA 90403
 "
 "California State University, Northridge
-",http://jobview.monster.com/Western-Regional-Sales-Manager-Electrical-Manufacturer-Job-Santa-Fe-Springs-CA-US-169222448.aspx,"14335 Cedarwood Ave, Los Angeles, CA 92683
+",Los Angeles,4,http://jobview.monster.com/Western-Regional-Sales-Manager-Electrical-Manufacturer-Job-Santa-Fe-Springs-CA-US-169222448.aspx,"14335 Cedarwood Ave, Los Angeles, CA 92683
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Specialty-Sales-Representative-Renal-Los-Angeles-North-CA-7103-Job-Los-Angeles-CA-US-169435252.aspx,"7553 Trask Ave, Los Angeles, CA 90293
+",Los Angeles,5,http://jobview.monster.com/Specialty-Sales-Representative-Renal-Los-Angeles-North-CA-7103-Job-Los-Angeles-CA-US-169435252.aspx,"7553 Trask Ave, Los Angeles, CA 90293
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Bilingual-Japanese-English-Cash-Management-Service-Sales-Specialist-Job-Los-Angeles-CA-US-169753551.aspx,"1321 Euclid St, Los Angeles, CA 90404
+",Los Angeles,1,http://jobview.monster.com/Bilingual-Japanese-English-Cash-Management-Service-Sales-Specialist-Job-Los-Angeles-CA-US-169753551.aspx,"1321 Euclid St, Los Angeles, CA 90404
 "
 "Pepperdine University
-",http://jobview.monster.com/UPS-Inside-Sales-Representative-Based-in-Phoenix-AZ-Job-Los-Angeles-CA-US-168408422.aspx,"1122 10th St, Los Angeles, CA 90403
+",Los Angeles,3,http://jobview.monster.com/UPS-Inside-Sales-Representative-Based-in-Phoenix-AZ-Job-Los-Angeles-CA-US-168408422.aspx,"1122 10th St, Los Angeles, CA 90403
 "
 "Pepperdine University
-",http://jobview.monster.com/Outside-Sales-Job-Harbor-City-CA-US-169477995.aspx,"13929 Cardillo Dr, Los Angeles, CA 92683
+",Los Angeles,0,http://jobview.monster.com/Outside-Sales-Job-Harbor-City-CA-US-169477995.aspx,"13929 Cardillo Dr, Los Angeles, CA 92683
 "
 "California State University, Long Beach
-",http://jobview.monster.com/sales-associate-job-woodland-hills-ca-us-169563284.aspx,"6414 Roble Ave, Los Angeles, CA 90042
+",Los Angeles,3,http://jobview.monster.com/sales-associate-job-woodland-hills-ca-us-169563284.aspx,"6414 Roble Ave, Los Angeles, CA 90042
 "
 "California State University, Northridge
-",http://jobview.monster.com/Sales-Professionals-needed-for-our-Luxury-Pre-Owned-Motorcars-location-Job-Bellflower-CA-US-169438169.aspx,"7200 Rindge Ave, Los Angeles, CA 90293
+",Los Angeles,2,http://jobview.monster.com/Sales-Professionals-needed-for-our-Luxury-Pre-Owned-Motorcars-location-Job-Bellflower-CA-US-169438169.aspx,"7200 Rindge Ave, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://jobview.monster.com/Sales-Leasing-Agent-Specialist-Leasing-Consultant-Specialist-Meridian-Place-202-units-Job-Northridge-CA-US-169696617.aspx,"8136 Zitola Terrace, Los Angeles, CA 90293
+",Los Angeles,1,http://jobview.monster.com/Sales-Leasing-Agent-Specialist-Leasing-Consultant-Specialist-Meridian-Place-202-units-Job-Northridge-CA-US-169696617.aspx,"8136 Zitola Terrace, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Entry-Level-Sales-Sales-Management-Job-North-Ridge-CA-US-162802066.aspx,"15415 Dogwood St, Los Angeles, CA 92683
+",Los Angeles,7,http://jobview.monster.com/Entry-Level-Sales-Sales-Management-Job-North-Ridge-CA-US-162802066.aspx,"15415 Dogwood St, Los Angeles, CA 92683
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Entry-Level-Sales-Sales-Management-Job-North-Ridge-CA-US-162802072.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
+",Los Angeles,1,http://jobview.monster.com/Entry-Level-Sales-Sales-Management-Job-North-Ridge-CA-US-162802072.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Entry-Level-Sales-Sales-Management-Job-Pasadena-CA-US-165164829.aspx,"1308 9th St, Los Angeles, CA 90401
+",Los Angeles,5,http://jobview.monster.com/Entry-Level-Sales-Sales-Management-Job-Pasadena-CA-US-165164829.aspx,"1308 9th St, Los Angeles, CA 90401
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Entry-level-Sales-Administrative-Assistant-Job-Glendale-CA-US-168675778.aspx,"1049 Larker Ave, Los Angeles, CA 90042
+",Los Angeles,6,http://jobview.monster.com/Entry-level-Sales-Administrative-Assistant-Job-Glendale-CA-US-168675778.aspx,"1049 Larker Ave, Los Angeles, CA 90042
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Sales-Support-Coordinator-Job-Woodland-Hills-CA-US-169707379.aspx,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,1,http://jobview.monster.com/Sales-Support-Coordinator-Job-Woodland-Hills-CA-US-169707379.aspx,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Business-Development-Manager-Accounts-Manager-Job-Los-Angeles-CA-US-169472879.aspx,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,0,http://jobview.monster.com/Business-Development-Manager-Accounts-Manager-Job-Los-Angeles-CA-US-169472879.aspx,"433 Sunridge St, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://jobview.monster.com/Account-Executive-Job-Los-Angeles-CA-US-169018763.aspx,"7553 Trask Ave, Los Angeles, CA 90293
+",Los Angeles,2,http://jobview.monster.com/Account-Executive-Job-Los-Angeles-CA-US-169018763.aspx,"7553 Trask Ave, Los Angeles, CA 90293
 "
 "California State University, Long Beach
-",http://jobview.monster.com/VP-Business-Development-Group-Retirement-Plans-Job-Los-Angeles-CA-US-169171467.aspx,"1122 10th St, Los Angeles, CA 90403
+",Los Angeles,6,http://jobview.monster.com/VP-Business-Development-Group-Retirement-Plans-Job-Los-Angeles-CA-US-169171467.aspx,"1122 10th St, Los Angeles, CA 90403
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/afd3fbe2-1acd-4677-8672-299289d26056,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,4,http://job-openings.monster.com/monster/afd3fbe2-1acd-4677-8672-299289d26056,"433 Sunridge St, Los Angeles, CA 90293
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Entry-Level-%E2%80%93-Sales-Management-Trainee-Job-Pasadena-CA-US-162897503.aspx,"1218 12th St, Los Angeles, CA 90401
+",Los Angeles,6,http://jobview.monster.com/Entry-Level-%E2%80%93-Sales-Management-Trainee-Job-Pasadena-CA-US-162897503.aspx,"1218 12th St, Los Angeles, CA 90401
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Business-Development-Manager-Job-Artesia-CA-US-168755099.aspx,"14335 Cedarwood Ave, Los Angeles, CA 92683
+",Los Angeles,1,http://jobview.monster.com/Business-Development-Manager-Job-Artesia-CA-US-168755099.aspx,"14335 Cedarwood Ave, Los Angeles, CA 92683
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Account-Manager-Job-Torrance-CA-US-168766551.aspx,"1325 Arizona Ave, Los Angeles, CA 90404
+",Los Angeles,7,http://jobview.monster.com/Account-Manager-Job-Torrance-CA-US-168766551.aspx,"1325 Arizona Ave, Los Angeles, CA 90404
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Outside-Sales-Representative-Heavy-Industrial-Equipment-Sales-Job-Santa-Fe-Springs-CA-US-169210081.aspx,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,7,http://jobview.monster.com/Outside-Sales-Representative-Heavy-Industrial-Equipment-Sales-Job-Santa-Fe-Springs-CA-US-169210081.aspx,"421 Lewis St, Los Angeles, CA 90042
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Aflac-Insurance-Sales-Agent-Job-Montebello-CA-US-169582301.aspx,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,5,http://jobview.monster.com/Aflac-Insurance-Sales-Agent-Job-Montebello-CA-US-169582301.aspx,"433 Sunridge St, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://jobview.monster.com/Aflac-Insurance-Sales-Agent-Job-Montebello-CA-US-169597080.aspx,"395 W Terrace Ln, Los Angeles, CA 90042
+",Los Angeles,5,http://jobview.monster.com/Aflac-Insurance-Sales-Agent-Job-Montebello-CA-US-169597080.aspx,"395 W Terrace Ln, Los Angeles, CA 90042
 "
 "California State University, Northridge
-",http://jobview.monster.com/DSC-Distributor-Sales-Consultant-Job-Los-Angeles-CA-US-168881889.aspx,"1122 10th St, Los Angeles, CA 90403
+",Los Angeles,5,http://jobview.monster.com/DSC-Distributor-Sales-Consultant-Job-Los-Angeles-CA-US-168881889.aspx,"1122 10th St, Los Angeles, CA 90403
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Outside-Sales-Representative-Job-Anaheim-CA-US-169752954.aspx,"7200 Rindge Ave, Los Angeles, CA 90293
+",Los Angeles,1,http://jobview.monster.com/Outside-Sales-Representative-Job-Anaheim-CA-US-169752954.aspx,"7200 Rindge Ave, Los Angeles, CA 90293
 "
 "Pepperdine University
-",http://jobview.monster.com/Entry-Level-Sales-Agent-For-High-Growth-Analytical-Laboratory-Job-Glendale-CA-US-169750996.aspx,"1321 Euclid St, Los Angeles, CA 90404
+",Los Angeles,3,http://jobview.monster.com/Entry-Level-Sales-Agent-For-High-Growth-Analytical-Laboratory-Job-Glendale-CA-US-169750996.aspx,"1321 Euclid St, Los Angeles, CA 90404
 "
 "Pepperdine University
-",http://jobview.monster.com/Customer-Service-%E2%80%93-Consider-a-Career-Change-to-Insurance-Sales-Job-Chatsworth-CA-US-164201056.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
+",Los Angeles,5,http://jobview.monster.com/Customer-Service-%E2%80%93-Consider-a-Career-Change-to-Insurance-Sales-Job-Chatsworth-CA-US-164201056.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Growing-Position-Sales-Assistant-up-to-50K-Job-South-Gate-CA-US-169530740.aspx,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,4,http://jobview.monster.com/Growing-Position-Sales-Assistant-up-to-50K-Job-South-Gate-CA-US-169530740.aspx,"433 Sunridge St, Los Angeles, CA 90293
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Bilingual-Newborn-Photographer-Sales-Representative-Part-Time-Los-Angeles-CA-Job-Los-Angeles-CA-US-165832920.aspx,"1321 Euclid St, Los Angeles, CA 90404
+",Los Angeles,2,http://jobview.monster.com/Bilingual-Newborn-Photographer-Sales-Representative-Part-Time-Los-Angeles-CA-Job-Los-Angeles-CA-US-165832920.aspx,"1321 Euclid St, Los Angeles, CA 90404
 "
 "California State University, Northridge
-",http://jobview.monster.com/Sales-Representative-Job-Los-Alamitos-CA-CA-US-168411017.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
+",Los Angeles,6,http://jobview.monster.com/Sales-Representative-Job-Los-Alamitos-CA-CA-US-168411017.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
 "
 "Loyola Marymount University
-",http://jobview.monster.com/aflac-insurance-sales-agent-job-canyon-country-ca-us-169507908.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
+",Los Angeles,0,http://jobview.monster.com/aflac-insurance-sales-agent-job-canyon-country-ca-us-169507908.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Account-Executive-Job-Los-Angeles-CA-US-169653529.aspx,"15415 Dogwood St, Los Angeles, CA 92683
+",Los Angeles,2,http://jobview.monster.com/Account-Executive-Job-Los-Angeles-CA-US-169653529.aspx,"15415 Dogwood St, Los Angeles, CA 92683
 "
 "Pepperdine University
-",http://jobview.monster.com/Manager-Business-Development-Job-LOS-ANGELES-CA-US-169018548.aspx,"14335 Cedarwood Ave, Los Angeles, CA 92683
+",Los Angeles,3,http://jobview.monster.com/Manager-Business-Development-Job-LOS-ANGELES-CA-US-169018548.aspx,"14335 Cedarwood Ave, Los Angeles, CA 92683
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Territory-Manager-Job-Anaheim-CA-US-168953903.aspx,"1325 Arizona Ave, Los Angeles, CA 90404
+",Los Angeles,6,http://jobview.monster.com/Territory-Manager-Job-Anaheim-CA-US-168953903.aspx,"1325 Arizona Ave, Los Angeles, CA 90404
 "
 "California State University, Northridge
-",http://jobview.monster.com/Sales-Management-Trainee-Job-Los-Angeles-CA-US-169293303.aspx,"1049 Larker Ave, Los Angeles, CA 90042
+",Los Angeles,4,http://jobview.monster.com/Sales-Management-Trainee-Job-Los-Angeles-CA-US-169293303.aspx,"1049 Larker Ave, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Call-Center-Customer-Service-Representative-Job-El-Segundo-CA-US-168766339.aspx,"8136 Zitola Terrace, Los Angeles, CA 90293
+",Los Angeles,4,http://jobview.monster.com/Call-Center-Customer-Service-Representative-Job-El-Segundo-CA-US-168766339.aspx,"8136 Zitola Terrace, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Inside-Sales-Representative-Job-Los-Angeles-CA-US-168927956.aspx,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,7,http://jobview.monster.com/Inside-Sales-Representative-Job-Los-Angeles-CA-US-168927956.aspx,"421 Lewis St, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://jobview.monster.com/DSC-Distributor-Sales-Consultant-Job-Anaheim-CA-US-168881892.aspx,"395 W Terrace Ln, Los Angeles, CA 90042
+",Los Angeles,1,http://jobview.monster.com/DSC-Distributor-Sales-Consultant-Job-Anaheim-CA-US-168881892.aspx,"395 W Terrace Ln, Los Angeles, CA 90042
 "
 "Pepperdine University
-",http://jobview.monster.com/Sales-Position-Available-Now-Job-Los-Angeles-CA-US-168825666.aspx,"421 Lewis St, Los Angeles, CA 90042
+",Los Angeles,2,http://jobview.monster.com/Sales-Position-Available-Now-Job-Los-Angeles-CA-US-168825666.aspx,"421 Lewis St, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Sales-Representative-Medical-Capital-Equipment-Job-Cerritos-CA-US-167271929.aspx,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,4,http://jobview.monster.com/Sales-Representative-Medical-Capital-Equipment-Job-Cerritos-CA-US-167271929.aspx,"433 Sunridge St, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://jobview.monster.com/Branch-Sales-Manager-Job-Paramount-CA-US-164693793.aspx,"8136 Zitola Terrace, Los Angeles, CA 90293
+",Los Angeles,7,http://jobview.monster.com/Branch-Sales-Manager-Job-Paramount-CA-US-164693793.aspx,"8136 Zitola Terrace, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://jobview.monster.com/Event-Specialist-Part-Time-Sales-ACO-Job-Buena-Park-CA-US-169303518.aspx,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,6,http://jobview.monster.com/Event-Specialist-Part-Time-Sales-ACO-Job-Buena-Park-CA-US-169303518.aspx,"433 Sunridge St, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://jobview.monster.com/Event-Specialist-Part-Time-Sales-ACO-Job-Torrance-CA-US-168801365.aspx,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,7,http://jobview.monster.com/Event-Specialist-Part-Time-Sales-ACO-Job-Torrance-CA-US-168801365.aspx,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://jobview.monster.com/google-applications-sales-executive-job-us-169267737.aspx,"15415 Dogwood St, Los Angeles, CA 92683
+",Los Angeles,2,http://jobview.monster.com/google-applications-sales-executive-job-us-169267737.aspx,"15415 Dogwood St, Los Angeles, CA 92683
 "
 "California State University, Northridge
-",http://jobview.monster.com/telephone-sales-associate-job-calabasas-ca-us-168042360.aspx,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,7,http://jobview.monster.com/telephone-sales-associate-job-calabasas-ca-us-168042360.aspx,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/cefa51b4-4570-4316-9f01-8ae48fbe2243,"1049 Larker Ave, Los Angeles, CA 90042
+",Los Angeles,0,http://job-openings.monster.com/monster/cefa51b4-4570-4316-9f01-8ae48fbe2243,"1049 Larker Ave, Los Angeles, CA 90042
 "
 "Pepperdine University
-",http://jobview.monster.com/Bilingual-English-Japanese-Technical-Sales-Job-El-Segundo-CA-US-169660167.aspx,"1122 10th St, Los Angeles, CA 90403
+",Los Angeles,7,http://jobview.monster.com/Bilingual-English-Japanese-Technical-Sales-Job-El-Segundo-CA-US-169660167.aspx,"1122 10th St, Los Angeles, CA 90403
 "
 "Pepperdine University
-",http://jobview.monster.com/enrollment-coordinator-int-bilingual-job-woodland-hills-ca-us-169717117.aspx,"8136 Zitola Terrace, Los Angeles, CA 90293
+",Los Angeles,3,http://jobview.monster.com/enrollment-coordinator-int-bilingual-job-woodland-hills-ca-us-169717117.aspx,"8136 Zitola Terrace, Los Angeles, CA 90293
 "
 "California State University, Long Beach
-",http://jobview.monster.com/customer-service-executive-job-city-of-industry-ca-us-147986623.aspx,"1308 9th St, Los Angeles, CA 90401
+",Los Angeles,2,http://jobview.monster.com/customer-service-executive-job-city-of-industry-ca-us-147986623.aspx,"1308 9th St, Los Angeles, CA 90401
 "
 "California State University, Northridge
-",http://jobview.monster.com/graphic-designer-job-walnut-ca-us-168629873.aspx,"13929 Cardillo Dr, Los Angeles, CA 92683
+",Los Angeles,1,http://jobview.monster.com/graphic-designer-job-walnut-ca-us-168629873.aspx,"13929 Cardillo Dr, Los Angeles, CA 92683
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/865dc786-2f17-4bf6-a064-4de828949bfc,"15415 Dogwood St, Los Angeles, CA 92683
+",Los Angeles,3,http://job-openings.monster.com/monster/865dc786-2f17-4bf6-a064-4de828949bfc,"15415 Dogwood St, Los Angeles, CA 92683
 "
 "California State University, Long Beach
-",http://jobview.monster.com/on-boarding-specialist-job-woodland-hills-ca-us-169639966.aspx,"395 W Terrace Ln, Los Angeles, CA 90042
+",Los Angeles,2,http://jobview.monster.com/on-boarding-specialist-job-woodland-hills-ca-us-169639966.aspx,"395 W Terrace Ln, Los Angeles, CA 90042
 "
 "California State University, Long Beach
-",http://jobview.monster.com/store-manager-job-canoga-park-ca-us-169172109.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
+",Los Angeles,7,http://jobview.monster.com/store-manager-job-canoga-park-ca-us-169172109.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
 "
 "Pepperdine University
-",http://jobview.monster.com/Administrative-CAREER-CHANGE-%E2%80%93-Become-an-Independent-AVON-Sales-Representative-%E2%80%93-Entry-Level-Job-Long-Beach-CA-US-169632387.aspx,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,5,http://jobview.monster.com/Administrative-CAREER-CHANGE-%E2%80%93-Become-an-Independent-AVON-Sales-Representative-%E2%80%93-Entry-Level-Job-Long-Beach-CA-US-169632387.aspx,"433 Sunridge St, Los Angeles, CA 90293
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/6f54bd1b-13d5-4351-8da9-0e7f79e7807c,"1122 10th St, Los Angeles, CA 90403
+",Los Angeles,2,http://job-openings.monster.com/monster/6f54bd1b-13d5-4351-8da9-0e7f79e7807c,"1122 10th St, Los Angeles, CA 90403
 "
 "Pepperdine University
-",http://jobview.monster.com/retail-general-manager-retail-manager-retail-assistant-manager-job-santa-clarita-ca-us-169675410.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
+",Los Angeles,3,http://jobview.monster.com/retail-general-manager-retail-manager-retail-assistant-manager-job-santa-clarita-ca-us-169675410.aspx,"1079 S Arroyo Blvd, Los Angeles, CA 91105
 "
 "California State University, Long Beach
-",http://jobview.monster.com/Territory-Sales-Industrial-Valve-Actuator-Job-Los-Angeles-CA-US-167455134.aspx,"395 W Terrace Ln, Los Angeles, CA 90042
+",Los Angeles,3,http://jobview.monster.com/Territory-Sales-Industrial-Valve-Actuator-Job-Los-Angeles-CA-US-167455134.aspx,"395 W Terrace Ln, Los Angeles, CA 90042
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/fb8e7d15-c478-4882-8bb2-9d2cdd2d1590,"7553 Trask Ave, Los Angeles, CA 90293
+",Los Angeles,4,http://job-openings.monster.com/monster/fb8e7d15-c478-4882-8bb2-9d2cdd2d1590,"7553 Trask Ave, Los Angeles, CA 90293
 "
 "Pepperdine University
-",http://job-openings.monster.com/monster/ec9e9617-9423-4fa9-9767-31e7afe7729b,"433 Sunridge St, Los Angeles, CA 90293
+",Los Angeles,3,http://job-openings.monster.com/monster/ec9e9617-9423-4fa9-9767-31e7afe7729b,"433 Sunridge St, Los Angeles, CA 90293
 "
 "California State University, Long Beach
-",http://job-openings.monster.com/monster/9613d998-4de4-4db6-acfd-c436248d03ac,"13929 Cardillo Dr, Los Angeles, CA 92683
+",Los Angeles,5,http://job-openings.monster.com/monster/9613d998-4de4-4db6-acfd-c436248d03ac,"13929 Cardillo Dr, Los Angeles, CA 92683
 "
 "Loyola Marymount University
-",http://jobview.monster.com/agency-director-job-denver-co-us-167804013.aspx,"1325 Arizona Ave, Los Angeles, CA 90404
+",Los Angeles,5,http://jobview.monster.com/agency-director-job-denver-co-us-167804013.aspx,"1325 Arizona Ave, Los Angeles, CA 90404
 "
 "Pepperdine University
-",http://jobview.monster.com/Account-Supervisor-Job-El-Segundo-CA-US-168869766.aspx,"1049 Larker Ave, Los Angeles, CA 90042
+",Los Angeles,2,http://jobview.monster.com/Account-Supervisor-Job-El-Segundo-CA-US-168869766.aspx,"1049 Larker Ave, Los Angeles, CA 90042
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/819793d1-dc84-4a24-863b-26c66d62292c,"8210 Delgany Ave, Los Angeles, CA 90293
+",Los Angeles,4,http://job-openings.monster.com/monster/819793d1-dc84-4a24-863b-26c66d62292c,"8210 Delgany Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/42acc7ad-dbd2-4be7-a8d9-1872ab87d695,"1218 12th St, Los Angeles, CA 90401
+",Los Angeles,4,http://job-openings.monster.com/monster/42acc7ad-dbd2-4be7-a8d9-1872ab87d695,"1218 12th St, Los Angeles, CA 90401
 "
 "California State University, Northridge
-",http://jobview.monster.com/FVP-VP-Relationship-Manager-455-Job-Los-Angeles-CA-US-169296618.aspx,"7200 Rindge Ave, Los Angeles, CA 90293
+",Los Angeles,2,http://jobview.monster.com/FVP-VP-Relationship-Manager-455-Job-Los-Angeles-CA-US-169296618.aspx,"7200 Rindge Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://jobview.monster.com/store-team-leaders-job-nuiqsut-ak-us-168921920.aspx,"7553 Trask Ave, Los Angeles, CA 90293
+",Los Angeles,0,http://jobview.monster.com/store-team-leaders-job-nuiqsut-ak-us-168921920.aspx,"7553 Trask Ave, Los Angeles, CA 90293
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/a2ff14be-e01f-4dfd-bbfa-bea7581b2f95,"7200 Rindge Ave, Los Angeles, CA 90293
+",Los Angeles,2,http://job-openings.monster.com/monster/a2ff14be-e01f-4dfd-bbfa-bea7581b2f95,"7200 Rindge Ave, Los Angeles, CA 90293
 "
 "Loyola Marymount University
-",http://job-openings.monster.com/monster/6549a1fc-9df5-4d93-aec5-ea77077b9e45,"1049 Larker Ave, Los Angeles, CA 90042
+",Los Angeles,1,http://job-openings.monster.com/monster/6549a1fc-9df5-4d93-aec5-ea77077b9e45,"1049 Larker Ave, Los Angeles, CA 90042
 "
 "California State University, Northridge
-",http://job-openings.monster.com/monster/82e6118c-286d-4896-9f9c-b0ac2fea3f08,"1122 10th St, Los Angeles, CA 90403
+",Los Angeles,0,http://job-openings.monster.com/monster/82e6118c-286d-4896-9f9c-b0ac2fea3f08,"1122 10th St, Los Angeles, CA 90403
 "

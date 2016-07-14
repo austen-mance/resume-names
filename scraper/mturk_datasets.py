@@ -7,7 +7,7 @@ import csv
 
 # drop duplicates
 
-df = pd.DataFrame.from_csv('dataset.csv', index_col='original_link')
+df = pd.DataFrame.from_csv('dataset.csv', index_col = 'original_link')
 df.drop_duplicates(subset="link")
 
 #strings to replace numbers with names, colleges, and addresses
@@ -64,24 +64,26 @@ def make_datasets(name_list, type):
 	if type == 'pw':
 		INDEX = 3
 	for name in name_list:
-		name_num = name_list.index(name)
-		name_num_str = str(name_num)
+
+		# first get the appropriate rows for each name
+		name_num_str = str(name_list.index(name))
 		name_subdf = df[df.firstnames.apply(lambda x: x.replace(',','').strip('[').strip(']').split()[INDEX]).isin([name_num_str])]
 
-		# df.firstnames[0].replace(',','').strip('[').strip(']').split()
 		dataset = []
 
-		# first get the appropriate rows
+
 		# then loop over the rows, creating each entry
-		# this part will go inside the loop
-		# INDEX tells you which index to look at for loops
-		# this part still needs to be fully built but is close to being done
+		# INDEX tells you which index to look at for loops based on type
+
 		for index, row in name_subdf.iterrows():
 
 			data_attributes = {}
 			data_attributes['link'] = row.link
 			data_attributes['college'] = colleges[row.city][int(row.colleges.replace(',','').strip('[').strip(']').split()[INDEX])]
 			data_attributes['address'] = addresses[row.city][int(row.addresses.replace(',','').strip('[').strip(']').split()[INDEX])]
+			data_attributes['type'] = row.type
+			data_attributes['type'] = row.city
+			data_attributes['resume'] = int(row.resumes.replace(',','').strip('[').strip(']').split()[INDEX])
 
 			dataset.append(data_attributes)
 		# write the file, and name it
