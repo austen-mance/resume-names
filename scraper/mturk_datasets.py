@@ -87,7 +87,7 @@ def make_datasets(name_list, type):
 		# write the file, and name it
 		# the file goes in the mturk folder
 
-		filename = "mturk/" + "_".join(name.split())
+		filename = "mturk/" + "_".join(name.split()) + '.csv'
 		keys = dataset[0].keys()
 		with open(filename, 'wb') as output_file:
 		    dict_writer = csv.DictWriter(output_file, keys)
