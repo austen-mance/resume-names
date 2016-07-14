@@ -188,14 +188,6 @@ def apply_t2(driver, logfile, app_round):
     logfile.write(str(app_round) + ", ")
     return 1
 
-def click_if_usable(driver, element_tag):
-    '''
-    little helper function that clicks an element if it's visible and exists
-    '''
-    elt = driver.find_elements_by_id(element_tag)
-    if len(elt) != 0 and elt[0].is_displayed() == True:
-        elt[0].click()
-
 def sjw_options(driver):
     '''
     Little module that handles the various SJW options the feds require
@@ -213,9 +205,24 @@ def sjw_options(driver):
 
     genderDropdown = driver.find_elements_by_id("ddlGender")
     if len(genderDropdown) != 0:
-        genderDropdown[0].select_by_value("-1")
+        select_dropdown(driver, "ddlGender", "-1")
 
 
+def click_if_usable(driver, element_tag):
+    '''
+    little helper function that clicks an element if it's visible and exists
+    '''
+    elt = driver.find_elements_by_id(element_tag)
+    if len(elt) != 0 and elt[0].is_displayed() == True:
+        elt[0].click()
+
+def select_dropdown(driver, dropdown_id, option_value):
+    '''
+    helper function for clicking on dropdown menu elements
+    '''
+    dd = driver.find_element_by_id(dropdown_id)
+    xpath = ".//option[@value='{}']".format(option_value)
+    dd.find_element_by_xpath(xpath).click()
 ##############################################################################
 #                       Data Management Functions                            #
 ##############################################################################
