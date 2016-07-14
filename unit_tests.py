@@ -35,14 +35,3 @@ logfile.close()
 
 
 
-import os
-path = os.path.dirname(os.path.realpath(__file__))
-
-adblockfile = os.path.join(path, 'firefox-profile/abp-2.7.3.xpi')
-
-print str(adblockfile)
-
-ffprofile = webdriver.FirefoxProfile()
-ffprofile.add_extension(adblockfile)
-driver = webdriver.Firefox(ffprofile)
-
