@@ -1,0 +1,808 @@
+#######
+JOB URL
+#######
+
+http://jobview.monster.com/v2/job/apply?jobId=167901040
+
+#####################
+TERMINAL ERROR OUTPUT
+#####################
+
+---------------------------------------------------------------------------
+ElementNotVisibleException                Traceback (most recent call last)
+<ipython-input-2-8ab1669892fe> in <module>()
+----> 1 submit_applications("CHI")
+
+/Users/User/Code/resume-names/generator.py in submit_applications(location, app_round, driver_round)
+    403 
+    404                 update_resume(one_application) #update resume
+--> 405                 apply_to_job(driver, one_application, logfile, app_round) #apply
+    406 
+    407                 app_round += 1
+
+/Users/User/Code/resume-names/generator.py in apply_to_job(driver, info, logfile, app_round)
+     81     if len(t1) != 0 and t1[0].is_displayed() == True:
+     82         t1[0].click()
+---> 83         return apply_t1(driver, info, logfile, app_round)
+     84 
+     85     elif len(t2) != 0 and t2[0].is_displayed() == True:
+
+/Users/User/Code/resume-names/generator.py in apply_t1(driver, info, logfile, app_round)
+    108     if len(geo_elt) != 0:
+    109         zipcode = re.sub("[^0-9]", "", info['address'][2])
+--> 110         geo_elt[0].send_keys(zipcode)
+    111         geo_elt[0].submit()
+    112 
+
+/Users/User/anaconda/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.pyc in send_keys(self, *value)
+    320                 value = self._upload(local_file)
+    321 
+--> 322         self._execute(Command.SEND_KEYS_TO_ELEMENT, {'value': keys_to_typing(value)})
+    323 
+    324     # RenderedWebElement Items
+
+/Users/User/anaconda/lib/python2.7/site-packages/selenium/webdriver/remote/webelement.pyc in _execute(self, command, params)
+    455             params = {}
+    456         params['id'] = self._id
+--> 457         return self._parent.execute(command, params)
+    458 
+    459     def find_element(self, by=By.ID, value=None):
+
+/Users/User/anaconda/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.pyc in execute(self, driver_command, params)
+    231         response = self.command_executor.execute(driver_command, params)
+    232         if response:
+--> 233             self.error_handler.check_response(response)
+    234             response['value'] = self._unwrap_value(
+    235                 response.get('value', None))
+
+/Users/User/anaconda/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.pyc in check_response(self, response)
+    192         elif exception_class == UnexpectedAlertPresentException and 'alert' in value:
+    193             raise exception_class(message, screen, stacktrace, value['alert'].get('text'))
+--> 194         raise exception_class(message, screen, stacktrace)
+    195 
+    196     def _value_or_default(self, obj, key, default):
+
+ElementNotVisibleException: Message: Element is not currently visible and so may not be interacted with
+Stacktrace:
+    at fxdriver.preconditions.visible (file:///var/folders/06/bg2cq9fd30vd42nwspv30pbh0000gn/T/tmpRX078r/extensions/fxdriver@googlecode.com/components/command-processor.js:10092)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///var/folders/06/bg2cq9fd30vd42nwspv30pbh0000gn/T/tmpRX078r/extensions/fxdriver@googlecode.com/components/command-processor.js:12644)
+    at DelayedCommand.prototype.executeInternal_/h (file:///var/folders/06/bg2cq9fd30vd42nwspv30pbh0000gn/T/tmpRX078r/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+    at DelayedCommand.prototype.executeInternal_ (file:///var/folders/06/bg2cq9fd30vd42nwspv30pbh0000gn/T/tmpRX078r/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+    at DelayedCommand.prototype.execute/< (file:///var/folders/06/bg2cq9fd30vd42nwspv30pbh0000gn/T/tmpRX078r/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+
+###########
+PAGE SOURCE
+###########
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8"  />
+    <title>
+    
+    Applying for: Mail Clerk at The Pagan Law Firm, P.C.
+
+</title>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <meta name="DCS.release" content="2016.14.0.136" />
+    
+    
+    
+
+    <link href="http://jobview.monster.com/v2/Assets/release/css/main.css" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9.0]><link href="http://jobview.monster.com/v2/Assets/release/css/fallback.css" rel="stylesheet" /><![endif]-->
+    <link href="http://jobview.monster.com/v2/DynamicAssets/CssOverrides?ch=MONS" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="http://media.newjobs.com/favicon.ico" />
+    
+    
+
+    
+    
+     <link rel="canonical" href="http://jobview.monster.com/mail-clerk-job-new-york-city-ny-us-167901040.aspx" />
+
+
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://jobview.monster.com/v2/Assets/release/js/core.js"></script>
+    <script>requirejs.config({ baseUrl: 'http://jobview.monster.com/v2/Assets/release/js' });</script>
+    
+    
+    
+
+<script>
+    var DYNAMIC_S_ACCOUNT = 'newjobsProdSeekerUS';
+    var DYNAMIC_S_CURRENCYCODE = 'USD';
+
+    requirejs.config({
+        paths: {
+            //'amc1': '//media.monster.com/js/sc/sitecatalystLL'
+            'amc1': '//media.newjobs.com/mm/rainbow/coda/ubd/js/siteCatalystLL'
+        }
+    });
+
+    require(['at15'], function(_m) {
+        var isDOMready = function() {
+            return !!{interactive:1,complete:1}[document.readyState];
+        };
+        window._m = _m;
+
+        _m.ATM.properties = {"channel":"58","eVar1":"D=g","prop1":"D=g","eVar4":"256059190","eVar2":"authenticated","eVar62":"1","prop32":"ApplyStart"};
+        _m.ATM.pageName = 'desktop|mons|jobview|/job/apply';
+        _m.ATM.appConfig = { version:'0',appID:'jobview',channelID:'58',countryID:'164' };
+        _m.ATM.runOnLoad=true;
+
+
+        if (typeof window.addMonsterReady === 'function') {
+            // TODO: reconsider addMonsterReady usage
+            window.addMonsterReady(_m.ATM.initFromOnReady);
+        } else if (isDOMready()) {
+            _m.ATM.initFromOnReady();
+        } else {
+            document.onreadystatechange = function() {
+                if (isDOMready()) {
+                    _m.ATM.initFromOnReady();
+                }
+            }
+        }
+
+        require(['adobeTrackingAsync'], function() {
+            require([
+                'amc1'
+            ]);
+        });
+    });
+</script>
+
+
+
+
+    
+
+    
+
+
+    
+    
+    <script type="text/javascript" src="//nexus.ensighten.com/monster/Bootstrap.js"></script>
+
+
+</head>
+<body>
+    
+    
+    <div style="display:none;"></div>
+
+
+    <div class="w-page">
+        
+
+<header class="w-page-header" role="banner">
+    <div class="container">
+        <div id="Logo" class="m-logo" itemscope itemtype="//schema.org/Organization">
+            <a class="link" itemprop="url" href="http://www.monster.com">
+                <span class="newspaper"></span>
+                <div class="brand">
+                    <h1 class="name" itemprop="legalName">Monster</h1>
+                </div>
+            </a>
+        </div>
+        <div class="m-skip-links">
+            <a href="#content">Skip to main content</a>
+        </div>
+    </div>
+</header>
+        
+    
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="content" class="w-page-content" role="main">
+    
+
+
+
+
+<div class=" container">
+    <header class="panel panel-default m-fixed-header  ">
+        <div class="row">
+            <div class="opening col-sm-12">
+                        <h2>Mail Clerk at The Pagan Law Firm, P.C.
+</h2>
+                        <h3>New York City, NY 10022</h3>
+            </div>
+                <div class="action-bar col-sm-3 text-right">
+                        <a href="//jobview.monster.com/mail-clerk-167901040.aspx" class="btn-close hidden-xs">Back to Job Detail</a>
+                </div>
+
+        </div>
+    </header>
+</div>
+
+
+
+
+
+<div id="JobViewContent" class="container w-apply" data-jsux="cloudTracking" data-apiurl="http://logs.jobs.com/" data-remotetracking="/v2/Job/ApplyStartJobCloudTracking" data-param="167901040">
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div id="form-error-message" class="alert alert-danger" style="display: none"><p>Please complete the missing required fields to complete your registration.</p></div>
+
+            <h1 class="heading text-center">Apply now</h1>
+
+<form action="/v2/Job/Apply?jobId=167901040" class="w-apply-form" data-jsux="validate formSubmit" enctype="multipart/form-data" id="applyForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="OWaDHcP0tBKkUBbaDssTL7N1AU7B0gs7oZr8MKNxLzLMqshfe18XUgcEBaeeLYfU0zmSMcLSFszF2T0dbMS51TrUnEUBLFtcvyo18fDp7ot1SPG-xdl3elvUMcc1" /><fieldset id="PersonalInformation" class="show-display">
+    <header class="salutation ">
+            <h2 class="section-header">Dameon Dameon</h2>
+            <p class="subheader subheader-desktop">Your email is a50392tiger@gmail.com. Not&nbsp;<a href="/v2/auth/logout/167901040">Dameon</a>?</p>
+            <p class="subheader subheader-mobile">a50392tiger@gmail.com</p>
+        <a href="#EditPersonalInformation" class="btn-icon icon-after icon-pencil toggle display" data-jsux="toggleClass" data-target="#PersonalInformation" data-prefix="show-" data-value="edit" data-actors=".toggle" title="Edit personal information"><span class="sr-only">Edit personal information</span></a>
+    </header>
+    <div class="m-recap toggle display">
+        <dl class="horizontal-list">
+            <dt>Career level:</dt>
+            <dd>Entry Level</dd>
+            <dt>Education level:</dt>
+            <dd>Certification</dd>
+            <dt>
+Zip code:            </dt>
+            <dd>60626, Rogers Park, IL</dd>
+                    </dl>
+    </div>
+    <div class="m-form-section toggle edit" id="EditPersonalInformation" data-jsux="toggleInputState" data-flag="#isInEditMode">
+        <h2 class="section-header">Personal information</h2>
+        <div class="row">
+                <div class="form-group col-sm-6">
+                    <label for="FirstName" class="control-label">First name</label>
+                    <input class="form-control" data-val="true" data-val-length="Maximum length exceeded
+" data-val-length-max="100" data-val-length-min="1" data-val-required="First name required." id="Pi_FirstName" name="Pi.FirstName" type="text" value="Dameon" />
+                    <span class="field-validation-valid" data-valmsg-for="Pi.FirstName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="form-group col-sm-6">
+                    <label for="LastName" class="control-label">Last name</label>
+                    <input class="form-control" data-val="true" data-val-length="Maximum length exceeded
+" data-val-length-max="100" data-val-length-min="1" data-val-required="Last name required." id="Pi_LastName" name="Pi.LastName" type="text" value="Dameon" />
+                    <span class="field-validation-valid" data-valmsg-for="Pi.LastName" data-valmsg-replace="true"></span>
+                </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-sm-6">
+                <label for="CareerLevelId" class="control-label">Career level</label>
+                <select class="form-control" data-revalidate="programmatically" data-revalidateonchange="true" data-val="true" data-val-number="The field CareerLevelId must be a number." data-val-required="Career level is required" id="Pi_CareerLevelId" name="Pi.CareerLevelId"><option value="">Select career level</option>
+<option value="16">Student (High School)</option>
+<option value="10">Student (Undergraduate/Graduate)</option>
+<option selected="selected" value="11">Entry Level</option>
+<option value="12">Experienced (Non-Manager)</option>
+<option value="13">Manager (Manager/Supervisor of Staff)</option>
+<option value="14">Executive (SVP, VP, Department Head, etc)</option>
+<option value="15">Senior Executive (President, CFO, etc)</option>
+</select>
+                <span class="field-validation-valid" data-valmsg-for="Pi.CareerLevelId" data-valmsg-replace="true"></span>
+            </div>
+            <div class="form-group col-sm-6">
+                <label for="EducationLevelId" class="control-label">Education level</label>
+                <select class="form-control" data-revalidate="programmatically" data-revalidateonchange="true" data-val="true" data-val-number="The field EducationLevelId must be a number." data-val-required="Education level is required" id="Pi_EducationLevelId" name="Pi.EducationLevelId"><option value="">Select education level</option>
+<option value="12">Some High School Coursework</option>
+<option value="1">High School or equivalent</option>
+<option selected="selected" value="2">Certification</option>
+<option value="3">Vocational</option>
+<option value="9">Some College Coursework Completed</option>
+<option value="4">Associate Degree</option>
+<option value="5">Bachelor&#39;s Degree</option>
+<option value="6">Master&#39;s Degree</option>
+<option value="7">Doctorate</option>
+<option value="8">Professional</option>
+</select>
+                <span class="field-validation-valid" data-valmsg-for="Pi.EducationLevelId" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+        <div class="row">
+<input data-disabilitylink="Pi_LastName" data-val="true" data-val-required="Email is required.
+" id="Pi_EmailAddress" name="Pi.EmailAddress" type="hidden" value="a50392tiger@gmail.com" />            <div id="zip-country-section" class="show-zip-section">
+                <div id="EditZip" class="zip-section">
+                    <div class="form-group col-xs-6 col-sm-3">
+                        <span class="fake-control">
+                            Country
+                            <a id="countryLabel" href="#EditCountry" title="Current country"
+                               data-jsux="toggleClass"
+                               data-target="#zip-country-section"
+                               data-prefix="show-"
+                               data-actors=".toggle"
+                               data-value="country-section">US</a>
+                        </span>
+                    </div>
+                </div>
+                <div id="EditCountry" class="country-section">
+                    <div class="form-group col-xs-6 col-sm-3">
+                        <label for="CountryId" class="control-label">Country</label>
+                        <!--this dropdown should be never disabled even when it is not visible-->
+                        <select class="form-control" data-disabilitylink="Pi_UserEnteredGeoName" data-jsux="countryChanges" data-source="#countrySpecificData" data-userenteredgeonameelement="#Pi_UserEnteredGeoName" data-val="true" data-val-number="The field CountryId must be a number." data-val-required="&#39;Country Id&#39; must not be empty." data-zipcodelocationlabel="#ZipCodeLocationLabel" id="Pi_CountryId" name="Pi.CountryId"><option value="">Select country</option>
+<option value="1">Afghanistan</option>
+<option value="2">Albania</option>
+<option value="3">Algeria</option>
+<option value="4">Andorra</option>
+<option value="5">Angola</option>
+<option value="6">Argentina</option>
+<option value="7">Armenia</option>
+<option value="8">Australia</option>
+<option value="9">Austria</option>
+<option value="10">Azerbaijan</option>
+<option value="11">Bahamas</option>
+<option value="12">Bahrain</option>
+<option value="13">Bangladesh</option>
+<option value="14">Barbados</option>
+<option value="15">Belarus</option>
+<option value="16">Belgium</option>
+<option value="17">Belize</option>
+<option value="18">Benin</option>
+<option value="19">Bermuda</option>
+<option value="20">Bhutan</option>
+<option value="21">Bolivia</option>
+<option value="22">Bosnia-Herzegovina</option>
+<option value="23">Botswana</option>
+<option value="24">Brazil</option>
+<option value="25">Bulgaria</option>
+<option value="26">Burkina Faso</option>
+<option value="27">Burundi</option>
+<option value="28">Cambodia</option>
+<option value="29">Cameroon</option>
+<option value="30">Canada</option>
+<option value="31">Cape Verde</option>
+<option value="32">Cayman Islands</option>
+<option value="33">Central African Republic</option>
+<option value="34">Chad</option>
+<option value="35">Chile</option>
+<option value="36">China</option>
+<option value="37">Colombia</option>
+<option value="38">Congo</option>
+<option value="39">Costa Rica</option>
+<option value="40">Croatia</option>
+<option value="41">Cyprus</option>
+<option value="42">Czech Republic</option>
+<option value="43">Denmark</option>
+<option value="44">Djibouti</option>
+<option value="45">Ecuador</option>
+<option value="46">Egypt</option>
+<option value="47">El Salvador</option>
+<option value="48">Equatorial Guinea</option>
+<option value="49">Eritrea</option>
+<option value="50">Estonia</option>
+<option value="51">Ethiopia</option>
+<option value="52">Fiji</option>
+<option value="53">Finland</option>
+<option value="54">France</option>
+<option value="55">France (European Territory)</option>
+<option value="56">Gabon</option>
+<option value="57">Gambia</option>
+<option value="58">Georgia</option>
+<option value="59">Germany</option>
+<option value="60">Ghana</option>
+<option value="61">Greece</option>
+<option value="63">Guinea</option>
+<option value="64">Guinea Bissau</option>
+<option value="65">Guyana</option>
+<option value="66">Honduras</option>
+<option value="67">Hong Kong</option>
+<option value="68">Hungary</option>
+<option value="69">Iceland</option>
+<option value="70">India</option>
+<option value="71">Indonesia</option>
+<option value="72">Iran</option>
+<option value="73">Iraq</option>
+<option value="74">Ireland</option>
+<option value="75">Israel</option>
+<option value="76">Italy</option>
+<option value="77">Ivory Coast</option>
+<option value="78">Japan</option>
+<option value="79">Jordan</option>
+<option value="80">Kazakhstan</option>
+<option value="81">Kenya</option>
+<option value="82">Kuwait</option>
+<option value="83">Kyrgyzstan</option>
+<option value="84">Laos</option>
+<option value="85">Latvia</option>
+<option value="86">Lebanon</option>
+<option value="87">Lesotho</option>
+<option value="88">Liberia</option>
+<option value="89">Libya</option>
+<option value="90">Liechtenstein</option>
+<option value="91">Lithuania</option>
+<option value="92">Luxembourg</option>
+<option value="93">Macedonia</option>
+<option value="94">Madagascar</option>
+<option value="95">Malawi</option>
+<option value="96">Malaysia</option>
+<option value="97">Maldives</option>
+<option value="98">Mali</option>
+<option value="99">Malta</option>
+<option value="100">Mauritania</option>
+<option value="101">Mexico</option>
+<option value="102">Moldavia</option>
+<option value="103">Monaco</option>
+<option value="104">Mongolia</option>
+<option value="105">Morocco</option>
+<option value="106">Mozambique</option>
+<option value="107">Namibia</option>
+<option value="108">Nepal</option>
+<option value="109">Netherlands</option>
+<option value="110">Netherlands Antilles</option>
+<option value="111">New Zealand</option>
+<option value="112">Nicaragua</option>
+<option value="113">Niger</option>
+<option value="114">Nigeria</option>
+<option value="115">North Korea</option>
+<option value="116">Norway</option>
+<option value="117">Oman</option>
+<option value="118">Pakistan</option>
+<option value="119">Panama</option>
+<option value="120">Paraguay</option>
+<option value="121">Peru</option>
+<option value="122">Philippines</option>
+<option value="123">Poland</option>
+<option value="124">Portugal</option>
+<option value="126">Qatar</option>
+<option value="127">Reunion (French)</option>
+<option value="128">Romania</option>
+<option value="129">Russian Federation</option>
+<option value="130">Rwanda</option>
+<option value="131">Saint Tome and Principe</option>
+<option value="132">Samoa</option>
+<option value="133">Saudi Arabia</option>
+<option value="134">Senegal</option>
+<option value="135">Seychelles</option>
+<option value="136">Sierra Leone</option>
+<option value="137">Singapore</option>
+<option value="138">Slovakia</option>
+<option value="139">Slovenia</option>
+<option value="140">Somalia</option>
+<option value="141">South Africa</option>
+<option value="142">South Korea</option>
+<option value="143">Spain</option>
+<option value="144">Sri Lanka</option>
+<option value="145">Sudan</option>
+<option value="146">Suriname</option>
+<option value="147">Swaziland</option>
+<option value="148">Sweden</option>
+<option value="149">Switzerland</option>
+<option value="150">Syria</option>
+<option value="151">Tadjikistan</option>
+<option value="152">Taiwan</option>
+<option value="153">Tanzania</option>
+<option value="154">Thailand</option>
+<option value="155">Togo</option>
+<option value="156">Tunisia</option>
+<option value="157">Turkey</option>
+<option value="158">Turkmenistan</option>
+<option value="159">Uganda</option>
+<option value="160">UK</option>
+<option value="161">Ukraine</option>
+<option value="162">United Arab Emirates</option>
+<option value="163">Uruguay</option>
+<option selected="selected" value="164">US</option>
+<option value="165">Uzbekistan</option>
+<option value="166">Vatican City</option>
+<option value="167">Venezuela</option>
+<option value="168">Vietnam</option>
+<option value="169">Virgin Islands (British)</option>
+<option value="170">Yemen</option>
+<option value="171">Yugoslavia</option>
+<option value="172">Democratic Republic of Congo</option>
+<option value="173">Zambia</option>
+<option value="174">Zimbabwe</option>
+<option value="175">Antigua and Barbuda</option>
+<option value="176">Anguilla</option>
+<option value="177">Antarctica</option>
+<option value="179">Aruba</option>
+<option value="180">Brunei Darussalam</option>
+<option value="181">Bouvet Island</option>
+<option value="182">Cocos (Keeling) Islands</option>
+<option value="183">Cook Islands</option>
+<option value="184">Cuba</option>
+<option value="185">Christmas Island</option>
+<option value="186">Dominica</option>
+<option value="187">Dominican Republic</option>
+<option value="188">Western Sahara</option>
+<option value="189">Falkland Islands</option>
+<option value="190">Micronesia</option>
+<option value="191">Faroe Islands</option>
+<option value="192">Grenada</option>
+<option value="193">French Guyana</option>
+<option value="194">Gibraltar</option>
+<option value="195">Greenland</option>
+<option value="196">Guadeloupe (French)</option>
+<option value="197">S. Georgia &amp; S. Sandwich Islands</option>
+<option value="198">Guatemala</option>
+<option value="199">Heard and McDonald Islands</option>
+<option value="200">Haiti</option>
+<option value="201">British Indian Ocean Territory</option>
+<option value="202">Jamaica</option>
+<option value="203">Kiribati</option>
+<option value="204">Comoros</option>
+<option value="205">Saint Kitts &amp; Nevis Anguilla</option>
+<option value="206">Saint Lucia</option>
+<option value="207">Marshall Islands</option>
+<option value="208">Macau</option>
+<option value="209">Northern Mariana Islands</option>
+<option value="210">Martinique (French)</option>
+<option value="211">Montserrat</option>
+<option value="212">Mauritius</option>
+<option value="213">New Caledonia (French)</option>
+<option value="214">Norfolk Island</option>
+<option value="215">Nauru</option>
+<option value="216">Neutral Zone</option>
+<option value="217">Niue</option>
+<option value="218">Polynesia (French)</option>
+<option value="219">Papua New Guinea</option>
+<option value="220">Saint Pierre and Miquelon</option>
+<option value="221">Pitcairn Island</option>
+<option value="222">Palau</option>
+<option value="223">Solomon Islands</option>
+<option value="224">Saint Helena</option>
+<option value="225">Svalbard and Jan Mayen Islands</option>
+<option value="227">San Marino</option>
+<option value="228">Former USSR</option>
+<option value="229">Turks and Caicos Islands</option>
+<option value="230">French Southern Territories</option>
+<option value="231">Tokelau</option>
+<option value="232">Tonga</option>
+<option value="233">East Timor</option>
+<option value="234">Trinidad and Tobago</option>
+<option value="235">Tuvalu</option>
+<option value="236">USA Minor Outlying Islands</option>
+<option value="237">Saint Vincent &amp; Grenadines</option>
+<option value="238">Virgin Islands (USA)</option>
+<option value="239">Vanuatu</option>
+<option value="240">Wallis and Futuna Islands</option>
+<option value="241">Mayotte</option>
+<option value="242">Myanmar, Union of (Burma)</option>
+<option value="243">American Samoa</option>
+<option value="244">Saint Barth&#233;lemy</option>
+<option value="245">Guam</option>
+<option value="246">Montenegro</option>
+<option value="247">Saint Martin</option>
+<option value="248">Puerto Rico</option>
+<option value="249">Palestinian Territory, Occupied</option>
+<option value="250">Serbia</option>
+<option value="251">East Timor</option>
+</select>
+                        <span class="field-validation-valid" data-valmsg-for="Pi.CountryId" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+                <div class="form-group col-xs-6 col-sm-3">
+                    <input id="countrySpecificData" name="Pi.countrySpecificData" type="hidden" value="{&quot;ZipCodeLabelText&quot;:&quot;Zip code&quot;,&quot;ZipCodeErrorText&quot;:&quot;Zip code required&quot;,&quot;LocationLabelText&quot;:&quot;Location&quot;,&quot;LocationErrorText&quot;:&quot;Location required&quot;,&quot;ZipCodeRequiredCountryIds&quot;:[164,30,54,59,9,16,76,109,143,149,160,42,123,148,101,24]}" />
+                    <label id="ZipCodeLocationLabel" for="ZipCode" class="control-label">
+Zip code                    </label>
+                    <input class="form-control" data-addInfo="#Pi_CountryId" data-jsux="typeahead" data-remote="/v2/TypeAhead/GetLocations" data-target="#refGeoId,#userGeoNameTranslated" data-val="true" data-val-length="Invalid zip code
+" data-val-length-max="100" data-val-length-min="1" data-val-required="Zip code required" id="Pi_UserEnteredGeoName" name="Pi.UserEnteredGeoName" type="text" value="60626, Rogers Park, IL" />
+                    <input data-disabilitylink="Pi_UserEnteredGeoName" id="userGeoNameTranslated" name="Pi.UserEnteredGeoNameTranslated" type="hidden" value="60626, Rogers Park, IL" />
+                    <input data-disabilitylink="Pi_UserEnteredGeoName" data-val="true" data-val-number="The field RefGeoId must be a number." data-val-required="&#39;Ref Geo Id&#39; must not be empty." id="refGeoId" name="Pi.RefGeoId" type="hidden" value="10102503" />
+                    <span class="field-validation-valid" data-valmsg-for="Pi.UserEnteredGeoName" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+        </div>
+            </div>
+    <input data-val="true" data-val-required="&#39;Is In Edit Mode&#39; must not be empty." id="isInEditMode" name="Pi.IsInEditMode" type="hidden" value="True" />
+</fieldset>
+
+
+<fieldset id="Resume" class="show-edit">
+    <div class="m-toggle double-line shrink"  data-jsux="accordion" data-target="#ResumeFields">
+        <h2 class="section-header">Your resume</h2>
+
+        <div class="info" id="SelectedResume" data-jsux="updateSummary">
+                    resume (Added
+ 7/13/2016)
+        </div>
+    </div>
+    <div class="w-resumes collapse " id="ResumeFields" data-alert-template="#AlertPanel">
+        <div class="toggle edit " id="UploadedResumes" data-jsux="fileManager" data-istmpresume="0" data-max="5" data-item-template="#ResumeItem" data-placeholder-template="#ResumePlaceholder" data-resumes="#ResumesWrapper" data-target="#Resume" data-prefix="show-" data-value="edit" data-preview-url="/v2/apply/Download" data-validator="#ResumeValidator" data-message-target="#ResumeFields">
+
+            <div id="ResumesWrapper" class="row">
+                    <div class="col-sm-4" data-id="gupedif7zg3avcst" data-action="file" data-ispublic="false" data-isdiversityactive="false">
+                        <div class="m-resume">
+                                <input type="radio" name="Rs.ResumeValue" id="resumeValue_gupedif7zg3avcst" value="gupedif7zg3avcst" class="sr-only" checked title="resume (Added
+ 7/13/2016)" />
+                            <label for="resumeValue_gupedif7zg3avcst" class="btn btn-tile" data-action="manage" data-type="select"><span class="icon-before"><b title="resume">resume</b><br />Added
+  7/13/2016</span></label>
+                            <div class="context-menu icon-before">
+                                <ul class="overlap">
+                                    <li class="select"><label for="resumeValue_gupedif7zg3avcst" data-action="manage" data-type="select">Select</label></li>
+                                    <li class="preview"><a href="/v2/apply/Download?resumeValue=gupedif7zg3avcst" data-action="manage" data-type="preview" class="icon-after icon-open_in_new">Preview
+ </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4" data-id="j53cmxx77qc6uqy5" data-action="file" data-ispublic="false" data-isdiversityactive="false">
+                        <div class="m-resume">
+                                <input type="radio" name="Rs.ResumeValue" id="resumeValue_j53cmxx77qc6uqy5" value="j53cmxx77qc6uqy5" class="sr-only" title="resume (Added
+ 7/13/2016)" />
+                            <label for="resumeValue_j53cmxx77qc6uqy5" class="btn btn-tile" data-action="manage" data-type="select"><span class="icon-before"><b title="resume">resume</b><br />Added
+  7/13/2016</span></label>
+                            <div class="context-menu icon-before">
+                                <ul class="overlap">
+                                    <li class="select"><label for="resumeValue_j53cmxx77qc6uqy5" data-action="manage" data-type="select">Select</label></li>
+                                    <li class="preview"><a href="/v2/apply/Download?resumeValue=j53cmxx77qc6uqy5" data-action="manage" data-type="preview" class="icon-after icon-open_in_new">Preview
+ </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                <div class="col-sm-4 hide-full">
+                    <div class="m-resume new">
+                        <a href="#AddResume" class="btn btn-tile" data-jsux="toggleClass" data-target="#Resume" data-prefix="show-" data-value="add"><span class="icon-before"><b>Add new Resume </b><br />doc, docx, pdf, rtf, txt </span></a>
+                    </div>
+                </div>
+            </div>
+            <div class="show-full">
+                <p>See My Resumes to manage the resumes.
+</p>
+            </div>
+        </div>
+        <div class="toggle add" id="AddResume" data-jsux="filePicker" data-target="#UploadedResumes" data-fieldset="#Resume" data-form="#applyForm" data-accept=".pdf, .rtf, .txt, .doc, .docx" data-size-limit="524288" data-size-error="File size exceeds the allowable limit.
+">
+            <div class="row">
+                <div class="col-xs-12 col-sm-4 fileinput-only">
+                    <div class="m-resume m-file-input" data-action="file-picker" data-type="browse" data-remote="/v2/apply/Upload" data-remote-fallback="/v2/apply/UploadFallback">
+                        <div class="btn btn-file btn-tile">
+                            <span class="icon-before icon-upload">Choose file<br />(max 500KB) </span>
+                            <input id="Attachments" name="Attachments" type="file" accept=".pdf, .rtf, .txt, .doc, .docx" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="m-resume">
+                        <button id="dropBox" class="btn btn-tile" type="button" data-action="file-picker" data-type="dropbox" data-remote="/v2/apply/DropBoxUpload" data-api-key="snzpbu242yrr287"><span class="icon-before icon-dropbox"><span class="hidden-xs">Upload from </span>Dropbox<br />(max 500KB) </span></button>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="m-resume">
+                        <button id="driveBox" class="btn btn-tile" type="button" data-action="file-picker" data-type="drive" data-remote="/v2/apply/DriveUpload" data-api-key="AIzaSyBupJXTTw4T2IIjo1b4QRQyHQStKv1qxGw" data-client-id="1081595435646-8kicd3thkfr5taf940kcp1u83r722nvj"><span class="icon-before icon-drive"><span class="hidden-xs">Upload from </span>Google Drive<br />(max 500KB) </span></button>
+                    </div>
+                </div>
+            </div>
+            <div class="form-actions hide-empty">
+                <a href="#UploadedResumes" class="btn btn-link" data-jsux="toggleClass" data-target="#Resume" data-prefix="show-" data-value="edit">Select from uploaded files </a>
+            </div>
+        </div>
+        <div class="checkbox">
+            <label>
+                <input data-type="attachment" data-val="true" data-val-required="&#39;Searchable Member&#39; must not be empty." id="Rs_SearchableMember" name="Rs.SearchableMember" type="checkbox" value="true" /><input name="Rs.SearchableMember" type="hidden" value="false" />
+                Make this resume searchable by employers. 
+            </label>
+        </div>
+            <div class="checkbox">
+                <label>
+                    <input data-type="attachment" data-val="true" data-val-required="&#39;Diversity Member&#39; must not be empty." id="Rs_DiversityMember" name="Rs.DiversityMember" type="checkbox" value="true" /><input name="Rs.DiversityMember" type="hidden" value="false" />
+                    Make my resume searchable to employers seeking diversity candidates. 
+                </label>
+            </div>
+    </div>
+
+</fieldset>
+
+<!-- Templates -->
+<script type="text/x-handlebars-template" id="ResumePlaceholder">
+    <div class="col-sm-4">
+        <div class="m-resume loading">
+            <span class="btn btn-tile">Uploading resume</span>
+        </div>
+    </div>
+</script>
+<script type="text/x-handlebars-template" id="ResumeItem">
+    <div class="col-sm-4" data-action="file" data-id="{{rValue}}">
+        <div class="m-resume">
+            <input type="radio" name="Rs.ResumeValue" id="resumeValue_{{rValue}}" value="{{rValue}}" class="sr-only" checked title="{{title}} (Added
+ {{dateTime}})" />
+            <label for="resumeValue_{{rValue}}" class="btn btn-tile" data-action="manage" data-type="select"><span class="icon-before"><b>{{title}}</b><br />Added
+ {{dateTime}}</span></label>
+            <div class="context-menu icon-before">
+                <ul class="overlap">
+                    <li class="select"><label for="resumeValue_{{rValue}}" data-action="manage" data-type="select"> Select</label></li>
+                    <li class="preview"><a href="/v2/apply/Download?resumeValue={{rValue}}" data-action="manage" data-type="preview" class="icon-after icon-open_in_new">Preview </a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/x-handlebars-template" id="AlertPanel">
+    <div class="alert alert-{{type}}" role="alert">
+        *The upload process failed causing an error: {{msg}}
+    </div>
+</script>
+
+<script>
+    require(['at15'], function (_m) {
+        var getResumeVisibilityValue = function () {
+            var isSearchableMember = document.getElementById('Rs_SearchableMember').checked;
+            return "Upload_App_" + (isSearchableMember ? "Public" : "Private");
+        }
+        _m.ATM.registerConfig({ "jQuerySelector": "#UploadedResumes", "o": "o", "eventName": "resume-upload", "attributeName": "", "eventType": "update", "vars": { "events.event23": "1", "eVar42": getResumeVisibilityValue }, "adobeDoneAction": "" });
+    });
+</script>
+<fieldset id="CoverLetter" data-jsux="selectTemplate" data-selector="#CoverLetter_CoverLetterId" data-templates="#CoverLetterTemplates" data-target="#CoverLetter_CoverLetterBody" data-key="CoverLetterId" data-value="CoverLetterBody">
+    <div class="m-toggle shrink" data-jsux="accordion" data-target="#CoverLetterFields">
+        <h2 class="section-header">Add Cover letter (optional)</h2>
+
+        <div class="info" data-jsux="sumaryCoverLetter"></div>
+    </div>
+    <div class="m-form-section collapse" id="CoverLetterFields">
+        <div class="form-group">
+            <label for="CoverLetter_CoverLetterBody" class="control-label sr-only">Cover letter</label>
+            <textarea class="form-control" cols="20" data-jsux="inputCounter" data-revalidate="programmatically" data-target="#CoverLetterCounter" data-val="true" data-val-length="Maximum character limit exceeded; please modify your cover letter." data-val-length-max="5000" id="CoverLetter_CoverLetterBody" maxlength="5000" name="CoverLetter.CoverLetterBody" rows="9">
+</textarea>
+
+            <span class="field-validation-valid" data-valmsg-for="CoverLetter.CoverLetterBody" data-valmsg-replace="true"></span>
+            <p class="help-block">
+                Character Count: <span id="CoverLetterCounter">0</span> (5000 character limit)
+            </p>
+        </div>
+            <div id="CoverLetterAddTemplate">
+                <div class="checkbox" id="TemplateSave">
+                    <label>
+                        <input data-jsux="formToggle" data-target="#TemplateTitle" data-val="true" data-val-required="&#39;Save Cover Letter&#39; must not be empty." id="CoverLetter_SaveCoverLetter" name="CoverLetter.SaveCoverLetter" type="checkbox" value="true" /><input name="CoverLetter.SaveCoverLetter" type="hidden" value="false" />
+                        Save my Cover letter
+                    </label>
+                </div>
+                <div class="form-group hidden-js" id="TemplateTitle">
+                    <label for="CoverLetter_CoverLetterTitle" class="control-label">Cover letter title</label>
+                    <input class="form-control" id="CoverLetter_CoverLetterTitle" name="CoverLetter.CoverLetterTitle" type="text" value="" />
+                    <span class="field-validation-valid" data-valmsg-for="CoverLetter.CoverLetterTitle" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+    </div>
+</fieldset>                <div class="form-actions">
+                    <button type="submit" class="btn btn-xl btn-primary" id="applybtn">Submit</button>
+                </div>
+                <p class="text-center visible-xs-block">
+                    <a href="//jobview.monster.com/mail-clerk-167901040.aspx" class="btn btn-link">Back to Job Detail</a>
+                </p>
+</form>        </div>
+    </div>
+</div>
+
+
+
+
+</div>
+        <footer id="PageFooter" role="contentinfo" class="w-page-footer">
+    <div class="container">
+        <nav class="m-legal-nav m-legal-nav-narrow">
+            <small class="copyright">Copyright © 2016 | Monster Worldwide (NYSE: MWW)</small>
+            <small class="patents">U.S. Patents No. 7,599,930 B1; 7,827,125 and 7,836,060</small>
+            <small> - V: 2016.14.0.136-220 </small>
+        </nav>
+        <nav class="m-legal-nav m-legal-nav-wide">
+            <small>Copyright © 2016 | Monster Worldwide (NYSE: MWW) U.S. Patents No. 7,599,930 B1; 7,827,125 and 7,836,060  - V: 2016.14.0.136-220 </small>
+        </nav>
+    </div>
+</footer>
+    </div>
+    
+    
+
+    <script>
+        require(['jsux', 'polyfills']);
+    </script>
+    
+    
+    <div style="display:none;"></div>
+
+
+    
+    
+
+    
+    
+
+</body>
+</html>
