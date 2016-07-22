@@ -70,20 +70,18 @@ def apply_to_job(driver, info, logfile, app_round):
     '''
     This code takes our information and uses it to submit applications
     '''
-
     driver.get(info['link'])
     time.sleep(random.gauss(2, 0.3))
 
-    t1 = driver.find_elements_by_id("PrimaryJobApply")
-    t2 = driver.find_elements_by_id("ctl01_hlApplyLink")
+    type1 = usable_element(driver, "PrimaryJobApply")
+    type2 = usable_element(driver, "ctl01_hlApplyLink")
 
-
-    if len(t1) != 0 and t1[0].is_displayed() == True:
-        t1[0].click()
+    if type1 != None:
+        type1.click()
         return apply_t1(driver, info, logfile, app_round)
 
-    elif len(t2) != 0 and t2[0].is_displayed() == True:
-        t2[0].click()
+    elif type2 != None:
+        type2.click()
         return apply_t2(driver, logfile, app_round)
 
     else:
@@ -104,37 +102,32 @@ def apply_t1(driver, info, logfile, app_round):
     click_if_usable(driver, "Pi_WorkAuthorizationStatusTrue")
 
 
-    geo_elt = driver.find_elements_by_id("Pi_UserEnteredGeoName")
-    if len(geo_elt) != 0:
+    geo_elt = usable_element(driver, "Pi_UserEnteredGeoName")
+    if geo_elt != None:
         zipcode = re.sub("[^0-9]", "", info['address'][2])
-        geo_elt[0].send_keys(zipcode)
-        geo_elt[0].submit()
+        geo_elt.send_keys(zipcode)
+        geo_elt.submit()
 
-    add_resume_elt = driver.find_elements_by_xpath("//a[@href='#AddResume']")
-    if len(add_resume_elt) != 0 and add_resume_elt[0].is_displayed == True:
-        add_resume_elt[0].click()
+    click_if_usable_by_xpath(driver, "//a[@href='#AddResume']")
 
-    if len(driver.find_elements_by_id("Attachments")) != 0: #base case
-        resumebox = driver.find_element_by_id("Attachments")
+    attachment_elt = usable_element(driver, "Attachments")
+    if attachment_elt != None: #base case
         current_path = get_path()
         current_path = current_path + "/resume.docx"
-        resumebox.send_keys(current_path)
+        attachment_elt.send_keys(current_path)
     else:
         logfile.write(str(app_round) + ", failed: resume upload failed")
         return 0
 
-
     time.sleep(random.gauss(2, 0.25))
 
-    if len(driver.find_elements_by_id("btnSubmit")) != 0:
-        driver.find_element_by_id("btnSubmit").click()
+    submitted = 0
+    submitted += click_if_usable(driver, "btnSubmit")
+    submitted += click_if_usable(driver, "applybtn")
 
-    elif len(driver.find_elements_by_id("applybtn")) != 0:
-        driver.find_element_by_id("applybtn").click()
-    else:
+    if submitted == 0:
         logfile.write(str(app_round) + ", failed: submit btn not found")
         return 0
-
 
     time.sleep(random.gauss(1, 0.6))
     logfile.write(str(app_round) + ", ")
@@ -151,14 +144,15 @@ def apply_t2(driver, logfile, app_round):
 
     if len(driver.find_elements_by_id("uploadedFile")) != 0: #base case
         click_if_usable(driver, "jvUploadTab")
-        resumebox = driver.find_element_by_id("uploadedFile")
-        current_path = get_path()
-        current_path = current_path + "/resume.docx"
-        resumebox.send_keys(current_path)
+        resumebox = usable_element(driver, "uploadedFile")
+        if resumebox != None:
+            current_path = get_path()
+            current_path = current_path + "/resume.docx"
+            resumebox.send_keys(current_path)
 
-        resumeNameBox = driver.find_elements_by_id("nameNewResume")
-        if len(resumeNameBox) != 0:
-            resumeNameBox[0].send_keys("resume")
+        resume_name_box = usable_element(driver, "nameNewResume")
+        if resume_name_box != None:
+            resume_name_box.send_keys("resume")
 
     else:
         logfile.write(str(app_round) + ", failed: resume upload failed")
@@ -169,18 +163,13 @@ def apply_t2(driver, logfile, app_round):
     sjw_options(driver)
 
     click_if_usable(driver, "rbAuthorizedYes0")
+    click_if_usable_by_xpath(driver, "//button[@title='Save Changes']")
 
-    saveButton = driver.find_elements_by_xpath("//button[@title='Save Changes']")
+    submitted = 0
+    submitted += click_if_usable(driver, "btnSubmit")
+    submitted += click_if_usable(driver, "applybtn")
 
-    if len(saveButton) != 0:
-        saveButton[0].click()
-
-    if len(driver.find_elements_by_id("btnSubmit")) != 0:
-        driver.find_element_by_id("btnSubmit").click()
-
-    elif len(driver.find_elements_by_id("applybtn")) != 0:
-        driver.find_element_by_id("applybtn").click()
-    else:
+    if submitted == 0:
         logfile.write(str(app_round) + ", failed: submit btn not found")
         return 0
 
@@ -202,19 +191,46 @@ def sjw_options(driver):
     click_if_usable(driver, "ethnP_8")#t2
     click_if_usable(driver, "ethn_6")#t1
 
-
-    genderDropdown = driver.find_elements_by_id("ddlGender")
-    if len(genderDropdown) != 0:
+    gender_dropdown = usable_element(driver, "ddlGender")
+    if gender_dropdown != None: #if usable
         select_dropdown(driver, "ddlGender", "-1")
 
+##############################################################################
+#                        Selenium Helper Functionsc                           #
+##############################################################################
+
+def usable_element(driver, element_tag):
+    '''
+    returns false if unusable, and the element object (true) if usable
+    '''
+    elt = driver.find_elements_by_id(element_tag)
+    if len(elt) != 0 and elt[0].is_displayed() == True:
+        return elt[0]
+    else:
+        return None
 
 def click_if_usable(driver, element_tag):
     '''
-    little helper function that clicks an element if it's visible and exists
+    little helper function that clicks an element iff it's visible and exists.
+    returns 1 if successful and 0 otherwise.
     '''
     elt = driver.find_elements_by_id(element_tag)
     if len(elt) != 0 and elt[0].is_displayed() == True:
         elt[0].click()
+        return 1
+    else:
+        return 0
+
+def click_if_usable_by_xpath(driver, xpath):
+    '''
+    Same as click_if_usable, but with xpaths
+    '''
+    elt = driver.find_elements_by_xpath(xpath)
+    if len(elt) != 0 and elt[0].is_displayed() == True:
+        elt[0].click()
+        return 1
+    else:
+        return 0
 
 def select_dropdown(driver, dropdown_id, option_value):
     '''
