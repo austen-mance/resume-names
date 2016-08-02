@@ -61,6 +61,7 @@ for url in urls.keys():
 	        jobAttrs = {}
 
 	        jobAttrs['link'] = elt.find("a")['href']
+	        jobAttrs['applied?'] = 0
 	        jobAttrs['title'] = elt.find("div", class_="jobTitle").get_text().encode('ascii', 'ignore')
 	        jobAttrs["company"] = elt.find("div", class_="company").get_text().encode('ascii', 'ignore')
 	        jobAttrs["location"] = elt.find("div", class_="location").get_text().encode('ascii', 'ignore')
